@@ -1,0 +1,10 @@
+
+###TO DO: 
+###				also need to consider how to handle words such as administer
+###					should administrate, administrating administrated etc be included?
+###				go through once adding verb inflections
+###					and once more for nouns
+>administrator: administrators administrative administration administrational antiadministration misadministration preadministration proadministration self-administration subadministration superadministration administratively | administr antiadministr misadministr preadministr proadministr self-administr subadministr superadministr 
+>organizing: organized organic organism organization organizational organizationally antiorganization misorganization nonorganization preorganization suborganization superorganization underorganization organisational organisationally | organ organiz antiorgan misorgan nonorgan preorgan suborgan superorgan underorgan organis 
+>nonresponsibility nonresponsibilities preresponsibility preresponsibilities self-responsibility superresponsibility superresponsibilities | self-respons 
+>speed: speedful speedfully speedfulness speedingly speedingness multispeed outspeed outsped outspeeded outspeeding overspeed oversped overspeeded overspeeding | speed speeding multispe outspe outsp outspeed overspe oversp overspeed 

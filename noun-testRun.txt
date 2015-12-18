@@ -1,0 +1,39 @@
+To Sherlock Holmes she is always THE woman. 
+I have seldom heard him mention her under any other name. 
+In his eyes she eclipses and predominates the whole of her sex. 
+It was not that he felt any emotion akin to love for Irene Adler. 
+All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. 
+He was, I take it, the most perfect reasoning and observing machine that the world has seen, but as a lover he would have placed himself in a false position. 
+He never spoke of the softer passions, save with a gibe and a sneer. 
+They were admirable things for the observer--excellent for drawing the veil from men's motives and actions. 
+But for the trained reasoner to admit such intrusions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt upon all his mental results. 
+Grit in a sensitive instrument, or a crack in one of his own high-power lenses, would not be more disturbing than a strong emotion in a nature such as his. 
+And yet there was but one woman to him, and that woman was the late Irene Adler, of dubious and questionable memory.
+Between us there was, as I have already said somewhere, the bond of the sea. 
+Besides holding our hearts together through long periods of separation, it had the effect of making us tolerant of each other's yarns--and even convictions. 
+The Lawyer--the best of old fellows--had, because of his many years and many virtues, the only cushion on deck, and was lying on the only rug. 
+The Accountant had brought out already a box of dominoes, and was toying architecturally with the bones. 
+Marlow sat cross-legged right aft, leaning against the mizzen-mast. 
+He had sunken cheeks, a yellow complexion, a straight back, an ascetic aspect, and, with his arms dropped, the palms of hands outwards, resembled an idol. 
+The director, satisfied the anchor had good hold, made his way aft and sat down amongst us. 
+We exchanged a few words lazily. 
+Afterwards there was silence on board the yacht. 
+For some reason or other we did not begin that game of dominoes. 
+We felt meditative, and fit for nothing but placid staring. 
+The day was ending in a serenity of still and exquisite brilliance. 
+The water shone pacifically; the sky, without a speck, was a benign immensity of unstained light; the very mist on the Essex marsh was like a gauzy and radiant fabric, hung from the wooded rises inland, and draping the low shores in diaphanous folds. 
+Only the gloom to the west, brooding over the upper reaches, became more sombre every minute, as if angered by the approach of the sun.
+It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way-- in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only. 
+The aim of the present study is to determine the extent to which perceptual similarity is accessible in dynamic large-scale brain activation patterns. 
+We use two methodological advances to build on previous work: firstly, we use a novel stimulus set to decouple perceived similarity from both semantics and lower-level visual features, and secondly, we exploit the fine temporal resolution of MEG to examine the evolving representational geometry across time. 
+To control for low-level features and semantics in the visual stimuli, we constructed visual patterns from arrangements of Gabor patches, which will drive the response of neurons in early visual cortex, and make straightforward predictions for a range of models that can be used to characterize the evoked cortical response to the stimuli. 
+The goal is to build an interpretable classifier from this knowledge (and from a learning set). 
+Then the scores are assumed to be simple parametric functions from the data space to R with the interpretation that a high value of a score indicates that the datum submitted to the score belongs probably to the class that the score has been designed to detect. 
+Let’s consider a concrete example from our main application domain, aircraft engine monitoring (see [7] for details). 
+We aim here at classifying some short time series (around 150 time points, each series having its own specific length) into different classes (normal signal and different types of anomalies corresponding to some non stationarity in the signal). 
+Domain experts have selected a set of statistical tests as scores. 
+For instance, the Mann-Whitney U test can be used to reject the null hypothesis that two populations are identical. 
+It can be applied to a time series by selecting a potential break point in the series tb and a window size w, and by considering the w/2 points before tb as the first population and the w/2 points after tb as the second population. 
+Lecturers are non-tenure track adjunct-faculty members. 
+They say that they are not treated like professionals, even though they teach classes, engage in writing and research, and hold advanced degrees from top universities. 
+Across the University of California system about one-third of all classes are taught by Lecturers, and contingent faculty members teach over half of the UC's undergraduate credit hours in total, if graduate student teachers are included in the equation. 
