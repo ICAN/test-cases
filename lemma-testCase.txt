@@ -10,4 +10,57 @@ Fibrodysplasia ossificans progressiva, sometimes referred to as Stone Man Syndro
 
 Tom Wilson is an explorer. He has been to nearly every country in the world, but the most exciting time he has ever had was when he went to the Congo jungle. A magazine had asked him to retrace the route of a famous explorer who had disappeared in the 1920's. As he was following a small river he got separated from his guides. He went on alone, hoping he would find them, but instead he encountered a group of natives. He stayed with them for several days and found out that a very old woman had actually met the famous explorer. She knew how he had died. Tom became very friendly with the natives and now he is planning to go back and see them again. He is sure they will welcome him back.
 
-4) 
+4) Correlating aluminium toxicity, heterosis and epigenetic mechanisms in maize yield improvement in acid soils - Josphert N. Kimatu Department of Biological Sciences, South Eastern Kenya University, P.O. Box 170-90200, Kitui, Kenya.
+
+ Aluminum ion (Al3+) toxicity is one of the most critical factors that significantly limit crop yields on acid soils in about 50% of the arable land in the world (Kochian, 1995; Wood et al., 2000). The worldwide food insecurity problem caused by aluminium ion toxicity is only exceeded by drought stress in regard to abiotic limitation in crop production (von Uexku¨ll and Mutert, 1995). Aluminum metal (Al) has no effect on plant growth and function although it has been described as the most abundant metal on the earth crust comprising about 7% by mass of the earth’s crust (Delhaize and Ryan, 1995). However, Al becomes soluble in acidic soils of pH less than 4.5 causing root growth and function inhibition, consequently reducing crop yields by about 10% in developing countries (Kinraide and Parker, 1989; Borrero, et al., 1995; Ma et al., 2001).
+ 
+The ionic forms of Al3+ that are capable of crossing the plant membranes have been speculated to be mainly Al3+ and AlOH2+ at pH below 4.5. The two are the products of Al(OH)3 dissociation with the latter being known to be the most phytotoxic (Moore, 1974). The Al3+ toxicity has wide-ranging influences on plant growth and physiology especially at the seedling transition stage between the heterotrophic and autotrophic growth (Mona, 2008).
+ 
+Farmers have tried to battle this phenomenon via application of lime in order to raise the soil pH. This has resulted in ecological imbalance and pollution in farm lands, compelling scientists to venture into breeding crops which are tolerant to Al3+ in the pursuit of improving yield in major crops (Bennetzen and Hake, 2008). Hence, the problem of Al3+ in acid soils in the tropics is particularly complex and critical (Rao et al., 1993). However, intra-specific differences between maize inbred lines in response to Al3+ have provided clues to the understanding of the genetic basis of toxicity tolerance and aids in plant breeding for enhanced Al3+ tolerance (Tice et al., 1992).
+
+5) (2008). Programmed cell death or apoptosis: Do animals and plants share anything in common. Biotechnology and Molecular Biology Reviews, 3(5), 111-126. 
+
+ Plants, animals and several unicellular eukaryotes use programmed cell death (PCD) for defense and developmental mechanisms. While cell death pathways in animals have been well characterized, relatively little is known about the molecular mechanism of such a strategy in plants. Although, very few regulatory proteins or protein domains have been identified as conserved across all eukaryotic PCD forms, still plants and animals share many hallmarks of PCD, both at cellular and molecular levels. Morphological and biochemical features like chromatin condensation, nuclear DNA fragmentation, and participation of caspase like proteases in plant PCD appear to be similar across the eukaryotic kingdom and in conformity with the process in metazoans as well. Transgenic expression of mammalian anti- and pro-apoptotic proteins in plants has been shown to influence the regulatory pathways of cell death activation and suppression, indicating the existence of functional counterparts of such genes in plants, several of which have now been cloned and characterized to various extents. This suggests that despite differences, there may be a fair level of functional similarity between the mechanistic components of plant and animal apoptosis. Although genome scan of Arabidopsis thaliana seems to rule out the existence of major mammalian apoptotic counterparts in plants, the identification of caspase like proteins and other structural homolgs (metacaspases) together with mildly conserved apoptotic players like Bax-1 inhibitor may seemed to suggest some degree of common grounds both in execution and in the regulation of the cell death phenomenon. The overall review of the available data pertaining to mechanism of PCD in plants primarily supports an ancestral relationship with animal apoptosis rather than any common executional or regulational strategies. The establishment of mechanistic details of the phenomenon in plants is certain to throw up many surprises to necessitate a fresh review of this intriguing phenomenon. Metacaspases and Paracaspases having been ruled out to possess caspase activity is the beginning for this surprise to unfold. 
+
+6) HMS Warrior - Wiki
+
+HMS Warrior was the name ship of her class of two 40-gun steam-powered armoured frigates[Note 1] built for the Royal Navy in 1859–61. She and her sister ship HMS Black Prince were the first armour-plated, iron-hulled warships, and were built in response to France's launching in 1859 of the first ocean-going ironclad warship, the wooden-hulled Gloire. Warrior conducted a publicity tour of Great Britain in 1863 and spent her active career with the Channel Squadron. She became obsolescent following the 1871 launching of the mastless and more capable HMS Devastation, was placed in reserve in 1875, and was "paid off" – that is, decommissioned – in 1883.
+
+She subsequently served as a storeship and depot ship, and in 1904 was assigned to the Royal Navy's torpedo training school. The ship was converted into an oil jetty in 1927 and remained in that role until 1979, at which point she was donated by the Navy to the Maritime Trust for restoration. The restoration process took eight years, during which many of her features and fittings were either restored or recreated. When this was finished she returned to Portsmouth as a museum ship. Listed as part of the National Historic Fleet, Warrior has been based in Portsmouth since 1987.
+
+7) Sleep isn’t needed to create long term memories - just time out - NewsScientist
+
+Need to remember something important? Take a break. A proper one – no TV or flicking through your phone messages. It seems that resting in a quiet room for 10 minutes without stimulation can boost our ability to remember new information.
+
+The effect is particularly strong in people with amnesia, suggesting that they may not have lost the ability to form new memories after all.
+
+“A lot of people think the brain is a muscle that needs to be continually stimulated, but perhaps that’s not the best way,” says Michaela Dewar at Heriot-Watt University in Edinburgh, UK.
+
+New memories are fragile. They need to be consolidated before being committed to long-term storage, a process thought to happen while we sleep. But at least some consolidation may occur while we’re awake, says Dewar – all you need is a timeout.
+
+In 2012, Dewar’s team showed that having a rest helps a person to remember what they were told a few minutes earlier. And the effect seems to last. People who had a 10-minute rest after hearing a story remembered 10 per cent more of it a week later than those who played a spot-the-difference game immediately afterwards.
+
+“We dim the lights and ask them to sit in an empty, quiet room, with no mobile phones,” says Dewar. When asked what they had been thinking about afterwards, most volunteers said they had let their minds wander.
+
+Now Dewar, along with Michael Craig at the University of Edinburgh and their colleagues, have found that spatial memories can also be consolidated when we rest.
+
+Volunteers who rested after exploring a virtual-reality environment were 10 per cent more accurate at orientating themselves in relation to virtual landmarks than those who played a game of spot the difference afterwards.
+
+8) Google just revealed what its next version of Google Glass will look like, and it's aimed at business workers - BusinessInsider
+
+The Google Glass project was one of the most hyped devices that died an early death when Google opted not to turn it into a consumer device.
+
+But its successor, Google Glass Enterprise Edition, a project now run by Nest founder Tony Fadell, is alive and well and apparently getting ready to be officially announced.
+
+So we gather from new photos of the device that Google just sent to the FCC, as first spied by Stephen Hall at 9to5Google. 
+
+Fadell took over Glass earlier this year. He's a hardware veteran who hails from Apple and joined Google when it bought his smart thermostat company Nest for hundreds of millions in 2014.
+
+While the device doesn't look very different from the previous Explorer versions, one big new thing is you'll now be able to fold Google Glass. It also better hardware, Hall reports, with an Intel Atom processor, better battery life, better WiFi, and improved heat management. There's also a rumored external battery pack that will magnetically attach to Glasses.
+
+Google has lined up a bunch of developers to write special Glass for Work software apps for it, for areas like healthcare, training, manufacturing. 
+
+Google hasn't yet revealed what it plans to charge for them, but generally speaking, it can charge more to enterprises which will use them for business purposes than it can for a consumer gadget. Explorer, if you recall, cost $1500.
+
+But Fadell told Bloomberg's Emily Chang last month that a consumer version will be back. "They're not just going to be for corporations or industries or medical or what have you. It's also going to be for consumers," he said.
+

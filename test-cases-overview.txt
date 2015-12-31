@@ -2,18 +2,18 @@
 //Material is pulled from Wikipedia, Freebase, Project-Gutenberg, News articles
 
 POS Test Cases
-	noun-test.txt -- literature, literature, literature, academic, academic, news
-	adj-test.txt -- HeartOfDarkness-literature, Youth-IsaacAsimov-literature, news, news, Language-academic
+	noun-test.txt -- genfiction, genfiction, genfiction, academic, academic, news
+	adj-test.txt -- HeartOfDarkness-genfiction, Youth-IsaacAsimov-genfiction, news, news, Language-academic
 	verb-test.txt -- redo this one
 
 NER Test Case
-	ner-testCase.txt -- news, news, Brazil-Wiki, Tlaltecuhtli-Wiki, NeutronStar-Wiki, NEED-literature, NEED-academic, NEED-academic
+	ner-testCase.txt -- leukemia-news, TransPacificPartnership-news, Brazil-Wiki, Tlaltecuhtli-Wiki, NeutronStar-Wiki, NEED-genfiction, NEED-academic, NEED-academic
 
 Stem Test Case
 	stem-testCase-11-24-15.txt -- 100 words, 10 - 20 inflected forms each
 
 Lemmatize Test Case
-	lemma-testcase.txt -- SleepyHollow-RipVanWinkle-literature, Fribrodysplasia-Wiki, 10TextsToReviseMixedTenses-LauraLabanti-literature, NEED-academic, NEED-academic, NEED-Wiki
+	lemma-testCase.txt --  SleepyHollow-RipVanWinkle-genfiction, Fribrodysplasia-Wiki, 10TextsToReviseMixedTenses-LauraLabanti-genfiction, CorrelatingAlluminiumToxicity-JosephKimatu-academic, ProgrammedCellDeath-DeptBioTechUnivKashmir-academic, HMSWarrior-Wiki, SleepLongTermMem-news, GoogleGlass-news
 
 Sentence Split Test Case
 
@@ -25,5 +25,7 @@ NLTK
 Stanford CoreNLP
 
 sPacy
+
+Apache OpenNLP
 
 //RESULTS
