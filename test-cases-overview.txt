@@ -1,13 +1,16 @@
 //TEST CASE OVERVIEW
 //Material is pulled from Wikipedia, Freebase, Project-Gutenberg, News articles
+//For NER Test Case I added DATE NER tags, although some classifiers in 
+//	prepackaged frameworks may not have the functionality
 
 POS Test Cases
 	noun-test.txt -- genfiction, genfiction, genfiction, academic, academic, news
 	adj-test.txt -- HeartOfDarkness-genfiction, Youth-IsaacAsimov-genfiction, news, news, Language-academic
 	verb-test.txt -- redo this one
 
+//OUTDATED 
 NER Test Case
-	ner-testCase.txt -- leukemia-news, TransPacificPartnership-news, Brazil-Wiki, Tlaltecuhtli-Wiki, NeutronStar-Wiki, NEED-genfiction, NEED-academic, NEED-academic
+	ner-testCase.txt -- leukemia-news, TransPacificPartnership-news, Brazil-Wiki, Tlaltecuhtli-Wiki, NeutronStar-Wiki, DryFarming-Widtsoe-genfiction, MorphologyHistologyPalmWeevil-academic, KingArthur-ThomasMalory-genfiction
 
 Stem Test Case
 	stem-testCase-11-24-15.txt -- 100 words, 10 - 20 inflected forms each
