@@ -8,10 +8,9 @@ POS Test Cases
 	adj-test.txt -- HeartOfDarkness-genfiction, Youth-IsaacAsimov-genfiction, news, news, Language-academic
 	verb-test.txt -- redo this one
 
-//OUTDATED 
-NER Test Case
-	ner-testCase.txt -- leukemia-news, TransPacificPartnership-news, Brazil-Wiki, Tlaltecuhtli-Wiki, NeutronStar-Wiki, DryFarming-Widtsoe-genfiction, MorphologyHistologyPalmWeevil-academic, KingArthur-ThomasMalory-genfiction
-
+NER Test Case - Add MISC tags to insect names in MorphologyHistologyPalmWeevil?
+NORP - Nationality, ORG - Organization, LOC - Location, GPE - Geo-political entity, DATE - Date, PERSON - Person
+	ner-testCase.txt -- 1) WealthyChallenges-CNN-news, 2) T-MobileSlow-Wired-news, 3) Brazil-Wiki, 4) Tlaltecuhtli-Wiki, 5) NeutronStar-Wiki, 6) DryFarming-Widtsoe-genfiction, 7) MorphologyHistologyPalmWeevil-academic, 8) KingArthur-ThomasMalory-genfiction, 9) SyrianCivilWar-Wiki, 10) AtomTwoSpots-NewsScientist-news 
 Stem Test Case
 	stem-testCase-11-24-15.txt -- 100 words, 10 - 20 inflected forms each
 
