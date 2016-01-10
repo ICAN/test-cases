@@ -8,7 +8,7 @@ POS Test Cases
 	adj-test.txt -- HeartOfDarkness-genfiction, Youth-IsaacAsimov-genfiction, news, news, Language-academic
 	verb-test.txt -- redo this one
 
-NER Test Case - Add MISC tags to insect names in MorphologyHistologyPalmWeevil?
+NER Test Case 
 NORP - Nationality, ORG - Organization, LOC - Location, GPE - Geo-political entity, DATE - Date, PERSON - Person
 	ner-testCase.txt -- 1) WealthyChallenges-CNN-news, 2) T-MobileSlow-Wired-news, 3) Brazil-Wiki, 4) Tlaltecuhtli-Wiki, 5) NeutronStar-Wiki, 6) DryFarming-Widtsoe-genfiction, 7) MorphologyHistologyPalmWeevil-academic, 8) KingArthur-ThomasMalory-genfiction, 9) SyrianCivilWar-Wiki, 10) AtomTwoSpots-NewsScientist-news 
 Stem Test Case
