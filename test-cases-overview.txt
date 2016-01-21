@@ -3,10 +3,10 @@
 //For NER Test Case I added DATE NER tags, although some classifiers in 
 //	prepackaged frameworks may not have the functionality
 
-POS Test Cases - working on adj-test, noun needs expanded, verb needs to be redone with better spread of genres
-	noun-test.txt -- genfiction, genfiction, genfiction, academic, academic, news
-	adj-test.txt -- HeartOfDarkness-genfiction, Youth-IsaacAsimov-genfiction, RiskManagementApproachCapitalAllocation-MaumeDeschampsRulliereSaid-academic, SantaCruzLecturers-AlexDrocy-news, LogicalInferenceDNA-RayMandal-academic
-	verb-test.txt -- redo this one
+POS Test Cases - adj-test needs peer review, noun needs expanded, verb needs to be redone with better spread of genres
+	noun-test.txt -- ShelockHolmes-ArthurConanDoyle-genfiction, genfiction, genfiction, academic, academic, news
+	adj-test.txt -- HeartOfDarkness-genfiction: 73/ADJ 25/ADV, Youth-IsaacAsimov-genfiction: 41/ADJ 31/ADV, RiskManagementApproachCapitalAllocation-MaumeDeschampsRulliereSaid-academic: 50/ADJ 9/ADV, SantaCruzLecturers-AlexDrocy-news: 26/ADJ 17/ADV, LogicalInferenceDNA-RayMandal-academic: 40/ADJ 12/ADV
+	verb-test.txt -- WarAndPeace-LeoTolstoy-genfiction, StarWars-Wiki, OriginRedCross-HenriDunant-genfiction, 
 
 NER Test Case - waiting for peer review
 NORP - Nationality, ORG - Organization, LOC - Location, GPE - Geo-political entity, DATE - Date, PERSON - Person
