@@ -4,19 +4,33 @@
 //	prepackaged frameworks may not have the functionality
 
 POS Test Cases - adj-test needs peer review, noun needs expanded, verb needs to be redone with better spread of genres
-	noun-test.txt -- ShelockHolmes-ArthurConanDoyle-genfiction, genfiction, genfiction, http://arxiv.org/ftp/arxiv/papers/1506/1506.02208.pdf academic, http://arxiv.org/pdf/1506.04177.pdf academic, news
-	adj-test.txt -- HeartOfDarkness-genfiction: 73/ADJ 25/ADV, Youth-IsaacAsimov-genfiction: 41/ADJ 31/ADV, RiskManagementApproachCapitalAllocation-MaumeDeschampsRulliereSaid-academic: 50/ADJ 9/ADV, SantaCruzLecturers-AlexDrocy-news: 26/ADJ 17/ADV, LogicalInferenceDNA-RayMandal-academic: 40/ADJ 12/ADV
-	verb-test.txt -- WarAndPeace-LeoTolstoy-genfiction, StarWars-Wiki, OriginRedCross-HenriDunant-genfiction, 
 
-NER Test Case - waiting for peer review
+	**noun-test.txt -- :: (listed below site endeds at the "**")
+	NOTE<<can't read POS tags?  here this will help :  http://paula.petcu.tm.ro/init/default/post/opennlp-part-of-speech-tags
+	1//ShelockHolmes-ArthurConanDoyle-genfiction/  http://www.publicbookshelf.com/mystery/sherlock-holmes/scandal-bohemia
+	   5/PRP,3/PRP$,17/NOUN==25
+	2//genfiction/  http://www.sparknotes.com/nofear/lit/heart-of-darkness/part-1/
+	   2/PRP,5/NNP,5/NNS,13/NN==25
+	3//genfiction/  https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities
+	   1/NNS,3/NNP,4/PRP,17/NN==25
+	4//academic/  http://arxiv.org/ftp/arxiv/papers/1506/1506.02208.pdf 
+	   6/NNS,2/NNP,17/NN==25
+    5//academic/ http://arxiv.org/pdf/1506.04177.pdf
+	   3/NNP,1/PRP$,4/NNS,16/NN
+	6//news/ https://www.indybay.org/newsitems/2015/06/04/18773153.php
+	    5/NNS,6/NNP, 3/PRP, 16/NN==25            
+	**adj-test.txt -- HeartOfDarkness-genfiction: 73/ADJ 25/ADV, Youth-IsaacAsimov-genfiction: 41/ADJ 31/ADV, RiskManagementApproachCapitalAllocation-MaumeDeschampsRulliereSaid-academic: 50/ADJ 9/ADV, SantaCruzLecturers-AlexDrocy-news: 26/ADJ 17/ADV, LogicalInferenceDNA-RayMandal-academic: 40/ADJ 12/ADV
+	**verb-test.txt -- WarAndPeace-LeoTolstoy-genfiction, StarWars-Wiki, OriginRedCross-HenriDunant-genfiction, 
+
+	NER Test Case - waiting for peer review
 NORP - Nationality, ORG - Organization, LOC - Location, GPE - Geo-political entity, DATE - Date, PERSON - Person
-	ner-testCase.txt -- 1) WealthyChallenges-CNN-news, 2) T-MobileSlow-Wired-news, 3) Brazil-Wiki, 4) Tlaltecuhtli-Wiki, 5) NeutronStar-Wiki, 6) DryFarming-Widtsoe-genfiction, 7) MorphologyHistologyPalmWeevil-academic, 8) KingArthur-ThomasMalory-genfiction, 9) SyrianCivilWar-Wiki, 10) AtomTwoSpots-NewsScientist-news 
+	**ner-testCase.txt -- 1) WealthyChallenges-CNN-news, 2) T-MobileSlow-Wired-news, 3) Brazil-Wiki, 4) Tlaltecuhtli-Wiki, 5) NeutronStar-Wiki, 6) DryFarming-Widtsoe-genfiction, 7) MorphologyHistologyPalmWeevil-academic, 8) KingArthur-ThomasMalory-genfiction, 9) SyrianCivilWar-Wiki, 10) AtomTwoSpots-NewsScientist-news 
 
 Stem Test Case
-	stem-testCase-11-24-15.txt -- 100 words, 10 - 20 inflected forms each
+	**stem-testCase-11-24-15.txt -- 100 words, 10 - 20 inflected forms each
 
 Lemmatize Test Case
-	lemma-testCase.txt --  SleepyHollow-RipVanWinkle-genfiction, Fribrodysplasia-Wiki, 10TextsToReviseMixedTenses-LauraLabanti-genfiction, CorrelatingAlluminiumToxicity-JosephKimatu-academic, ProgrammedCellDeath-DeptBioTechUnivKashmir-academic, HMSWarrior-Wiki, SleepLongTermMem-news, GoogleGlass-news
+	**lemma-testCase.txt --  SleepyHollow-RipVanWinkle-genfiction, Fribrodysplasia-Wiki, 10TextsToReviseMixedTenses-LauraLabanti-genfiction, CorrelatingAlluminiumToxicity-JosephKimatu-academic, ProgrammedCellDeath-DeptBioTechUnivKashmir-academic, HMSWarrior-Wiki, SleepLongTermMem-news, GoogleGlass-news
 
 Sentence Split Test Case
 
