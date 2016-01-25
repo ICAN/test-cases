@@ -16,7 +16,7 @@ POS Test Cases - adj-test needs peer review, noun needs expanded, verb needs to 
 	4//academic/  http://arxiv.org/ftp/arxiv/papers/1506/1506.02208.pdf 
 	   6/NNS,2/NNP,17/NN==25
     5//academic/ http://arxiv.org/pdf/1506.04177.pdf
-	   3/NNP,1/PRP$,4/NNS,16/NN
+	   3/NNP,1/PRP$,4/NNS,16/NN==25
 	6//news/ https://www.indybay.org/newsitems/2015/06/04/18773153.php
 	    5/NNS,6/NNP, 3/PRP, 16/NN==25            
 	**adj-test.txt -- HeartOfDarkness-genfiction: 73/ADJ 25/ADV, Youth-IsaacAsimov-genfiction: 41/ADJ 31/ADV, RiskManagementApproachCapitalAllocation-MaumeDeschampsRulliereSaid-academic: 50/ADJ 9/ADV, SantaCruzLecturers-AlexDrocy-news: 26/ADJ 17/ADV, LogicalInferenceDNA-RayMandal-academic: 40/ADJ 12/ADV
