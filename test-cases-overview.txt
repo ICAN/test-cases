@@ -15,15 +15,15 @@ POS Test Cases - adj-test needs peer review, noun needs expanded, verb needs to 
 	   1/NNS,3/NNP,4/PRP,17/NN==25
 	4//academic/  http://arxiv.org/ftp/arxiv/papers/1506/1506.02208.pdf 
 	   6/NNS,2/NNP,17/NN==25
-    5//academic/ http://arxiv.org/pdf/1506.04177.pdf
+  5//academic/ http://arxiv.org/pdf/1506.04177.pdf
 	   3/NNP,1/PRP$,4/NNS,16/NN
 	6//news/ https://www.indybay.org/newsitems/2015/06/04/18773153.php
 	    5/NNS,6/NNP, 3/PRP, 16/NN==25            
-	**adj-test.txt -- HeartOfDarkness-genfiction: 73/ADJ 25/ADV, Youth-IsaacAsimov-genfiction: 41/ADJ 31/ADV, RiskManagementApproachCapitalAllocation-MaumeDeschampsRulliereSaid-academic: 50/ADJ 9/ADV, SantaCruzLecturers-AlexDrocy-news: 26/ADJ 17/ADV, LogicalInferenceDNA-RayMandal-academic: 40/ADJ 12/ADV
-	**verb-test.txt -- WarAndPeace-LeoTolstoy-genfiction, StarWars-Wiki, OriginRedCross-HenriDunant-genfiction, 
+	**adj-test.txt -- 1// HeartOfDarkness-genfiction: 73/ADJ 25/ADV, 2// Youth-IsaacAsimov-genfiction: 41/ADJ 31/ADV, 3// RiskManagementApproachCapitalAllocation-MaumeDeschampsRulliereSaid-academic: 50/ADJ 9/ADV, 4// SantaCruzLecturers-AlexDrocy-news: 26/ADJ 17/ADV, 5// LogicalInferenceDNA-RayMandal-academic: 40/ADJ 12/ADV
+	**verb-test.txt -- 1// WarAndPeace-LeoTolstoy-genfiction, 2// StarWars-Wiki, 3// OriginRedCross-HenriDunant-genfiction, 4// NutrientRegulatedPhosphorylation-PuenteHendricksonJiang-academic 
 
-	NER Test Case - waiting for peer review
-NORP - Nationality, ORG - Organization, LOC - Location, GPE - Geo-political entity, DATE - Date, PERSON - Person
+NER Test Case - waiting for peer review
+	NORP - Nationality, ORG - Organization, LOC - Location, GPE - Geo-political entity, DATE - Date, PERSON - Person
 	**ner-testCase.txt -- 1) WealthyChallenges-CNN-news, 2) T-MobileSlow-Wired-news, 3) Brazil-Wiki, 4) Tlaltecuhtli-Wiki, 5) NeutronStar-Wiki, 6) DryFarming-Widtsoe-genfiction, 7) MorphologyHistologyPalmWeevil-academic, 8) KingArthur-ThomasMalory-genfiction, 9) SyrianCivilWar-Wiki, 10) AtomTwoSpots-NewsScientist-news 
 
 Stem Test Case
