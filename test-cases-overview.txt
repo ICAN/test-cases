@@ -7,22 +7,25 @@ POS Test Cases - adj-test needs peer review, noun needs expanded, verb needs to 
 
 	**noun-test.txt -- :: (listed below site endeds at the "**")
 	NOTE<<can't read POS tags?  here this will help :  http://paula.petcu.tm.ro/init/default/post/opennlp-part-of-speech-tags
-	1//ShelockHolmes-ArthurConanDoyle-genfiction/  http://www.publicbookshelf.com/mystery/sherlock-holmes/scandal-bohemia
-	   5/PRP,3/PRP$,17/NOUN==25
-	2//genfiction/  http://www.sparknotes.com/nofear/lit/heart-of-darkness/part-1/
-	   2/PRP,5/NNP,5/NNS,13/NN==25
-	3//genfiction/  https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities
-	   1/NNS,3/NNP,4/PRP,17/NN==25
-	4//academic/  http://arxiv.org/ftp/arxiv/papers/1506/1506.02208.pdf 
-	   6/NNS,2/NNP,17/NN==25
-<<<<<<< HEAD
-  5//academic/ http://arxiv.org/pdf/1506.04177.pdf
-	   3/NNP,1/PRP$,4/NNS,16/NN
->>>>>>> c2a6d4c2b88d83b76b953227c23900e9cc14e85e
-	6//news/ https://www.indybay.org/newsitems/2015/06/04/18773153.php
-	    5/NNS,6/NNP, 3/PRP, 16/NN==25            
-	**adj-test.txt -- 1// HeartOfDarkness-genfiction: 73/ADJ 25/ADV, 2// Youth-IsaacAsimov-genfiction: 41/ADJ 31/ADV, 3// RiskManagementApproachCapitalAllocation-MaumeDeschampsRulliereSaid-academic: 50/ADJ 9/ADV, 4// SantaCruzLecturers-AlexDrocy-news: 26/ADJ 17/ADV, 5// LogicalInferenceDNA-RayMandal-academic: 40/ADJ 12/ADV
-	**verb-test.txt -- 1// WarAndPeace-LeoTolstoy-genfiction, 2// StarWars-Wiki, 3// OriginRedCross-HenriDunant-genfiction, 4// NutrientRegulatedPhosphorylation-PuenteHendricksonJiang-academic 
+		1//genfiction/ShelockHolmes-ArthurConanDoyle: 5/PRP,3/PRP$,17/NOUN==25
+		2//genfiction/HeartOfDarkness-JosephConrad: 2/PRP,5/NNP,5/NNS,13/NN==25
+		3//genfiction/TaleOfTwoCities-CharlesDickens: 1/NNS,3/NNP,4/PRP,17/NN==25
+		4//academic/PerceptualVisualPatternsPredictNeuralPatterns/http://arxiv.org/ftp/arxiv/papers/1506/1506.02208.pdf: 6/NNS,2/NNP,17/NN==25
+		5//academic/SearchStrategiesBinaryFeatureSelection/http://arxiv.org/pdf/1506.04177.pdf: 3/NNP,1/PRP$,4/NNS,16/NN
+		6//news/LecturersEndOfContract/https://www.indybay.org/newsitems/2015/06/04/18773153.php: 5/NNS,6/NNP, 3/PRP, 16/NN==25            
+	**adj-test.txt -- 
+		1// HeartOfDarkness-genfiction: 73/ADJ 25/ADV 
+		2// Youth-IsaacAsimov-genfiction: 41/ADJ 31/ADV 
+		3// RiskManagementApproachCapitalAllocation-MaumeDeschampsRulliereSaid-academic: 50/ADJ 9/ADV 
+		4// SantaCruzLecturers-AlexDrocy-news: 26/ADJ 17/ADV 
+		5// LogicalInferenceDNA-RayMandal-academic: 40/ADJ 12/ADV
+	**verb-test.txt -- 
+		1// WarAndPeace-LeoTolstoy-genfiction: 62/VERB
+		2// 100thMammothSkyscraper-CNN-news: 56/VERB 
+		3// OriginRedCross-HenriDunant-genfiction: 66/VERB
+		4// NutrientRegulatedPhosphorylation-PuenteHendricksonJiang-academic: 44/VERB
+		5// JamesLongacre-Wiki: 32/VERB
+		6// PathsOfPossession-Wiki: 43/VERB
 
 NER Test Case - waiting for peer review
 	NORP - Nationality, ORG - Organization, LOC - Location, GPE - Geo-political entity, DATE - Date, PERSON - Person
