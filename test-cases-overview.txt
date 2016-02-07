@@ -12,13 +12,17 @@ POS Test Cases - adj-test needs peer review, noun needs expanded, verb needs to 
 		3//genfiction/TaleOfTwoCities-CharlesDickens: 1/NNS,3/NNP,4/PRP,17/NN==25
 		4//academic/PerceptualVisualPatternsPredictNeuralPatterns/http://arxiv.org/ftp/arxiv/papers/1506/1506.02208.pdf: 6/NNS,2/NNP,17/NN==25
 		5//academic/SearchStrategiesBinaryFeatureSelection/http://arxiv.org/pdf/1506.04177.pdf: 3/NNP,1/PRP$,4/NNS,16/NN
-		6//news/LecturersEndOfContract/https://www.indybay.org/newsitems/2015/06/04/18773153.php: 5/NNS,6/NNP, 3/PRP, 16/NN==25            
+		6//news/LecturersEndOfContract/https://www.indybay.org/newsitems/2015/06/04/18773153.php: 5/NNS,6/NNP, 3/PRP, 16/NN==25     
+		8//twitter steve martin / https://twitter.com/SteveMartinToGo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor  5/NNP, 3/PRP$, 1/NNS,16/NN==25
+		9//twitter donald trump/ https://twitter.com/realDonaldTrump?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor     7/NNP, 2/PRP$,3/PRP, 2/NNS,13/NN==25
 	**adj-test.txt -- 
 		1// HeartOfDarkness-genfiction: 73/ADJ 25/ADV 
 		2// Youth-IsaacAsimov-genfiction: 41/ADJ 31/ADV 
 		3// RiskManagementApproachCapitalAllocation-MaumeDeschampsRulliereSaid-academic: 50/ADJ 9/ADV 
 		4// SantaCruzLecturers-AlexDrocy-news: 26/ADJ 17/ADV 
 		5// LogicalInferenceDNA-RayMandal-academic: 40/ADJ 12/ADV
+		6//twitter https://twitter.com/hashtag/uaamazing   1/JJR,1/JJS,23/JJ==25
+		7//twitter https://twitter.com/ConanOBrien   1/JJR,24/JJ==25
 	**verb-test.txt -- 
 		1// WarAndPeace-LeoTolstoy-genfiction: 62/VERB
 		2// 100thMammothSkyscraper-CNN-news: 56/VERB 
@@ -26,6 +30,18 @@ POS Test Cases - adj-test needs peer review, noun needs expanded, verb needs to 
 		4// NutrientRegulatedPhosphorylation-PuenteHendricksonJiang-academic: 44/VERB
 		5// JamesLongacre-Wiki: 32/VERB
 		6// PathsOfPossession-Wiki: 43/VERB
+		7//twitter the tweet of God   https://twitter.com/thetweetofgod 7/VBG,7/VBP,3/VBZ,3/VBD,3/VB,2/VBN =25
+		8//twitter Stephen Colbert   https://twitter.com/stephenathome  3/VBG,9/VBP,6/VBZ,0/VBD,7/VB,0/VBN =25
+	**adverb-test.txt --
+	    1//academic/     Feminist Physics Education: Deconstructed Physics and Students' Multiple Subjectivities       17/RB  6/RBR  2/RBS==25    http://search.proquest.com/docview/1682036654?pq-origsite=summon&accountid=14473
+		2//academic/       Spinoza's Physics                                                                          24/RB  0/RBR  1/RBS==25       http://search.proquest.com/docview/1018065483?pq-origsite=summon&accountid=14473
+		3/news/           he Daily 202: Trump may benefit from emphasis on terrorism in tonight’s CNN debate             21/RB  1/RBR 3 /RBS==25    https://www.washingtonpost.com/news/powerpost/wp/2015/12/15/the-daily-202-trump-may-benefit-from-emphasis-on-terrorism-in-tonights-cnn-debate/
+		4//news/         Women And The Generational Divide Between Hillary Clinton, Bernie Sanders                       28/RB  7/RBR  0/RBS==25     http://www.npr.org/2016/02/01/465144857/women-and-the-generational-divide-between-hillary-clinton-bernie-sanders
+		5//genfiction/   Memoirs Of A Geisha                                                                              22/RB  2/RBR  1/RBS==25    http://www.kkoworld.com/kitablar/Artur_Qolden_Qeyshanin_xatireleri_eng.pdf
+		6//genfiction/  Fight CLub                                                                                      24/RB 1/RBR  0/RBS==25        https://newsfromthefront.files.wordpress.com/2012/03/chuck-palahniuk-fight-club.pdf
+		7//twitter/ KANYE WESTVerified account @kanyewest                                                              24/RB  0/RBR  1/RBS==25        https://twitter.com/kanyewest
+		8/twitter/  Philip DeFrancoVerified account @PhillyD                                                          25/RB  0/RBR  0/RBS==25         https://twitter.com/PhillyD?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+		 
 
 NER Test Case - waiting for peer review
 	NORP - Nationality, ORG - Organization, LOC - Location, GPE - Geo-political entity, DATE - Date, PERSON - Person
