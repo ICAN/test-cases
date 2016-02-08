@@ -2,7 +2,7 @@
 
 Believe it or not, there are challenges to growing up wealthy - CNN 1/8/2016
 
-<DOCUMENT 1, ANNOTATED>
+<DOCUMENT 1 ANNOTATED>
 
 Most people had probably never heard the term “1)affluenza/MISC“ until 2) Ethan Couch/PERSON’s legal team used it as a defense in his trial for driving drunk and killing four people in 3) Texas/GPE. And, judging by the robust online conversations, most think the claim that 4) Couch/PERSON was so spoiled by his parents that he didn't grow up with boundaries and realize the consequences of his actions was a ridiculous argument for why he shouldn't be held accountable for his crimes.
 
@@ -228,9 +228,7 @@ But it’s 46) Legere/PERSON who’s playing a semantic game here. 47) Legere/PE
 
 
 
-<DOCUMENT 2 NO ANNOTATIONS>--------------------------------------------------------------------------------------------------
-
-
+<DOCUMENT 2 NO ANNOTATIONS>
 
 Though T-Mobile still wants to play games with words, the company has admitted it’s slowing down streams as part of its unlimited video service.
 
@@ -280,7 +278,7 @@ Brazil's economy is the world's ninth-largest by nominal GDP and seventh-largest
 
 
 
-<DOCUMENT 4 TITLE>-------------------------------------------------------------------------------------------------------
+<DOCUMENT 4 TITLE>
 
 4) Tlaltecuhtli - Wikipedia
 
