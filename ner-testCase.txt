@@ -294,8 +294,6 @@ According to 44) Alfonso Caso/PERSON, in the 45) Bodley Codex/MISC he was born i
 
 <DOCUMENT 4 NO ANNOTATIONS>
 
-Recently a monolith of the deity was unearthed in 54) Mexico City/GPE.[7]
-
 Tlaltecuhtli [t͡ɬaɬteˈkʷt͡ɬi] is a pre-Columbian Mesoamerican deity, identified from sculpture and iconography dating to the Late Postclassic period of Mesoamerican chronology (ca. 1200–1519), primarily among the Mexica (Aztec) and other Nahuatl-speaking cultures. Tlaltecuhtli is also known from several post-conquest manuscripts that surveyed Mexica mythology and belief systems, such as the Histoyre du méchique compiled in the mid-16th century.[1]
 
 According to Alfonso Caso[2] There were four earth gods - Tlaltecuhti who was male and three earth goddesses - Coatlique, Cihuacoatl and Tlazolteotl. In one of the Mexica creation accounts Tlaltecuhtli is described as a sea monster who dwelled in the ocean after the fourth Great Flood, an embodiment of the raging chaos before creation.[3] Quetzalcoatl and Tezcatlipoca, in the form of serpents, tore him in half, throwing half upwards to create the sky and stars and leaving the other half to become the land of the earth. He remained alive, however, and demanded human blood.
@@ -304,7 +302,6 @@ Although the deity's name is masculine in Nahuatl, some modern scholars, notably
 
 According to Alfonso Caso, in the Bodley Codex he was born in a flaming tree Caso. p. 25-26: I-III who is "Sun Ornament", but later his child is called Tlaltecutli (Earth Lord.) He became an Earth Lord when according to Miller and Taube, he was torn apart and his parts were taken to Earth.
 
-Recently a monolith of the deity was unearthed in Mexico City.[7]
 
 <DOCUMENT 5 TITLE>-----------------------------------------------------------------------------------------------------------------
 
@@ -388,7 +385,7 @@ This classification emphasizes the great variation in distribution of rainfall o
 
 <DOCUMENT 7 TITLE>----------------------------------------------------------------------------------------
 
-7Morphology and histology of the alimentary tract of adult palm weevil, Rhynchophorus phoenicis Fabricius (Coleoptera: Curculionidae) - Omotoso Olumuyiwa Temitope
+Morphology and histology of the alimentary tract of adult palm weevil, Rhynchophorus phoenicis Fabricius (Coleoptera: Curculionidae) - Omotoso Olumuyiwa Temitope
 
 <DOCUMENT 7 ANNOTATED>
 
@@ -437,7 +434,13 @@ International organizations have accused the 45) Syrian/MISC government, 46) ISI
 
 <DOCUMENT 9 NO ANNOTATIONS>
 
-missing!
+The Syrian Civil War Arabic: الحرب الأهلية السورية‎) is an ongoing multisided armed conflict with international interventions[96] taking place in Syria. The unrest began in the early spring of 2011 within the context of Arab Spring protests, with nationwide protests against President Bashar al-Assad’s government, whose forces responded with crackdowns. The conflict gradually morphed from mass protests to an armed rebellion after months of military sieges.[97] A United Nations report released in December, 2012, stated that the conflict had "become overtly sectarian in nature",[98][99] between mostly Alawite government forces, militias and other Shia groups[100] fighting primarily against Sunni-dominated rebel groups;[101] however both opposition and government forces denied that.[102][103]
+
+Initially, the Syrian government primarily relied on its armed forces, but since 2014 local protection units made up of volunteers known as National Defence Force have come to play a larger role, gradually becoming the primary military force of the Syrian state. From the early stages, the Syrian government received technical, financial, military and political support from Russia, Iran and Iraq. In 2013, Iran-backed Hezbollah entered the war in support of the Syrian Army.[104][105] Due to foreign involvement, the conflict had been called a proxy war between the regional powers.[106][107] In September 2015, Russia, Iraq, Iran and Syria set up a joint operation room (information centre) in Baghdad to coordinate their activity in Syria. On 30 September 2015, Russia started its own air campaign on the side and at the request of the government of Syria. The resultant proxy war between the U.S. and Russia[108][109][110][111] led some commentators to characterise the situation as a "a proto-world war with nearly a dozen countries embroiled in two overlapping conflicts".[112]
+
+In July 2013, the Syrian/MISC government was said to be in control of approximately 30–40% of the country's territory and 60% of the Syrian population;[113] in August 2015, the territory fully controlled by the Syrian Army was reported to have shrunk to 29,797 km2, roughly 16% of the country.[114] The Syrian government enjoys high levels of support in certain areas under its control; according to a poll organised by British ORB International, up to 73% of the population in government-controlled areas support the government effort.[115]
+
+International organizations have accused the Syrian government, ISIL and other opposition forces of severe human rights violations, with multiple massacres occurring.[116][117][118][119][120] The conflict caused a considerable displacement of population. The US, the EU big four, Russia, China and several countries from the middle east (including Turkey, Egypt, Saudi Arabia and, for the first time, Iran) have started peace talks in Vienna that are aimed at bringing an end to the conflict.
 
 <DOCUMENT 10 TITLE>
 
