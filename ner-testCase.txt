@@ -1,6 +1,10 @@
-1) Believe it or not, there are challenges to growing up wealthy - CNN 1/8/2016
+<DOCUMENT 1 TITLE>
 
-Most people had probably never heard the term “1) affluenza/MISC“ until 2) Ethan Couch/PERSON’s legal team used it as a defense in his trial for driving drunk and killing four people in 3) Texas/GPE. And, judging by the robust online conversations, most think the claim that 4) Couch/PERSON was so spoiled by his parents that he didn't grow up with boundaries and realize the consequences of his actions was a ridiculous argument for why he shouldn't be held accountable for his crimes.
+Believe it or not, there are challenges to growing up wealthy - CNN 1/8/2016
+
+<DOCUMENT 1 ANNOTATED>
+
+Most people had probably never heard the term “1)affluenza/MISC“ until 2) Ethan Couch/PERSON’s legal team used it as a defense in his trial for driving drunk and killing four people in 3) Texas/GPE. And, judging by the robust online conversations, most think the claim that 4) Couch/PERSON was so spoiled by his parents that he didn't grow up with boundaries and realize the consequences of his actions was a ridiculous argument for why he shouldn't be held accountable for his crimes.
 
 5) Couch/PERSON’s decision to head to 6) Mexico/GPE, a violation of his 10-year probation sentence, accompanied by his mother has only heightened the criticism of him and his upbringing.
 
@@ -95,6 +99,8 @@ Is it OK to let your children fail?
 And, just as one of the biggest challenges for parents in the inner city is making sure their kids are not out after dark, in unsafe places and hanging out with people who are already in trouble, parents in affluence -- upper middle class households and above -- have to insulate their kids from the risks that are especially potent in their subculture, she said.
 
 "It's not easy. It's perplexing. It's bewildering, this business of being a 'good enough' parent," said 63) Luthar/PERSON. "And to think that just because we are highly-educated or well-read, we have the right answers, that we know the best thing to do and can follow through in doing it, is so very misguided."
+
+<DOCUMENT 1 NO ANNOTATIONS>
 
 Most people had probably never heard the term "affluenza" until Ethan Couch's legal team used it as a defense in his trial for driving drunk and killing four people in Texas. And, judging by the robust online conversations, most think the claim that Couch was so spoiled by his parents that he didn't grow up with boundaries and realize the consequences of his actions was a ridiculous argument for why he shouldn't be held accountable for his crimes.
 
@@ -192,7 +198,11 @@ And, just as one of the biggest challenges for parents in the inner city is maki
 
 "It's not easy. It's perplexing. It's bewildering, this business of being a 'good enough' parent," said Luthar. "And to think that just because we are highly-educated or well-read, we have the right answers, that we know the best thing to do and can follow through in doing it, is so very misguided."
 
-2) T-Mobile confirms it slows connections to video sites -  Wired 1/7/2016
+<DOCUMENT 2 TITLE>
+
+T-Mobile confirms it slows connections to video sites -  Wired 1/7/2016
+
+<DOCUMENT 2 ANNOTATED>
 
 Though 1) T-Mobile/ORGANIZATION still wants to play games with words, the company has admitted it’s slowing down streams as part of its unlimited video service.
 
@@ -216,6 +226,10 @@ During both the Q&A session and blog post and video published today, 44) Legere/
 
 But it’s 46) Legere/PERSON who’s playing a semantic game here. 47) Legere/PERSON is arguing that because users can deactivate 48) Binge On/PRODUCT, it doesn’t count as throttling. But in order to make an informed decision, customers to have accurate information about what they’re opting into. What it appears 49) T-Mobile/ORGANIZATION is doing is offering customers data cap exemptions for some sites in exchange for downgrading connections for all video. Many customers may indeed want such a service. But customers should be told what’s actually happening, not fed misleading mumbo jumbo about optimizing bitstreams.
 
+
+
+<DOCUMENT 2 NO ANNOTATIONS>
+
 Though T-Mobile still wants to play games with words, the company has admitted it’s slowing down streams as part of its unlimited video service.
 
 T-Mobile customers who activate the company’s controversial Binge On video service will experience downgraded internet connection speeds when viewing videos on YouTube or other sites that don’t take part in Binge On, a T-Mobile spokesperson confirmed today. They’ll also experience slower speeds when trying to download video files for offline use from websites that do not participate in Binge On, at least until the customer deactivates the service.
@@ -238,7 +252,11 @@ During both the Q&A session and blog post and video published today, Legere insi
 
 But it’s Legere who’s playing a semantic game here. Legere is arguing that because users can deactivate Binge On, it doesn’t count as throttling. But in order to make an informed decision, customers to have accurate information about what they’re opting into. What it appears T-Mobile is doing is offering customers data cap exemptions for some sites in exchange for downgrading connections for all video. Many customers may indeed want such a service. But customers should be told what’s actually happening, not fed misleading mumbo jumbo about optimizing bitstreams.
 
-3) Brazil - Wikipedia
+<DOCUMENT 3 TITLE>------------------------------------------------------------------------------------------------
+
+ Brazil - Wikipedia
+
+<DOCUMENT 3 ANNOTATED>--------------------------------------------------------------------------------------------
 
 1) Brazil/GPE (Listeni/brəˈzɪl/; 2) Portuguese/NORP: Brasil [bɾaˈziw] [9]), officially the 3) Federative Republic of Brazil/GPE ( 4) Portuguese/LANGUAGE: 5) República Federativa do Brasil/GPE, About this sound listen (help·info) [10]), is the largest country in both 6) South America/LOCATION and the 7) Latin American/NORP region. It is the world's fifth-largest country, both by geographical area and by population.[11] It is the largest 8) Portuguese/LANGUAGE-speaking country in the world, and the only one in the 9) Americas/LOCATION.[12]
 
@@ -248,6 +266,8 @@ Bounded by the 10) Atlantic Ocean/LOCATION on the east, 11) Brazil/GPE has a coa
 
 44) Brazil/GPE’s economy is the world's ninth-largest by nominal GDP and seventh-largest by GDP (PPP) as of 45) 2015/DATE.[16][17] A member of the 46) BRICS/ORGANIZATION group, 47) Brazil/GPE until 48) 2010/DATE had one of the world's fastest growing major economies, with its economic reforms giving the country new international recognition and influence.[18] 49) Brazil/GPE’s national development bank plays an important role for the country's economic growth.[19] 50) Brazil/GPE is a founding member of the 51) United Nations/ORGANIZATION, the 52) G20/ORGANIZATION, 53) BRICS/ORGANIZATION, 54) Unasul/ORGANIZATION, 55) Mercosul/ORGANIZATION, 56) Organization of American States/ORGANIZATIN, 57) Organization of Ibero-American States/ORGANIZATION, 58) CPLP/ORGANIZATION and the 59) Latin Union/ORGANIZATION. 60) Brazil/GPE is a regional power in 61) Latin America/LOCATION and a middle power in international affairs,[20] with some analysts identifying it as an emerging global power.[21] One of the world's major breadbaskets, 62) Brazil/GPE has been the largest producer of coffee for the last 150 years.[22]
 
+<DOCUMENT 3 NO ANNOTATIONS>
+
 Brazil (Listeni/brəˈzɪl/; Portuguese: Brasil [bɾaˈziw] [9]), officially the Federative Republic of Brazil (Portuguese: República Federativa do Brasil, About this sound listen (help·info) [10]), is the largest country in both South America and the Latin American region. It is the world's fifth-largest country, both by geographical area and by population.[11] It is the largest Portuguese-speaking country in the world, and the only one in the Americas.[12]
 
 Bounded by the Atlantic Ocean on the east, Brazil has a coastline of 7,491 km (4,655 mi).[13] It borders all other South American countries except Ecuador and Chile and occupies 47.3 percent of the continent of South America.[14] Its Amazon River basin includes a vast tropical forest, home to diverse wildlife, a variety of ecological systems, and extensive natural resources spanning numerous protected habitats.[13] This unique environmental heritage makes Brazil one of 17 megadiverse countries, and is the subject of significant global interest and debate regarding deforestation and environmental protection.
@@ -256,7 +276,13 @@ Brazil was inhabited by numerous tribal nations prior to the landing in 1500 of 
 
 Brazil's economy is the world's ninth-largest by nominal GDP and seventh-largest by GDP (PPP) as of 2015.[16][17] A member of the BRICS group, Brazil until 2010 had one of the world's fastest growing major economies, with its economic reforms giving the country new international recognition and influence.[18] Brazil's national development bank plays an important role for the country's economic growth.[19] Brazil is a founding member of the United Nations, the G20, BRICS, Unasul, Mercosul, Organization of American States, Organization of Ibero-American States, CPLP and the Latin Union. Brazil is a regional power in Latin America and a middle power in international affairs,[20] with some analysts identifying it as an emerging global power.[21] One of the world's major breadbaskets, Brazil has been the largest producer of coffee for the last 150 years.[22]
 
+
+
+<DOCUMENT 4 TITLE>
+
 4) Tlaltecuhtli - Wikipedia
+
+<DOCUMENT 4 ANNOTATED>
 
 1) Tlaltecuhtli/PERSON [t͡ɬaɬteˈkʷt͡ɬi] is a 2) pre-Columbian/NORP 3) Mesoamerican/NORP deity, identified from sculpture and iconography dating to the 4) Late Postclassic period/DATE of 5) Mesoamerican/NORP chronology (ca. 6) 1200–1519/DATE), primarily among the 7) Mexica/NORP ( 8)Aztec/NORP) and other 9) Nahuatl/LANGUAGE-speaking cultures. 10) Tlaltecuhtli/PERSON is also known from several post-conquest manuscripts that surveyed 11) Mexica/NORP mythology and belief systems, such as the 12) Histoyre du méchique/MISC compiled in the 13) mid-16th century/DATE.[1]
 
@@ -265,6 +291,8 @@ According to 14) Alfonso Caso/PERSON[2] There were four earth gods - 15) Tlaltec
 Although the deity's name is masculine in 25) Nahuatl/LANGUAGE, some modern scholars, notably 26) Miller/PERSON and 27) Taube/PERSON interpret some representations of 28) Tlaltecuhtli/PERSON as exhibiting female characteristics, particularly his typical pose which they interpret as the characteristic position of a woman giving birth.[4] According to 29) Miller/PERSON and 30) Taube/PERSON p. 167: “ 31) Tlaltecuhtli/PERSON literally means "earth Lord," but most 32) Aztec/NORP representations clearly depict this creature as female, and despite the male gender of the name, some sources call 33) Tlaltecuhtli/PERSON a goddess. Usually in a hocker, or birth-giving squat, with head flung backwards and her mouth of flint blades open..." 34) Miller/PERSON and 35) Taube/PERSON provide an extensive bibliography but use no footnotes so it's impossible to know what sources identify 36) Tlaltecuhtli/PERSON as a female figure. They identify their main source for 37) Aztec/NORP mythology as the 38) Florentine codex/MISC however 39) Book 1/MISC of the codex, 40) the Gods/MISC, does not include this god.[5] Since 41) Miller/PERSON and 42) Taube/PERSON does not refer to primary or secondary sources, one must consider the fact that their identification of 43) Tlaltecuhtli/PERSON as female is their interpretation of the iconography. Other scholars think that this pose is him crouching under the earth, mouth open, waiting to devour the dead.[6]
 
 According to 44) Alfonso Caso/PERSON, in the 45) Bodley Codex/MISC he was born in a flaming tree 46) Caso/PERSON. p. 25-26: I-III who is “47) Sun Ornament/MISC”, but later his child is called 48) Tlaltecutli/PERSON ( 49) Earth Lord/PERSON.) He became an 50) Earth Lord/PERSON when according to 51) Miller/PERSON and 52) Taube/PERSON, he was torn apart and his parts were taken to 53) Earth/LOCATION.
+
+<DOCUMENT 4 NO ANNOTATIONS>
 
 Recently a monolith of the deity was unearthed in 54) Mexico City/GPE.[7]
 
@@ -278,7 +306,11 @@ According to Alfonso Caso, in the Bodley Codex he was born in a flaming tree Cas
 
 Recently a monolith of the deity was unearthed in Mexico City.[7]
 
+<DOCUMENT 5 TITLE>-----------------------------------------------------------------------------------------------------------------
+
 5) Neutron Star - Wikipedia
+
+<DOCUMENT 5 ANNOTATED>
 
 In 1) 1965/DATE, 2) Antony Hewish/PERSON and 3) Samuel Okoye/PERSON discovered "an unusual source of high radio brightness temperature in the 4) Crab Nebula/MISC“.[26] This source turned out to be the 5) Crab Pulsar/MISC that resulted from the great supernova of 6) 1054/DATE.
 
@@ -300,6 +332,8 @@ In 50) 2010/DATE, 51) Paul Demorest/PERSON and colleagues measured the mass of t
 
 In 55) 2013/DATE, 56) John Antoniadis/PERSON and colleagues measured the mass of 57) PSR J0348+0432/MISC to be 2.01±0.04 M, using white dwarf spectroscopy.[29] This confirmed the existence of such massive stars using a different method. Furthermore, this allowed, for the first time, a test of 58) general relativity/MISC using such a massive neutron star.
 
+<DOCUMENT 5 NO ANNOTATIONS>
+
 In 1965, Antony Hewish and Samuel Okoye discovered "an unusual source of high radio brightness temperature in the Crab Nebula".[26] This source turned out to be the Crab Pulsar that resulted from the great supernova of 1054.
 
 In 1967, Iosif Shklovsky examined the X-ray and optical observations of Scorpius X-1 and correctly concluded that the radiation comes from a neutron star at the stage of accretion.[27]
@@ -320,7 +354,11 @@ In 2010, Paul Demorest and colleagues measured the mass of the millisecond pulsa
 
 In 2013, John Antoniadis and colleagues measured the mass of PSR J0348+0432 to be 2.01±0.04 M☉, using white dwarf spectroscopy.[29] This confirmed the existence of such massive stars using a different method. Furthermore, this allowed, for the first time, a test of general relativity using such a massive neutron star.
 
-6) Dry-Farming : A System of Agriculture for Countries under a Low Rainfall by Widtsoe
+<DOCUMENT 6 TITLE>
+
+Dry-Farming : A System of Agriculture for Countries under a Low Rainfall by Widtsoe
+
+<DOCUMENT 6 ANNOTATED>
 
 _"The 1) Pacific Type/MISC.—_This type is found in all of the territory west of the 2) Cascade/LOCATION and 3) Sierra Nevada/LOCATION ranges, and also obtains in a fringe of country to the eastward of the mountain summits. The distinguishing characteristic of the 4) Pacific type/MISC is a wet season, extending from 5) October/DATE to 6) March/DATE, and a practically rainless summer, except in northern 7) California/GPE and parts of 8) Oregon/GPE and 9) Washington/GPE. About half of the yearly precipitation comes in the months of 10) December/DATE, 11) January/DATE, and 12) February/DATE, the remaining half being distributed throughout the seven months— 13) September/DATE, 14) October/DATE, 15) November/DATE, 16) March/DATE, 17) April/DATE, 18) May/DATE, and 19) June/DATE.”
 
@@ -334,6 +372,8 @@ _"The 43) Plains Type/MISC.—_This type embraces the greater part of the 44) Da
 
 This classification emphasizes the great variation in distribution of rainfall over the dry-farm territory of the country. West of the 52) Rocky Mountains/LOCATION the precipitation comes chiefly in winter and spring, leaving the summers rainless; while east of the 53) Rockies/LOCATION, the winters are somewhat rainless and the precipitation comes chiefly in spring and summer. The 54) Arizona type/MISC stands midway between these types. This variation in the distribution of the rainfall requires that different methods be employed in storing and conserving the rainfall for crop production. The adaptation of cultural methods to the seasonal distribution of rainfall will be discussed hereafter.
 
+<DOCUMENT 6 NO ANNOTATIONS>
+
 _"The Pacific Type.—_This type is found in all of the territory west of the Cascade and Sierra Nevada ranges, and also obtains in a fringe of country to the eastward of the mountain summits. The distinguishing characteristic of the Pacific type is a wet season, extending from October to March, and a practically rainless summer, except in northern California and parts of Oregon and Washington About half of the yearly precipitation comes in the months of December January and February the remaining half being distributed throughout the seven months— September October November March April May and June.”
 
 _” Sub-Pacific Type.—_The term ’ Sub-Pacific’ has been given to that type of rainfall which obtains over eastern Washington, Nevada and Utah. The influences that control the precipitation of this region are much similar to those that prevail west of the Sierra Nevada and Cascade ranges. There is not, however, as in the eastern type, a steady diminution in the precipitation with the approach of spring, but rather a culmination in the precipitation."
@@ -346,17 +386,26 @@ _"The Plains Type.—_This type embraces the greater part of the Dakotas, Nebras
 
 This classification emphasizes the great variation in distribution of rainfall over the dry-farm territory of the country. West of the Rocky Mountains the precipitation comes chiefly in winter and spring, leaving the summers rainless; while east of the Rockies, the winters are somewhat rainless and the precipitation comes chiefly in spring and summer. The Arizona type stands midway between these types. This variation in the distribution of the rainfall requires that different methods be employed in storing and conserving the rainfall for crop production. The adaptation of cultural methods to the seasonal distribution of rainfall will be discussed hereafter.
 
-7) Morphology and histology of the alimentary tract of adult palm weevil, Rhynchophorus phoenicis Fabricius (Coleoptera: Curculionidae) - Omotoso Olumuyiwa Temitope
+<DOCUMENT 7 TITLE>----------------------------------------------------------------------------------------
+
+7Morphology and histology of the alimentary tract of adult palm weevil, Rhynchophorus phoenicis Fabricius (Coleoptera: Curculionidae) - Omotoso Olumuyiwa Temitope
+
+<DOCUMENT 7 ANNOTATED>
 
 The alimentary tract of 1) palm weevil/ANIMAL consisted structurally of three distinct regions from the mouth to the anus. The gut consisted of the foregut, midgut and hindgut. 2) Berridge/PERSON ( 3) 1970/DATE) reported that the foregut and the hindgut of insects had cuticle and that they were  of ectodermal origin while the midgut, which had no cuticular intima, was developed from the endoderm. The foregut of insect begins at the base of the mandible and maxillary and extends to the oesophagus and proventriculus ( 4) Tsai/PERSON and 5) Perrier/PERSON 6) 1996/DATE; 7) Lee/PERSON et al., 8) 1998/DATE). The arrangement of the oesophagus of 9) palm weevil/ANIMAL was the same as those reported for oriental 10) fruit fly/ANIMAL by 11) Chun-Nu/PERSON et al. ( 12) 2000/PERSON). The larva had a big crop where it stores all its food. 13) Yoloye/PERSON ( 14) 1988/DATE) and 15) Adedire/PERSON ( 16) 2002/DATE) reported similar occurrences in the alimentary tract of 17) cockroach/ANIMAL, 18) Periplaneta americana/ANIMAL and 19) kolanut weevil/ANIMAL, 20) Sophrorhinus insperatus/ANIMAL respectively. 21) Backus/PERSON ( 22) 1985/DATE) had described the ciberial and the oesophageal regions of the mouthparts of several 23) leafhoppers/MISC.  
 The function of the oesophagus of the insect is to pass food downwards to the midgut while the crop serves as a storage depot for ingested food ( 24) Wigglesworth/PERSON, 25) 1965/DATE). The oesophageal glands secrete mucous which lubricates food and makes swallowing easy. The oesophagus and the crop of 26) palm weevil/ANIMAL must have contained strong elastic muscles which  allows peristaltic movement of the food in the oesophegus and makes the distention of the crop possible. 27) Lee/PERSON et al. ( 28) 1998/DATE) reported similar observation in the foregut of 29) Bactrocera  dorsalis/ANIMAL. The oesophagus of the insect was made up of stratified squamous epithelium. 30) Smith/PERSON ( 31) 1968/DATE) reported that there may be little or no absorption of nutrients into the haemolymph across the crop wall of insects. The proventriculus plays a very prominent role  (grinding) during food digestion in 32) palm weevil/ANIMAL. The proventriculus is muscularly built in this insect to withstand the pressure associated with the mechanical grinding of food in the chamber. 33) Chapman/PERSON ( 34) 1985/DATE) reported that proventriculus was absent in 35) fluid feeders/MISC. 
 The  architecture of the midgut of this insect was the same as those reported for other insects ( 36) Gartner/PERSON, 37) 1985/DATE; 38) Adedire/PERSON, 39) 2002/DATE). The midgut was the region for both digestion of food and absorption of nutrients. The epithetlium was responsible for both the production of many digestive enzymes and the uptake and transfer of nutrients to the haemolymph ( 40) Wigglosworth/PERSON, 41) 1965/DATE; 42) Billen/PERSON and 43) Buschinger/PERSON, 44) 2000/DATE). 45) Adedire/PERSON ( 46) 2002/DATE) reported that the larva of 47) S. insperatus/ANIMAL eats more food because it uses more energy for eclosion and the periodic moulting of its cuticle.  
 
+<DOCUMENT 7 NO ANNOTATIONS>
+
 The alimentary tract of palm weevil consisted structurally of three distinct regions from the mouth to the anus. The gut consisted of the foregut, midgut and hindgut. Berridge (1970) reported that the foregut and the hindgut of insects had cuticle and that they were  of ectodermal origin while the midgut, which had no cuticular intima, was developed from the endoderm. The foregut of insect begins at the base of the mandible and maxillary and extends to the oesophagus and proventriculus (Tsai and Perrier 1996; Lee et al., 1998). The arrangement of the oesophagus of palm weevil was the same as those reported for oriental fruit fly by Chun-Nu et al. (2000). The larva had a big crop where it stores all its food. Yoloye (1988) and Adedire (2002) reported similar occurrences in the alimentary tract of cockroach, Periplaneta americana and kolanut weevil, Sophrorhinus insperatus respectively. Backus (1985) had described the ciberial and the oesophageal regions of the mouthparts of several leafhoppers.  
 The function of the oesophagus of the insect is to pass food downwards to the midgut while the crop serves as a storage depot for ingested food (Wigglesworth, 1965). The oesophageal glands secrete mucous which lubricates food and makes swallowing easy. The oesophagus and the crop of palm weevil must have contained strong elastic muscles which  allows peristaltic movement of the food in the oesophegus and makes the distention of the crop possible. Lee et al. (1998) reported similar observation in the foregut of Bactrocera  dorsalis. The oesophagus of the insect was made up of stratified squamous epithelium. Smith (1968) reported that there may be little or no absorption of nutrients into the haemolymph across the crop wall of insects. The proventriculus plays a very prominent role  (grinding) during food digestion in palm weevil. The proventriculus is muscularly built in this insect to withstand the pressure associated with the mechanical grinding of food in the chamber. Chapman (1985) reported that proventriculus was absent in fluid feeders. 
 The  architecture of the midgut of this insect was the same as those reported for other insects (Gartner, 1985; Adedire, 2002). The midgut was the region for both digestion of food and absorption of nutrients. The epithetlium was responsible for both the production of many digestive enzymes and the uptake and transfer of nutrients to the haemolymph (Wigglosworth, 1965; Billen and Buschinger, 2000). Adedire (2002) reported that the larva of S. insperatus eats more food because it uses more energy for eclosion and the periodic moulting of its cuticle.
 
-8) King Arthur and the Knights of the Round Table - Sir Thomas Malory
+<DOCUMENT 8 TITLE>
+King Arthur and the Knights of the Round Table - Sir Thomas Malory
+
+<DOCUMENT 8 ANNOTATED>
 
 The story of 1) Merlin/PERSON, that man of magic, is the least important of the four branches, though 2) Merlin/PERSON is still an intensely interesting figure in the story of 3) Arthur/PERSON that we read to-day. The story of 4) Lancelot/PERSON was to prove very important; starting as a romance that had very little connection with 5) Arthur/PERSON, it became with 6) Malory/PERSON and 7) Tennyson/PERSON the real center of interest of the plot. The story of the 8) Holy Grail/MISC proved almost equally important. In the earliest accounts of this 9) Perceval/PERSON was the knight chosen above all others to reach the 10) Grail Castle/LOCATION, but 11) Perceval/PERSON was too rough and worldly a knight to suit the taste of the monks who wrote out the legends and so they created 12) Galahad/PERSON to take his place as their own ideal of perfection. And into these adventures are woven some of the tales of Sir 13) Gawain/PERSON, among them the delightful story of 14) Gawain/PERSON and the 15) Little Maid/PERSON with the 16) Narrow Sleeves/MISC. To the legend of 17) Perceval/PERSON, 18) Wolfram von Eschenbach/PERSON, a 19) Bavarian/MISC, added the story of the son of 20) Perceval/PERSON, or 21) Parzival/PERSON, as he calls him, the story of 22) Lohengrin/PERSON, the famous 23) Swan-knight/PERSON. 24) Tristram/PERSON and 25) Iseult/PERSON, the fourth of the branches, though less connected with 26) Arthur/PESON than either 27) Lancelot/PERSON or the 28) Holy Grail/MISC, became immensely popular with poets and remancers because of its great love story, and is to be found told again and again in widely varying forms all through the 29) Middle Ages/MISC.
 
@@ -364,13 +413,19 @@ So we have seen that a 30) British/MISC chieftain, winning a great battle in the
 
 Little is known concerning Sir 58) Thomas Malory/PERSON. He seems to have been a knight and country gentleman of 59) Warwickshire/GPE, a member of 60) Parliament/ORGANIZATION in the reign of 61) Henry VI/PERSON, and later a soldier on the side of 62) Lancaster/MISC in the 63) Wars of the Roses/MISC. As a result of the victory of the party of 64) York/ORGANIZATION he had to retire from public life when 65) Edward IV/PERSON came to the throne, and lived quietly at his 66) Warwickshire/GPE estate. He was familiar with life at court and with men-at-arms and he knew how popular the stories of 67) King Arthur/PERSON were becoming in 68) England/LOCATION. So, being a man of education, he set to work to make a collection of the legends, using as his chief sources the 69) French/MISC romances.
 
+<DOCUMENT 8 NO ANNOTATIONS>
+
 The story of Merlin, that man of magic, is the least important of the four branches, though Merlin is still an intensely interesting figure in the story of Arthur that we read to-day. The story of Lancelot was to prove very important; starting as a romance that had very little connection with Arthur, it became with Malory and Tennyson the real center of interest of the plot. The story of the Holy Grail proved almost equally important. In the earliest accounts of this Perceval was the knight chosen above all others to reach the Grail Castle, but Perceval was too rough and worldly a knight to suit the taste of the monks who wrote out the legends and so they created Galahad to take his place as their own ideal of perfection. And into these adventures are woven some of the tales of Sir Gawain, among them the delightful story of Gawain and the Little Maid with the Narrow Sleeves. To the legend of Perceval, Wolfram von Eschenbach, a Bavarian, added the story of the son of Perceval, or Parzival, as he calls him, the story of Lohengrin, the famous Swan-knight. Tristram and Iseult, the fourth of the branches, though less connected with Arthur than either Lancelot or the Holy Grail, became immensely popular with poets and remancers because of its great love story, and is to be found told again and again in widely varying forms all through the Middle Ages.
 
 So we have seen that a British chieftain, winning a great battle in the year 500, became in time celebrated throughout Europe as the greatest king of romance. So far it was mainly the French who had made him famous. Layamon, an English priest, had written a poem in English concerning Arthur shortly after 1200, and told of the founding of the Round Table, but it was to be a considerable time yet before any English writer was to attempt what the French had already done. Chaucer told none of the Arthurian stories, though he placed the scene of his Wife of Bath's Tale at King Arthur’s court. An unknown English poet wrote Sir Gawaine and the Green Knight somewhere between 1350 and 1375. It is not until we come to the Morte Darthur of Sir Thomas Malory, finished in 1469 or 1470, that we reach the next great step in the history of the legends since the time of Chrétien de Troies. But in Malory’s story Arthur steps forth resplendent, the kingly figure that we have to-day.
 
 Little is known concerning Sir Thomas Malory. He seems to have been a knight and country gentleman of Warwickshire, a member of Parliament in the reign of Henry VI, and later a soldier on the side of Lancaster in the Wars of the Roses. As a result of the victory of the party of York he had to retire from public life when Edward IV came to the throne, and lived quietly at his Warwickshire estate. He was familiar with life at court and with men-at-arms and he knew how popular the stories of King Arthur were becoming in England. So, being a man of education, he set to work to make a collection of the legends, using as his chief sources the French romances.
 
-9) Syrian Civil War - Wikipedia
+<DOCUMENT 9 TITLE>
+
+Syrian Civil War - Wikipedia
+
+<DOCUMENT 9 ANNOTATED>
 
 The 1) Syrian Civil War/MISC (2) Arabic/MISC: الحرب الأهلية السورية‎) is an ongoing multisided armed conflict with international interventions[96] taking place in 3) Syria/GPE. The unrest began in the 4) early spring of 2011/DATE within the context of 5) Arab/MISC 6) Spring/DATE protests, with nationwide protests against President 7) Bashar al-Assad/PERSON’s government, whose forces responded with crackdowns. The conflict gradually morphed from mass protests to an armed rebellion after months of military sieges.[97] A 8) United Nations/ORGANIZATION report released in 9) December, 2012/DATE, stated that the conflict had "become overtly sectarian in nature",[98][99] between mostly 10) Alawite/ORGANIZATION government forces, militias and other 11) Shia/ORGANIZATION groups[100] fighting primarily against 12) Sunni/ORGANIZATION-dominated rebel groups;[101] however both opposition and government forces denied that.[102][103]
 
@@ -380,7 +435,15 @@ In 37) July 2013/DATE, the 38) Syrian/MISC government was said to be in control 
 
 International organizations have accused the 45) Syrian/MISC government, 46) ISIL/ORGANIZATION and other opposition forces of severe human rights violations, with multiple massacres occurring.[116][117][118][119][120] The conflict caused a considerable displacement of population. The 47) US/GPE, the 48) EU/ORGANIZATION big four, 49) Russia/GPE, 50) China/GPE and several countries from the 51) middle east/LOCATION (including 52) Turkey/GPE, 53) Egypt/GPE, 54) Saudi Arabia/GPE and, for the first time, 55) Iran/GPE) have started peace talks in 56) Vienna/GPE that are aimed at bringing an end to the conflict.
 
+<DOCUMENT 9 NO ANNOTATIONS>
+
+missing!
+
+<DOCUMENT 10 TITLE>
+
 10) New quantum record as ball of atom ends up in two spots at once - News Scientist Dec. 28, 2015
+
+<DOCUMENT 10 ANNOTATED>
 
 Try to imagine a tiny ball sitting on one fingertip yet also on your shoulder at the same instant. Are you struggling? Most of us can’t conceive of an object being in two places at once – yet physicists have just demonstrated the effect over a distance of half a metre, smashing previous records.
 
@@ -398,6 +461,8 @@ Pulling it off involved cooling the chamber to a fraction above absolute zero, a
 
 But it may be less of a breakthrough than it seems. In 20) 2013/DATE, 21) Hornberger/PERSON helped devise a “22) weirdness scale/MISC” that scores experiments according to how far they show quantum effects extending into the everyday world. 23) Kasevich/PERSON’s work extends the distance scale but compromises in other ways, so scores about the same as previous attempts, says 24) Hornberger/PERSON. That means a true 25) Schrödinger’s cat/MISC is still far from being realised.
 
+<DOCUMENT 10 NO ANNOTATIONS>
+
 Try to imagine a tiny ball sitting on one fingertip yet also on your shoulder at the same instant. Are you struggling? Most of us can’t conceive of an object being in two places at once – yet physicists have just demonstrated the effect over a distance of half a metre, smashing previous records.
 
 It’s an example of superposition, the idea that an object can exist in two quantum states at the same time. This persists until it is observed, causing a property called its wave function to collapse into one state or the other. The same principle allows Schrödinger’s cat to be both dead and alive inside a box until you open the lid.
@@ -413,3 +478,4 @@ Previous experiments demonstrated superposition over much smaller distances and 
 Pulling it off involved cooling the chamber to a fraction above absolute zero, and minutely adjusting the BEC’s trajectory to account for Earth’s rotation during the experiment. “They’ve explored the unknown,” says Klaus Hornberger of the University of Duisburg-Essen, Germany.
 
 But it may be less of a breakthrough than it seems. In 2013, Hornberger helped devise a “weirdness scale” that scores experiments according to how far they show quantum effects extending into the everyday world. Kasevich’s work extends the distance scale but compromises in other ways, so scores about the same as previous attempts, says Hornberger. That means a true Schrödinger’s cat is still far from being realised.
+
