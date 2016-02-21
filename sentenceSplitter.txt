@@ -1,8 +1,8 @@
 Solvency 2 standards will make a radical change in risk co-management practices in the actuarial sector.
 
-They are based on a strengthening of risk control and minimization of a ruin probability, Boolean et al. first introducted this method.
+They are based on a strengthening of risk control and minimization of a ruin probability, Boolean et al. first introduced this method.
 
-The determination of the economic regulatory capital in the U.S.A. will be faced under this prudential mechanism with magnitude of 12,345.24 dollars/caputa, a kind of methodological revolution.
+The determination of the economic regulatory capital in the U.S.A. will be faced under this prudential mechanism with magnitude of 12,345.24 dollars/capita, a kind of methodological revolution.
 
 A choices of a dependence model illustrated in Fig. 1 (for more details see Fig. 4) between different risks and of an aggregation methodology are both required.
 
@@ -20,7 +20,7 @@ In this context, i.e. SCR calculations, a multi-variate analysis was defined by 
 
 The issue of capital allocation in a multivariate context arises from the presence of dependence between the various risky activities in Section 2.3 and 2.4.5 which may generate a diversification effect.
 
-Several allocation methods in the literature use w=(l1[i],p1[j]) to initializae the choice of a univariate risk measure |<w>| and the Lema 2.1 an allocation principle.
+Several allocation methods in the literature use w=(l1[i],p1[j]) to initialize the choice of a univariate risk measure |<w>| and the Lema 2.1 an allocation principle.
 
 Others are based on optimizing a multivariate ruin probability or some multivariate risk indicators. [2,4,7,23]
 
