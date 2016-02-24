@@ -106,4 +106,10 @@ At 12:00 P.M. the clock struck, as the vehicle sped around the corner on Bonifac
 
 The three recipes for success: commitment to a goal; tenacity on the field; and a recipe for success.
 
-Visit www.amazon.com for the best deals in top of the line 
+Within the models.zip file are general models trained on various corpora, mostly from the OntoNotes 5.0 and more.
+
+Version 1.7.0 of the Noobs operating system contains the most recent version of Rasbian Jessie (released 2016-02-09).
+
+Try to download the dmg at developer.apple.com/downloads (Command line tools OS X 10.11) for XCode 7.1.
+
+
