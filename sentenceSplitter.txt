@@ -106,8 +106,7 @@ At 12:00 P.M. the clock struck, as the vehicle sped around the corner on Bonifac
 
 The three recipes for success: commitment to a goal; tenacity on the field; and a recipe for success.
 
-<<<<<<< HEAD
-Visit www.amazon.com for the best deals in top of the line 
+Visit www.amazon.com for the best deals in top of the line gadgets.
 
 T.O.M. (time of the month) is here.
 
@@ -119,7 +118,7 @@ I'm really weirded out by this phrase. Like... I get it (the whole "pad is to sa
 
 Kanye West's "Father Stretch My Hands (Pt. 1)" inspired the best meme of the year so far. http://trib.al/svQd7iF  
 
-Sadly Kanye West missed out on the Billboard charts. But he did respond to a TIDAL hater: http://on.vibe.com/20Txgpm  
+Sadly Kanye West missed out on the Billboard charts but he did respond to a TIDAL hater: http://on.vibe.com/20Txgpm  
 
 Rule 1. Use a period at the end of a complete sentence that is a statement. ...
 
@@ -128,7 +127,7 @@ E.T.C is so M.I.A. in the U.S.A. that sentence is cray cray.
 a.k.a. Internet acronyms, text message jargon, abbreviations, initialisms, cyberslang, leetspeak, SMS code, textese - See more at: http://www.netlingo.com/acronyms.php#sthash.suX04zyM.dpuf
 
 Did you enjoy living in Washington, D.C.?
-=======
+
 Within the models.zip file are general models trained on various corpora, mostly from the OntoNotes 5.0 and more.
 
 Version 1.7.0 of the Noobs operating system contains the most recent version of Rasbian Jessie (released 2016-02-09).
@@ -136,4 +135,3 @@ Version 1.7.0 of the Noobs operating system contains the most recent version of 
 Try to download the dmg at developer.apple.com/downloads (Command line tools OS X 10.11) for XCode 7.1.
 
 
->>>>>>> f01b11f867cd5dbce08202d14d66284bde4ca081
