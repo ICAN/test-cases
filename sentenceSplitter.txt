@@ -144,4 +144,6 @@ The following command takes nlp4j.txt and generates nlp4j.txt.nlp using config-d
 
 Hyperlinks are recognized as one unit (alaska.edu, jmister@gmail.com, index.html).
 
+Wolf: the newest B.C. character August 24, 2009;[5] a blissfully deviant domestication of Precambrian fur. 
+
 
