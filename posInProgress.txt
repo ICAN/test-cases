@@ -1,4367 +1,3325 @@
-Between	 Other
-us	 NN
-there	 RB
-was	 VB
-,	 Other
-as	 Other
-I	 NN
-have	 VB
-already	 RB
-said	 VB
-somewhere	 RB
-,	 Other
-the	 Other
-bond	 NN
-of	 Other
-the	 Other
-sea	 NN
-.	 Other
-Besides	 Other
-holding	 VB
-our	 JJ
-hearts	 NN
-together	 RB
-through	 Other
-long	 JJ
-periods	 NN
-of	 Other
-separation	 NN
-,	 Other
-it	 NN
-had	 VB
-the	 Other
-effect	 NN
-of	 Other
-making	 VB
-us	 NN
-tolerant	 JJ
-of	 Other
-each	 Other
-other	 JJ
-'s	 Other
-yarns--and	 NN
-even	 RB
-convictions	 NN
-.	 Other
-The	 Other
-Lawyer--the	 NN
-best	 JJ
-of	 Other
-old	 JJ
-fellows--had	 Other
-,	 Other
-because	 Other
-of	 Other
-his	 JJ
-many	 JJ
-years	 NN
-and	 Other
-many	 JJ
-virtues	 NN
-,	 Other
-the	 Other
-only	 JJ
-cushion	 NN
-on	 Other
-deck	 NN
-,	 Other
-and	 Other
-was	 VB
-lying	 VB
-on	 Other
-the	 Other
-only	 JJ
-rug	 NN
-.	 Other
-The	 Other
-Accountant	 NN
-had	 VB
-brought	 VB
-out	 Other
-already	 RB
-a	 Other
-box	 NN
-of	 Other
-dominoes	 NN
-,	 Other
-and	 Other
-was	 VB
-toying	 VB
-architecturally	 RB
-with	 Other
-the	 Other
-bones	 NN
-.	 Other
-Marlow	 NN
-sat	 VB
-cross	 NN
--	 Other
-legged	 VB
-right	 JJ
-aft	 NN
-,	 Other
-leaning	 VB
-against	 Other
-the	 Other
-mizzen	 NN
--	 Other
-mast	 NN
-.	 Other
-He	 NN
-had	 VB
-sunken	 VB
-cheeks	 NN
-,	 Other
-a	 Other
-yellow	 JJ
-complexion	 NN
-,	 Other
-a	 Other
-straight	 RB
-back	 RB
-,	 Other
-an	 Other
-ascetic	 JJ
-aspect	 NN
-,	 Other
-and	 Other
-,	 Other
-with	 Other
-his	 JJ
-arms	 NN
-dropped	 VB
-,	 Other
-the	 Other
-palms	 NN
-of	 Other
-hands	 NN
-outwards	 RB
-,	 Other
-resembled	 VB
-an	 Other
-idol	 NN
-.	 Other
-The	 Other
-director	 NN
-,	 Other
-satisfied	 VB
-the	 Other
-anchor	 NN
-had	 VB
-good	 JJ
-hold	 NN
-,	 Other
-made	 VB
-his	 JJ
-way	 NN
-aft	 NN
-and	 Other
-sat	 VB
-down	 Other
-amongst	 Other
-us	 NN
-.	 Other
-We	 NN
-exchanged	 VB
-a	 Other
-few	 JJ
-words	 NN
-lazily	 RB
-.	 Other
-Afterwards	 RB
-there	 RB
-was	 VB
-silence	 NN
-on	 Other
-board	 NN
-the	 Other
-yacht	 NN
-.	 Other
-For	 Other
-some	 Other
-reason	 NN
-or	 Other
-other	 JJ
-we	 NN
-did	 VB
-not	 RB
-begin	 VB
-that	 Other
-game	 NN
-of	 Other
-dominoes	 NN
-.	 Other
-We	 NN
-felt	 VB
-meditative	 JJ
-,	 Other
-and	 Other
-fit	 VB
-for	 Other
-nothing	 NN
-but	 Other
-placid	 JJ
-staring	 NN
-.	 Other
-The	 Other
-day	 NN
-was	 VB
-ending	 VB
-in	 Other
-a	 Other
-serenity	 NN
-of	 Other
-still	 RB
-and	 Other
-exquisite	 JJ
-brilliance	 NN
-.	 Other
-The	 Other
-water	 NN
-shone	 NN
-pacifically	 RB
-;	 Other
-the	 Other
-sky	 NN
-,	 Other
-without	 Other
-a	 Other
-speck	 NN
-,	 Other
-was	 VB
-a	 Other
-benign	 JJ
-immensity	 NN
-of	 Other
-unstained	 JJ
-light	 NN
-;	 Other
-the	 Other
-very	 RB
-mist	 NN
-on	 Other
-the	 Other
-Essex	 NN
-marsh	 NN
-was	 VB
-like	 Other
-a	 Other
-gauzy	 JJ
-and	 Other
-radiant	 JJ
-fabric	 NN
-,	 Other
-hung	 VB
-from	 Other
-the	 Other
-wooded	 JJ
-rises	 VB
-inland	 NN
-,	 Other
-and	 Other
-draping	 VB
-the	 Other
-low	 JJ
-shores	 NN
-in	 Other
-diaphanous	 JJ
-folds	 NN
-.	 Other
-Only	 RB
-the	 Other
-gloom	 NN
-to	 Other
-the	 Other
-west	 NN
-,	 Other
-brooding	 VB
-over	 Other
-the	 Other
-upper	 JJ
-reaches	 NN
-,	 Other
-became	 VB
-more	 RB
-sombre	 JJ
-every	 Other
-minute	 NN
-,	 Other
-as	 Other
-if	 Other
-angered	 VB
-by	 Other
-the	 Other
-approach	 NN
-of	 Other
-the	 Other
-sun	 NN
-.	 Other
-And	 Other
-at	 Other
-last	 JJ
-,	 Other
-in	 Other
-its	 JJ
-curved	 JJ
-and	 Other
-imperceptible	 JJ
-fall	 NN
-,	 Other
-the	 Other
-sun	 NN
-sank	 VB
-low	 JJ
-,	 Other
-and	 Other
-from	 Other
-glowing	 VB
-white	 NN
-changed	 VB
-to	 Other
-a	 Other
-dull	 JJ
-red	 JJ
-without	 Other
-rays	 NN
-and	 Other
-without	 Other
-heat	 NN
-,	 Other
-as	 Other
-if	 Other
-about	 RB
-to	 Other
-go	 VB
-out	 Other
-suddenly	 RB
-,	 Other
-stricken	 VB
-to	 Other
-death	 NN
-by	 Other
-the	 Other
-touch	 NN
-of	 Other
-that	 Other
-gloom	 NN
-brooding	 VB
-over	 Other
-a	 Other
-crowd	 NN
-of	 Other
-men	 NN
-.	 Other
-Forthwith	 NN
-a	 Other
-change	 NN
-came	 VB
-over	 Other
-the	 Other
-waters	 NN
-,	 Other
-and	 Other
-the	 Other
-serenity	 NN
-became	 VB
-less	 RB
-brilliant	 JJ
-but	 Other
-more	 RB
-profound	 JJ
-.	 Other
-The	 Other
-old	 JJ
-river	 NN
-in	 Other
-its	 JJ
-broad	 JJ
-reach	 NN
-rested	 VB
-unruffled	 JJ
-at	 Other
-the	 Other
-decline	 NN
-of	 Other
-day	 NN
-,	 Other
-after	 Other
-ages	 NN
-of	 Other
-good	 JJ
-service	 NN
-done	 VB
-to	 Other
-the	 Other
-race	 NN
-that	 JJ
-peopled	 VB
-its	 JJ
-banks	 NN
-,	 Other
-spread	 VB
-out	 Other
-in	 Other
-the	 Other
-tranquil	 JJ
-dignity	 NN
-of	 Other
-a	 Other
-waterway	 NN
-leading	 VB
-to	 Other
-the	 Other
-uttermost	 JJ
-ends	 NN
-of	 Other
-the	 Other
-earth	 NN
-.	 Other
-We	 NN
-looked	 VB
-at	 Other
-the	 Other
-venerable	 JJ
-stream	 NN
-not	 RB
-in	 Other
-the	 Other
-vivid	 JJ
-flush	 NN
-of	 Other
-a	 Other
-short	 JJ
-day	 NN
-that	 JJ
-comes	 VB
-and	 Other
-departs	 VB
-for	 Other
-ever	 RB
-,	 Other
-but	 Other
-in	 Other
-the	 Other
-august	 JJ
-light	 NN
-of	 Other
-abiding	 VB
-memories	 NN
-.	 Other
-And	 Other
-indeed	 RB
-nothing	 NN
-is	 VB
-easier	 JJ
-for	 Other
-a	 Other
-man	 NN
-who	 NN
-has	 VB
-,	 Other
-as	 Other
-the	 Other
-phrase	 NN
-goes	 VB
-,	 Other
-"	 Other
-followed	 VB
-the	 Other
-sea	 NN
-"	 Other
-with	 Other
-reverence	 NN
-and	 Other
-affection	 NN
-,	 Other
-than	 Other
-to	 Other
-evoke	 VB
-the	 Other
-great	 JJ
-spirit	 NN
-of	 Other
-the	 Other
-past	 NN
-upon	 Other
-the	 Other
-lower	 JJ
-reaches	 NN
-of	 Other
-the	 Other
-Thames	 NN
-.	 Other
-The	 Other
-tidal	 JJ
-current	 NN
-runs	 VB
-to	 Other
-and	 Other
-fro	 NN
-in	 Other
-its	 JJ
-unceasing	 JJ
-service	 NN
-,	 Other
-crowded	 VB
-with	 Other
-memories	 NN
-of	 Other
-men	 NN
-and	 Other
-ships	 NN
-it	 NN
-had	 VB
-borne	 VB
-to	 Other
-the	 Other
-rest	 NN
-of	 Other
-home	 NN
-or	 Other
-to	 Other
-the	 Other
-battles	 NN
-of	 Other
-the	 Other
-sea	 NN
-.	 Other
-It	 NN
-had	 VB
-known	 VB
-and	 Other
-served	 VB
-all	 JJ
-the	 Other
-men	 NN
-of	 Other
-whom	 NN
-the	 Other
-nation	 NN
-is	 VB
-proud	 JJ
-,	 Other
-from	 Other
-Sir	 NN
-Francis	 NN
-Drake	 NN
-to	 Other
-Sir	 NN
-John	 NN
-Franklin	 NN
-,	 Other
-knights	 NN
-all	 Other
-,	 Other
-titled	 VB
-and	 Other
-untitledthe	 Other
-great	 JJ
-knights	 NN
--	 Other
-errant	 NN
-of	 Other
-the	 Other
-sea	 NN
-.	 Other
-The	 Other
-Explorer	 NN
-was	 VB
-not	 RB
-comfortable	 JJ
-in	 Other
-the	 Other
-alien	 JJ
-air	 NN
-.	 Other
-It	 NN
-felt	 VB
-as	 RB
-thick	 JJ
-as	 Other
-soup	 NN
-and	 Other
-he	 NN
-had	 VB
-to	 Other
-breathe	 VB
-shallowly	 RB
-.	 Other
-Even	 RB
-so	 JJ
-He	 NN
-reached	 VB
-out	 Other
-in	 Other
-a	 Other
-sudden	 JJ
-need	 NN
-for	 Other
-company	 NN
-.	 Other
-The	 Other
-Merchant	 NN
-was	 VB
-warm	 JJ
-to	 Other
-the	 Other
-touch	 NN
-.	 Other
-His	 JJ
-breathing	 NN
-was	 VB
-rough	 JJ
-,	 Other
-he	 NN
-moved	 VB
-in	 Other
-an	 Other
-occasional	 JJ
-spasm	 NN
-,	 Other
-and	 Other
-was	 VB
-obviously	 RB
-asleep	 JJ
-.	 Other
-The	 Other
-Explorer	 NN
-hesitated	 VB
-and	 Other
-decided	 VB
-not	 RB
-to	 Other
-wake	 VB
-him	 NN
-.	 Other
-It	 NN
-would	 VB
-serve	 VB
-no	 Other
-real	 JJ
-purpose	 NN
-.	 Other
-There	 RB
-would	 VB
-be	 VB
-no	 Other
-rescue	 NN
-,	 Other
-of	 Other
-course	 NN
-.	 Other
-That	 Other
-was	 VB
-the	 Other
-penalty	 NN
-paid	 VB
-for	 Other
-the	 Other
-high	 JJ
-profits	 NN
-which	 JJ
-unrestrained	 JJ
-competition	 NN
-could	 VB
-lead	 VB
-to	 Other
-.	 Other
-The	 Other
-Merchant	 NN
-who	 NN
-opened	 VB
-a	 Other
-new	 JJ
-planet	 NN
-could	 VB
-have	 VB
-a	 Other
-ten	 Other
-year	 NN
-monopoly	 NN
-of	 Other
-its	 JJ
-trade	 NN
-,	 Other
-which	 JJ
-he	 NN
-might	 VB
-hug	 VB
-to	 Other
-himself	 NN
-or	 Other
-,	 Other
-more	 RB
-likely	 JJ
-,	 Other
-rent	 VB
-out	 Other
-to	 Other
-all	 Other
-comers	 NN
-at	 Other
-a	 Other
-stiff	 JJ
-price	 NN
-.	 Other
-It	 NN
-followed	 VB
-that	 Other
-planets	 NN
-were	 VB
-searched	 VB
-for	 Other
-in	 Other
-secrecy	 NN
-and	 Other
-,	 Other
-preferably	 RB
-,	 Other
-away	 RB
-from	 Other
-the	 Other
-usual	 JJ
-trade	 NN
-routes	 NN
-.	 Other
-In	 Other
-a	 Other
-case	 NN
-such	 JJ
-as	 Other
-theirs	 NN
-,	 Other
-then	 RB
-,	 Other
-there	 RB
-was	 VB
-little	 JJ
-or	 Other
-no	 Other
-chance	 NN
-that	 Other
-another	 Other
-ship	 NN
-would	 VB
-come	 VB
-within	 Other
-range	 NN
-of	 Other
-their	 JJ
-subetherics	 NN
-except	 Other
-for	 Other
-the	 Other
-most	 RB
-improbable	 JJ
-of	 Other
-coincidences	 NN
-.	 Other
-Even	 RB
-if	 Other
-they	 NN
-were	 VB
-in	 Other
-their	 JJ
-ship	 NN
-,	 Other
-that	 RB
-is	 RB
-,	 Other
-rather	 RB
-than	 Other
-in	 Other
-thisthiscage	 NN
-.	 Other
-The	 Other
-Explorer	 NN
-grasped	 VB
-the	 Other
-thick	 JJ
-bars	 NN
-.	 Other
-Even	 RB
-if	 Other
-they	 NN
-blasted	 VB
-those	 Other
-away	 RB
-,	 Other
-as	 Other
-they	 NN
-could	 VB
-,	 Other
-they	 NN
-would	 VB
-be	 VB
-stuck	 VB
-too	 RB
-high	 JJ
-in	 Other
-open	 JJ
-air	 NN
-for	 Other
-leaping	 VB
-.	 Other
-It	 NN
-was	 VB
-too	 RB
-bad	 JJ
-.	 Other
-They	 NN
-had	 VB
-landed	 VB
-twice	 RB
-before	 RB
-in	 Other
-the	 Other
-scout	 NN
--	 Other
-ship	 NN
-.	 Other
-They	 NN
-had	 VB
-established	 VB
-contact	 NN
-with	 Other
-the	 Other
-natives	 NN
-who	 NN
-were	 VB
-grotesquely	 RB
-huge	 JJ
-,	 Other
-but	 Other
-mild	 JJ
-and	 Other
-unaggressive	 JJ
-.	 Other
-It	 NN
-was	 VB
-obvious	 JJ
-that	 Other
-they	 NN
-had	 VB
-once	 RB
-owned	 VB
-a	 Other
-flourishing	 JJ
-technology	 NN
-,	 Other
-but	 Other
-had	 VB
-n't	 RB
-faced	 VB
-up	 Other
-to	 Other
-the	 Other
-consequences	 NN
-of	 Other
-such	 JJ
-a	 Other
-technology	 NN
-.	 Other
-It	 NN
-would	 VB
-have	 VB
-been	 VB
-a	 Other
-wonderful	 JJ
-market	 NN
-.	 Other
-And	 Other
-it	 NN
-was	 VB
-a	 Other
-tremendous	 JJ
-world	 NN
-.	 Other
-The	 Other
-Merchant	 NN
-,	 Other
-especially	 RB
-,	 Other
-had	 VB
-been	 VB
-taken	 VB
-aback	 RB
-.	 Other
-He	 NN
-had	 VB
-known	 VB
-the	 Other
-figures	 NN
-that	 JJ
-expressed	 VB
-the	 Other
-planet	 NN
-'s	 Other
-diameter	 NN
-,	 Other
-but	 Other
-from	 Other
-a	 Other
-distance	 NN
-of	 Other
-two	 Other
-light	 JJ
--	 Other
-seconds	 NN
-,	 Other
-he	 NN
-had	 VB
-stood	 VB
-at	 Other
-the	 Other
-visi	 NN
--	 Other
-plate	 NN
-and	 Other
-muttered	 VB
-,	 Other
-"	 Other
-Unbelievable	 JJ
-!	 Other
-"	 Other
-"	 Other
-Oh	 Other
-,	 Other
-there	 RB
-are	 VB
-larger	 JJ
-worlds	 NN
-,	 Other
-"	 Other
-the	 Other
-Explorer	 NN
-said	 VB
-.	 Other
-It	 NN
-would	 VB
-n't	 RB
-do	 VB
-for	 Other
-an	 Other
-Explorer	 NN
-to	 Other
-be	 VB
-too	 RB
-easily	 RB
-impressed	 JJ
-.	 Other
-"	 Other
-Inhabited	 VB
-?	 Other
-"	 Other
-"	 Other
-Well	 Other
-,	 Other
-no	 Other
-.	 Other
-"	 Other
-"	 Other
-Why	 RB
-,	 Other
-you	 NN
-could	 VB
-drop	 VB
-your	 JJ
-planet	 NN
-into	 Other
-that	 Other
-large	 JJ
-ocean	 NN
-and	 Other
-drown	 VB
-it	 NN
-.	 Other
-"	 Other
-The	 Other
-Explorer	 NN
-smiled	 VB
-.	 Other
-It	 NN
-was	 VB
-a	 Other
-gentle	 JJ
-dig	 NN
-at	 Other
-his	 JJ
-Arcturian	 JJ
-homeland	 NN
-,	 Other
-which	 JJ
-was	 VB
-smaller	 JJ
-than	 Other
-most	 JJ
-planets	 NN
-.	 Other
-He	 NN
-said	 VB
-,	 Other
-"	 Other
-Not	 RB
-quite	 RB
-.	 Other
-"	 Other
-The	 Other
-Merchant	 NN
-followed	 VB
-along	 Other
-the	 Other
-line	 NN
-of	 Other
-his	 JJ
-thoughts	 NN
-.	 Other
-"	 Other
-And	 Other
-the	 Other
-inhabitants	 NN
-are	 VB
-large	 JJ
-in	 Other
-proportion	 NN
-to	 Other
-their	 JJ
-world	 NN
-?	 Other
-"	 Other
-He	 NN
-sounded	 VB
-as	 Other
-though	 Other
-the	 Other
-news	 NN
-struck	 VB
-him	 NN
-less	 RB
-favorably	 RB
-now	 RB
-.	 Other
-Solvency	 NN
-2	 Other
-standards	 NN
-will	 VB
-make	 VB
-a	 Other
-radical	 JJ
-change	 NN
-in	 Other
-risk	 NN
-management	 NN
-practices	 NN
-in	 Other
-the	 Other
-actuarial	 JJ
-sector	 NN
-.	 Other
-They	 NN
-are	 VB
-based	 VB
-on	 Other
-a	 Other
-strengthening	 NN
-of	 Other
-risk	 NN
-control	 NN
-and	 Other
-minimization	 NN
-of	 Other
-a	 Other
-ruin	 NN
-probability	 NN
-.	 Other
-The	 Other
-determination	 NN
-of	 Other
-the	 Other
-economic	 JJ
-regulatory	 JJ
-capital	 NN
-will	 VB
-be	 VB
-faced	 VB
-under	 Other
-this	 Other
-prudential	 JJ
-mechanism	 NN
-with	 Other
-a	 Other
-kind	 NN
-of	 Other
-methodological	 JJ
-revolution	 NN
-.	 Other
-A	 Other
-choices	 NN
-of	 Other
-a	 Other
-dependence	 NN
-model	 NN
-between	 Other
-different	 JJ
-risks	 NN
-and	 Other
-of	 Other
-an	 Other
-aggregation	 NN
-methodology	 NN
-are	 VB
-both	 Other
-required	 VB
-.	 Other
-In	 Other
-the	 Other
-prescribed	 JJ
-Standard	 NN
-Formula	 NN
-,	 Other
-risks	 NN
-aggregation	 NN
-is	 VB
-done	 VB
-using	 VB
-correlation	 NN
-matrices	 NN
-that	 JJ
-connect	 VB
-families	 NN
-and	 Other
-subfamilies	 NN
-of	 Other
-risks	 NN
-.	 Other
-Once	 RB
-the	 Other
-Solvency	 NN
-Capital	 NN
-Requirement	 NN
-(	 Other
-SCR	 NN
-)	 Other
-is	 VB
-calculated	 VB
-,	 Other
-its	 JJ
-allocation	 NN
-between	 Other
-the	 Other
-different	 JJ
-risky	 JJ
-activity	 NN
-branches	 NN
-becomes	 VB
-the	 Other
-new	 JJ
-operational	 JJ
-challenge	 NN
-.	 Other
-Capital	 NN
-allocation	 NN
-is	 VB
-an	 Other
-internal	 JJ
-exercise	 NN
-,	 Other
-certainly	 RB
-not	 RB
-controlled	 VB
-by	 Other
-the	 Other
-first	 JJ
-pillar	 NN
-of	 Other
-Solvency	 NN
-2	 Other
-,	 Other
-but	 Other
-it	 NN
-plays	 VB
-a	 Other
-crucial	 JJ
-role	 NN
-in	 Other
-determining	 VB
-performance	 NN
-of	 Other
-all	 JJ
-the	 Other
-insurer	 NN
-activity	 NN
-.	 Other
-The	 Other
-case	 NN
-of	 Other
-insurance	 NN
-groups	 NN
-requires	 VB
-special	 JJ
-treatment	 NN
-in	 Other
-the	 Other
-context	 NN
-of	 Other
-the	 Other
-Own	 NN
-Risk	 NN
-and	 Other
-Solvency	 NN
-Assessment	 NN
-(	 Other
-ORSA	 NN
-)	 Other
-approach	 NN
-.	 Other
-In	 Other
-this	 Other
-context	 NN
-,	 Other
-a	 Other
-multivariate	 JJ
-analysis	 NN
-of	 Other
-risk	 NN
-seems	 VB
-relevant	 JJ
-.	 Other
-The	 Other
-issue	 NN
-of	 Other
-capital	 NN
-allocation	 NN
-in	 Other
-a	 Other
-multivariate	 NN
-context	 NN
-arises	 VB
-from	 Other
-the	 Other
-presence	 NN
-of	 Other
-dependence	 NN
-between	 Other
-the	 Other
-various	 JJ
-risky	 JJ
-activities	 NN
-which	 JJ
-may	 VB
-generate	 VB
-a	 Other
-diversification	 NN
-effect	 NN
-.	 Other
-Several	 JJ
-allocation	 NN
-methods	 NN
-in	 Other
-the	 Other
-literature	 NN
-are	 VB
-based	 VB
-on	 Other
-a	 Other
-choice	 NN
-of	 Other
-a	 Other
-univariate	 JJ
-risk	 NN
-measure	 NN
-and	 Other
-an	 Other
-allocation	 NN
-principle	 NN
-.	 Other
-Others	 NN
-are	 VB
-based	 VB
-on	 Other
-optimizing	 VB
-a	 Other
-multivariate	 JJ
-ruin	 NN
-probability	 NN
-or	 Other
-some	 Other
-multivariate	 JJ
-risk	 NN
-indicators	 NN
-.	 Other
-In	 Other
-this	 Other
-paper	 NN
-,	 Other
-we	 NN
-focus	 VB
-on	 Other
-the	 Other
-allocation	 NN
-technique	 NN
-by	 Other
-minimizing	 VB
-some	 Other
-risk	 NN
-indicators	 NN
-.	 Other
-The	 Other
-literature	 NN
-on	 Other
-the	 Other
-subject	 NN
-of	 Other
-capital	 NN
-allocation	 NN
-methods	 NN
-is	 VB
-very	 RB
-rich	 JJ
-.	 Other
-Several	 JJ
-principles	 NN
-have	 VB
-been	 VB
-proposed	 VB
-over	 Other
-the	 Other
-last	 JJ
-twenty	 Other
-years	 NN
-.	 Other
-The	 Other
-most	 RB
-important	 JJ
-and	 Other
-most	 JJ
-studied	 VB
-are	 VB
-the	 Other
-Shapley	 NN
-method	 NN
-,	 Other
-the	 Other
-Aumann	 NN
--	 Other
-Shapley	 NN
-method	 NN
-and	 Other
-the	 Other
-Euler	 NN
-s	 NN
-method	 NN
-.	 Other
-The	 Other
-Shapley	 NN
-method	 NN
-is	 VB
-based	 VB
-on	 Other
-cooperative	 JJ
-game	 NN
-theory	 NN
-.	 Other
-It	 NN
-is	 VB
-described	 VB
-in	 Other
-detail	 NN
-in	 Other
-Denault	 NN
-s	 Other
-paper	 NN
-(	 Other
-2001	 Other
-)	 Other
-[	 Other
-10	 Other
-]	 Other
-.	 Other
-Denault	 NN
-proved	 VB
-that	 Other
-this	 Other
-method	 NN
-,	 Other
-originally	 RB
-used	 VB
-to	 Other
-allocate	 VB
-the	 Other
-total	 JJ
-cost	 NN
-between	 Other
-players	 NN
-in	 Other
-coalitional	 JJ
-games	 NN
-context	 NN
-,	 Other
-can	 VB
-be	 VB
-easily	 RB
-adapted	 VB
-to	 Other
-solve	 VB
-the	 Other
-problem	 NN
-of	 Other
-the	 Other
-overall	 JJ
-risk	 NN
-allocation	 NN
-between	 Other
-segments	 NN
-.	 Other
-Tasche	 NN
-devoted	 VB
-two	 Other
-papers	 NN
-[	 Other
-21	 Other
-]	 Other
-and	 Other
-[	 Other
-22	 Other
-]	 Other
-to	 Other
-describe	 VB
-Euler	 NN
-s	 NN
-method	 NN
-.	 Other
-Euler	 NN
-s	 NN
-method	 NN
-is	 VB
-also	 RB
-found	 VB
-in	 Other
-the	 Other
-literature	 NN
-under	 Other
-the	 Other
-name	 NN
-of	 Other
-gradient	 NN
-method	 NN
-.	 Other
-It	 NN
-is	 VB
-based	 VB
-on	 Other
-the	 Other
-idea	 NN
-of	 Other
-allocating	 VB
-capital	 NN
-according	 VB
-to	 Other
-the	 Other
-infinitesimal	 JJ
-marginal	 JJ
-impact	 NN
-of	 Other
-each	 Other
-risk	 NN
-.	 Other
-This	 Other
-impact	 NN
-corresponds	 VB
-to	 Other
-the	 Other
-increase	 NN
-obtained	 VB
-on	 Other
-the	 Other
-overall	 JJ
-risk	 NN
-,	 Other
-yielding	 VB
-an	 Other
-infinitely	 RB
-small	 JJ
-increment	 NN
-in	 Other
-a	 Other
-marginal	 JJ
-risk	 NN
-.	 Other
-Euler	 NN
-s	 NN
-method	 NN
-is	 VB
-very	 RB
-present	 JJ
-in	 Other
-the	 Other
-literature	 NN
-.	 Other
-Several	 JJ
-papers	 NN
-analyze	 VB
-its	 JJ
-properties	 NN
-(	 Other
-RORAC	 JJ
-compatibility	 NN
-[	 Other
-6	 Other
-]	 Other
-,	 Other
-[	 Other
-23	 Other
-]	 Other
-,	 Other
-Coherence	 NN
-[	 Other
-5	 Other
-]	 Other
-,	 Other
-...	 Other
-)	 Other
-under	 Other
-different	 JJ
-assumptions	 NN
-(	 Other
-Tasche	 NN
-(	 Other
-2004	 Other
-)	 Other
-[	 Other
-20	 Other
-]	 Other
-,	 Other
-Balog	 NN
-(	 Other
-2011	 Other
-)	 Other
-[	 Other
-2	 Other
-]	 Other
-)	 Other
-.	 Other
-Its	 JJ
-fame	 NN
-is	 VB
-due	 JJ
-to	 Other
-the	 Other
-existence	 NN
-of	 Other
-economic	 JJ
-arguments	 NN
-that	 JJ
-can	 VB
-justify	 VB
-its	 JJ
-use	 NN
-to	 Other
-develop	 VB
-allocation	 NN
-rules	 NN
-.	 Other
-Finally	 RB
-,	 Other
-Aumann	 NN
--	 Other
-Shapley	 NN
-method	 NN
-is	 VB
-a	 Other
-continuous	 JJ
-generalization	 NN
-of	 Other
-Shapley	 NN
-method	 NN
-.	 Other
-Its	 JJ
-principle	 NN
-is	 VB
-based	 VB
-on	 Other
-the	 Other
-value	 NN
-introduced	 VB
-by	 Other
-Aumann	 NN
-and	 Other
-Shaplay	 NN
-in	 Other
-game	 NN
-theory	 NN
-.	 Other
-Denault	 NN
-[	 Other
-10	 Other
-]	 Other
-analyzes	 VB
-this	 Other
-method	 NN
-and	 Other
-its	 JJ
-application	 NN
-to	 Other
-capital	 NN
-allocation	 NN
-.	 Other
-These	 Other
-three	 Other
-capital	 NN
-allocation	 NN
-principles	 NN
-rely	 VB
-on	 Other
-different	 JJ
-risk	 NN
-measures	 NN
-.	 Other
-The	 Other
-coherence	 NN
-of	 Other
-the	 Other
-allocation	 NN
-method	 NN
-depends	 VB
-on	 Other
-the	 Other
-properties	 NN
-of	 Other
-the	 Other
-selected	 VB
-risk	 NN
-measure	 NN
-.	 Other
-Several	 JJ
-papers	 NN
-deal	 VB
-with	 Other
-capital	 NN
-allocation	 NN
-coherence	 NN
-based	 VB
-on	 Other
-the	 Other
-properties	 NN
-of	 Other
-the	 Other
-risk	 NN
-measure	 NN
-used	 VB
-.	 Other
-We	 NN
-quote	 VB
-as	 Other
-examples	 NN
-,	 Other
-Fischer	 NN
-(	 Other
-2003	 Other
-)	 Other
-[	 Other
-12	 Other
-]	 Other
-,	 Other
-Bush	 NN
-and	 Other
-Dorfleitner	 NN
-(	 Other
-2008	 Other
-)	 Other
-[	 Other
-5	 Other
-]	 Other
-,	 Other
-and	 Other
-Kalkbrener	 NN
-(	 Other
-2009	 Other
-)	 Other
-[	 Other
-16	 Other
-]	 Other
-.	 Other
-Lecturers	 NN
-are	 VB
-non	 JJ
--	 Other
-tenure	 NN
-track	 NN
-adjunct	 NN
--	 Other
-faculty	 NN
-members	 NN
-.	 Other
-They	 NN
-say	 VB
-that	 Other
-they	 NN
-are	 VB
-not	 RB
-treated	 VB
-like	 Other
-professionals	 NN
-,	 Other
-even	 RB
-though	 Other
-they	 NN
-teach	 VB
-classes	 NN
-,	 Other
-engage	 VB
-in	 Other
-writing	 NN
-and	 Other
-research	 NN
-,	 Other
-and	 Other
-hold	 VB
-advanced	 JJ
-degrees	 NN
-from	 Other
-top	 JJ
-universities	 NN
-.	 Other
-Across	 Other
-the	 Other
-University	 NN
-of	 Other
-California	 NN
-system	 NN
-about	 Other
-one	 Other
--	 Other
-third	 NN
-of	 Other
-all	 Other
-classes	 NN
-are	 VB
-taught	 VB
-by	 Other
-Lecturers	 NN
-,	 Other
-and	 Other
-contingent	 JJ
-faculty	 NN
-members	 NN
-teach	 VB
-over	 Other
-half	 NN
-of	 Other
-the	 Other
-UC	 NN
-'s	 Other
-undergraduate	 JJ
-credit	 NN
-hours	 NN
-in	 Other
-total	 NN
-,	 Other
-if	 Other
-graduate	 JJ
-student	 NN
-teachers	 NN
-are	 VB
-included	 VB
-in	 Other
-the	 Other
-equation	 NN
-.	 Other
-The	 Other
-majority	 NN
-of	 Other
-Lecturers	 NN
-are	 VB
-hired	 VB
-year	 NN
--	 Other
-by-year	 JJ
-or	 Other
-quarter	 NN
--	 Other
-by-quarter	 NN
-as	 Other
-"	 Other
-temp	 NN
-"	 Other
-workers	 NN
-,	 Other
-which	 JJ
-leaves	 VB
-them	 NN
-with	 Other
-no	 Other
-job	 NN
-security	 NN
-.	 Other
-Additionally	 RB
-,	 Other
-a	 Other
-full	 JJ
--	 Other
-time	 NN
-Lecturer	 NN
-'s	 Other
-workload	 NN
-is	 VB
-typically	 RB
-twice	 JJ
-that	 Other
-of	 Other
-a	 Other
-tenure	 NN
-track	 NN
-professor	 NN
-,	 Other
-yet	 Other
-they	 NN
-are	 VB
-paid	 VB
-significantly	 RB
-less	 RB
-.	 Other
-Many	 JJ
-of	 Other
-the	 Other
-picket	 NN
-signs	 NN
-displayed	 VB
-at	 Other
-the	 Other
-picnic	 NN
-communicated	 VB
-around	 Other
-the	 Other
-theme	 NN
-of	 Other
-precarity	 NN
-.	 Other
-One	 Other
-such	 JJ
-message	 NN
-,	 Other
-"	 Other
-A	 Other
-Precarious	 JJ
-Faculty	 NN
-=	 VB
-A	 Other
-Precarious	 JJ
-University	 NN
-,	 Other
-"	 Other
-was	 VB
-emblazoned	 VB
-on	 Other
-a	 Other
-gold	 NN
-flag	 NN
-along	 Other
-with	 Other
-the	 Other
-stencil	 NN
-of	 Other
-a	 Other
-fist	 NN
-holding	 VB
-a	 Other
-pencil	 NN
-.	 Other
-Precarity	 NN
-has	 VB
-been	 VB
-defined	 VB
-as	 Other
-a	 Other
-condition	 NN
-of	 Other
-instability	 NN
-in	 Other
-the	 Other
-workforce	 NN
-created	 VB
-in	 Other
-postindustrial	 JJ
-societies	 NN
-when	 RB
-management	 NN
-seeks	 VB
-to	 Other
-increase	 VB
-its	 JJ
-own	 JJ
-strength	 NN
-by	 Other
-limiting	 VB
-job	 NN
-opportunities	 NN
-to	 Other
-temporary	 JJ
-and	 Other
-or	 Other
-part	 NN
--	 Other
-time	 NN
-work	 NN
-.	 Other
-In	 Other
-February	 NN
-,	 Other
-organizers	 NN
-of	 Other
-the	 Other
-National	 NN
-Adjunct	 NN
-Day	 NN
-of	 Other
-Action	 NN
-adopted	 VB
-"	 Other
-Saint	 NN
-Precaria	 NN
-"	 Other
-as	 Other
-their	 JJ
-"	 Other
-icon	 NN
-saint	 NN
-"	 Other
-and	 Other
-individuals	 NN
-at	 Other
-UC	 NN
-Santa	 NN
-Cruz	 NN
-continue	 VB
-to	 Other
-develop	 VB
-themes	 NN
-surrounding	 VB
-precarity	 NN
-.	 Other
-"	 Other
-All	 JJ
-these	 Other
-movements	 NN
-that	 Other
-we	 NN
-are	 VB
-building	 VB
-together	 RB
-are	 VB
-really	 RB
-interconnected	 JJ
-,	 Other
-all	 JJ
-the	 Other
-student	 NN
-movements	 NN
-and	 Other
-the	 Other
-union	 NN
-movements	 VB
-that	 Other
-we	 NN
-have	 VB
-been	 VB
-working	 VB
-on	 Other
-for	 Other
-many	 JJ
-years	 NN
-together	 RB
-,	 Other
-"	 Other
-explained	 VB
-Josh	 NN
-Brahinsky	 NN
-at	 Other
-a	 Other
-mid	 JJ
--	 Other
-day	 NN
-rally	 NN
-held	 VB
-at	 Other
-the	 Other
-picnic	 NN
-.	 Other
-Brahinsky	 NN
-teaches	 VB
-courses	 NN
-at	 Other
-both	 Other
-UC	 NN
-Santa	 NN
-Cruz	 NN
-and	 Other
-San	 NN
-Jose	 NN
-State	 NN
-University	 NN
-.	 Other
-"	 Other
-We	 NN
-'re	 VB
-all	 RB
-facing	 VB
-a	 Other
-certain	 JJ
-kind	 NN
-of	 Other
-neo	 NN
--	 Other
-liberal	 JJ
-budget	 NN
-where	 RB
-they	 NN
-play	 VB
-with	 Other
-it	 NN
-,	 Other
-and	 Other
-mess	 NN
-with	 Other
-the	 Other
-money	 NN
-,	 Other
-"	 Other
-he	 NN
-said	 VB
-.	 Other
-"	 Other
-They	 NN
-do	 VB
-n't	 RB
-spend	 VB
-the	 Other
-money	 NN
-on	 Other
-undergraduate	 JJ
-education	 NN
-,	 Other
-which	 JJ
-is	 VB
-what	 NN
-we	 NN
-are	 VB
-all	 Other
-here	 RB
-to	 Other
-make	 VB
-happen	 VB
-.	 Other
-"	 Other
-Brahinsky	 NN
-said	 VB
-that	 Other
-the	 Other
-University	 NN
-of	 Other
-California	 NN
-has	 VB
-,	 Other
-"	 Other
-made	 VB
-a	 Other
-priority	 NN
-out	 Other
-of	 Other
-administrative	 JJ
-spending	 NN
-,	 Other
-"	 Other
-noting	 VB
-that	 Other
-it	 NN
-has	 VB
-increased	 VB
-by	 Other
-over	 Other
-250	 Other
-%	 NN
-in	 Other
-the	 Other
-last	 JJ
-20	 Other
-years	 NN
-.	 Other
-The	 Other
-growth	 NN
-of	 Other
-faculty	 NN
-spending	 NN
-over	 Other
-the	 Other
-same	 JJ
-time	 NN
-period	 NN
-has	 VB
-only	 RB
-increased	 VB
-by	 Other
-50	 Other
-%	 NN
-,	 Other
-he	 NN
-said	 VB
-,	 Other
-adding	 VB
-that	 Other
-20	 Other
-years	 NN
-ago	 RB
-there	 RB
-were	 VB
-five	 Other
-faculty	 NN
-members	 NN
-for	 Other
-every	 Other
-two	 Other
-administrators	 NN
-,	 Other
-but	 Other
-the	 Other
-figure	 NN
-has	 VB
-shifted	 VB
-dramatically	 RB
-,	 Other
-and	 Other
-presently	 RB
-there	 RB
-are	 VB
-only	 RB
-five	 Other
-faculty	 NN
-members	 NN
-for	 Other
-every	 Other
-six	 Other
-administrators	 NN
-,	 Other
-on	 Other
-average	 JJ
-.	 Other
-Conventional	 JJ
-silicon	 NN
-based	 VB
-computing	 NN
-has	 VB
-been	 VB
-successful	 JJ
-over	 Other
-the	 Other
-past	 JJ
-several	 JJ
-decades	 NN
-.	 Other
-It	 NN
-is	 VB
-fast	 JJ
-,	 Other
-flexible	 JJ
-,	 Other
-and	 Other
-well	 RB
-understood	 VB
-.	 Other
-But	 Other
-it	 NN
-has	 VB
-reached	 VB
-its	 JJ
-limitations	 NN
-of	 Other
-design	 NN
-complexity	 NN
-,	 Other
-processing	 NN
-power	 NN
-,	 Other
-memory	 NN
-,	 Other
-energy	 NN
-consumption	 NN
-,	 Other
-density	 NN
-and	 Other
-heat	 NN
-dissipation	 NN
-.	 Other
-Alternatives	 NN
-to	 Other
-these	 Other
-traditional	 JJ
-methods	 NN
-of	 Other
-building	 VB
-computers	 NN
-have	 VB
-been	 VB
-proposed	 VB
-and	 Other
-in	 Other
-recent	 JJ
-past	 Other
-molecular	 JJ
-computing	 NN
-has	 VB
-gained	 VB
-considerable	 JJ
-attention	 NN
-for	 Other
-non	 Other
--	 Other
-silicon	 NN
-based	 VB
-computing	 NN
-which	 JJ
-can	 VB
-overcome	 VB
-conventional	 JJ
-computation	 NN
-problems	 NN
-.	 Other
-The	 Other
-Watson	 NN
--	 Other
-Crick	 NN
-base	 NN
-pairing	 NN
-makes	 VB
-DNA	 NN
-a	 Other
-powerful	 JJ
-tool	 NN
-for	 Other
-engineering	 NN
-at	 Other
-nano	 NN
--	 Other
-scale	 NN
-[	 Other
-Adleman	 NN
-,	 Other
-1994	 Other
-;	 Other
-Benenson	 NN
-et	 NN
-al	 NN
-.	 Other
-,	 Other
-2001	 Other
-;	 Other
-Green	 NN
-et	 NN
-al	 NN
-.	 Other
-,	 Other
-2006	 Other
-;	 Other
-Winfree	 NN
-et	 NN
-al	 NN
-.	 Other
-,	 Other
-1998	 Other
-]	 Other
-.	 Other
-The	 Other
-behaviour	 NN
-of	 Other
-DNA	 NN
-molecules	 NN
-can	 VB
-be	 VB
-predicted	 VB
-,	 Other
-and	 Other
-by	 Other
-setting	 VB
-up	 Other
-strands	 NN
-of	 Other
-DNA	 NN
-in	 Other
-the	 Other
-right	 JJ
-way	 NN
-,	 Other
-they	 NN
-can	 VB
-draw	 VB
-conclusion	 NN
-from	 Other
-a	 Other
-set	 NN
-of	 Other
-logical	 JJ
-inference	 NN
-rules	 NN
-[	 Other
-Ray	 NN
-and	 Other
-Mondal	 NN
-,	 Other
-2011a	 Other
-;	 Other
-Ray	 NN
-and	 Other
-Mondal	 NN
-,	 Other
-2011b	 Other
-]	 Other
-.	 Other
-In	 Other
-this	 Other
-paper	 NN
-we	 NN
-have	 VB
-performed	 VB
-logical	 JJ
-reasoning	 NN
-by	 Other
-modus	 NN
-ponens	 NN
-using	 VB
-DNA	 NN
-strand	 NN
-algebra	 NN
-,	 Other
-which	 JJ
-can	 VB
-be	 VB
-defined	 VB
-as	 Other
-a	 Other
-branch	 NN
-of	 Other
-process	 NN
-algebra	 NN
-.	 Other
-The	 Other
-operations	 NN
-of	 Other
-DNA	 NN
-strands	 NN
-in	 Other
-present	 JJ
-model	 NN
-are	 VB
-based	 VB
-on	 Other
-the	 Other
-mechanism	 NN
-of	 Other
-DNA	 NN
-strand	 NN
-displacement	 NN
-.	 Other
-Process	 NN
-algebras	 NN
-are	 VB
-widely	 RB
-used	 VB
-for	 Other
-defining	 VB
-the	 Other
-formal	 JJ
-semantics	 NN
-of	 Other
-concurrent	 JJ
-communicating	 NN
-processes	 NN
-.	 Other
-Process	 NN
-calculi	 VB
-provide	 VB
-a	 Other
-tool	 NN
-for	 Other
-the	 Other
-high	 JJ
--	 Other
-level	 NN
-description	 NN
-of	 Other
-interactions	 NN
-,	 Other
-communications	 NN
-,	 Other
-and	 Other
-synchronizations	 NN
-between	 Other
-a	 Other
-collection	 NN
-of	 Other
-independent	 JJ
-agents	 NN
-or	 Other
-processes	 NN
-.	 Other
-They	 NN
-also	 RB
-provide	 VB
-algebraic	 JJ
-laws	 NN
-that	 JJ
-allow	 VB
-process	 NN
-descriptions	 NN
-to	 Other
-be	 VB
-manipulated	 VB
-and	 Other
-analyzed	 VB
-,	 Other
-and	 Other
-permit	 NN
-formal	 JJ
-reasoning	 NN
-about	 Other
-equivalences	 NN
-between	 Other
-processes	 NN
-.	 Other
-The	 Other
-main	 JJ
-components	 NN
-of	 Other
-DNA	 NN
-strand	 NN
-algebra	 NN
-are	 VB
-DNA	 NN
-strands	 NN
-,	 Other
-DNA	 NN
-gates	 NN
-,	 Other
-and	 Other
-their	 JJ
-interactions	 NN
-.	 Other
-Before	 Other
-going	 VB
-in	 Other
-detail	 NN
-description	 NN
-of	 Other
-DNA	 NN
-strand	 NN
-algebra	 NN
-we	 NN
-first	 RB
-have	 VB
-to	 Other
-know	 VB
-what	 NN
-is	 VB
-syntax	 NN
-and	 Other
-semantics	 NN
-.	 Other
-How	 RB
-are	 VB
-they	 NN
-different	 JJ
-?	 Other
-[	 Other
-Cardelli	 NN
-,	 Other
-2009	 Other
-;	 Other
-Cardelli	 NN
-2013	 Other
-]	 Other
-A	 Other
-language	 NN
-is	 VB
-a	 Other
-set	 NN
-of	 Other
-valid	 JJ
-sentences	 NN
-.	 Other
-The	 Other
-validity	 NN
-of	 Other
-language	 NN
-can	 VB
-be	 VB
-broken	 VB
-down	 Other
-into	 Other
-two	 Other
-things	 NN
-:	 Other
-syntax	 NN
-and	 Other
-semantics	 NN
-.	 Other
-The	 Other
-term	 NN
-syntax	 NN
-refers	 VB
-to	 Other
-grammatical	 JJ
-structure	 NN
-of	 Other
-a	 Other
-language	 NN
-,	 Other
-rather	 RB
-than	 Other
-what	 NN
-they	 NN
-refer	 VB
-to	 Other
-or	 Other
-mean	 VB
-.	 Other
-Whereas	 Other
-the	 Other
-term	 NN
-semantics	 NN
-is	 VB
-concerned	 VB
-to	 Other
-the	 Other
-meaning	 NN
-of	 Other
-the	 Other
-vocabulary	 NN
-symbols	 NN
-arranged	 VB
-with	 Other
-that	 Other
-structure	 NN
-,	 Other
-often	 RB
-in	 Other
-relation	 NN
-to	 Other
-their	 JJ
-truth	 NN
-and	 Other
-falsehood	 NN
-.	 Other
-Grammatical	 JJ
-(	 Other
-syntactically	 RB
-)	 Other
-valid	 JJ
-does	 VB
-not	 RB
-imply	 VB
-sensible	 JJ
-(	 Other
-semantically	 RB
-)	 Other
-valid	 JJ
-.	 Other
-In	 Other
-mathematics	 NN
-,	 Other
-computer	 NN
-science	 NN
-and	 Other
-linguistics	 NN
-,	 Other
-a	 Other
-formal	 JJ
-language	 NN
-is	 VB
-a	 Other
-set	 NN
-of	 Other
-strings	 NN
-of	 Other
-symbols	 NN
-that	 JJ
-may	 VB
-be	 VB
-constrained	 VB
-by	 Other
-rules	 NN
-that	 JJ
-are	 VB
-specific	 JJ
-to	 Other
-it	 NN
-.	 Other
-In	 Other
-computer	 NN
-science	 NN
-,	 Other
-the	 Other
-process	 NN
-algebras	 NN
-[	 Other
-Baeten	 NN
-,	 Other
-2004	 Other
-]	 Other
-are	 VB
-mathematically	 RB
-rigorous	 JJ
-languages	 NN
-with	 Other
-well	 RB
-defined	 VB
-semantics	 NN
-that	 JJ
-permit	 VB
-describing	 VB
-and	 Other
-verifying	 VB
-properties	 NN
-of	 Other
-concurrent	 JJ
-communicating	 NN
-systems	 NN
-.	 Other
-Process	 NN
-calculi	 VB
-provide	 VB
-a	 Other
-tool	 NN
-for	 Other
-the	 Other
-high	 JJ
--	 Other
-level	 NN
-description	 NN
-of	 Other
-interactions	 NN
-,	 Other
-communications	 NN
-,	 Other
-and	 Other
-synchronizations	 NN
-between	 Other
-a	 Other
-collection	 NN
-of	 Other
-independent	 JJ
-agents	 NN
-or	 Other
-processes	 NN
-.	 Other
-They	 NN
-also	 RB
-provide	 VB
-algebraic	 JJ
-laws	 NN
-that	 JJ
-allow	 VB
-process	 NN
-descriptions	 NN
-to	 Other
-be	 VB
-manipulated	 VB
-and	 Other
-analyzed	 VB
-,	 Other
-and	 Other
-permit	 VB
-formal	 JJ
-reasoning	 NN
-about	 Other
-equivalences	 NN
-between	 Other
-processes	 NN
-.	 Other
-ERHS	 NN
-Pre	 NN
-and	 Other
-post	 NN
-picture	 NN
-of	 Other
-UAA	 NN
-preview	 NN
-days	 NN
-.	 Other
-Thank	 VB
-you	 NN
-UAA	 NN
-for	 Other
-a	 Other
-great	 JJ
-day	 NN
-.	 Other
-#	 Other
-UAAmazing	 VB
-ERHS	 NN
-students	 NN
-attend	 VB
-UAA	 NN
-preview	 NN
-days	 NN
--	 Other
-let	 VB
-the	 Other
-fun	 NN
-begin	 VB
-!	 Other
-#	 Other
-UAAmazing	 VB
-Selfies	 NN
-with	 Other
-spirit	 NN
-at	 Other
-UAA	 NN
-:	 Other
-University	 NN
-of	 Other
-Alaska	 NN
-Anchorage	 NN
-Spring	 NN
-Preview	 NN
-Day	 NN
-!	 Other
-#	 NN
-uaamazing	 VB
-http://fb.me/5yAxSmtkn	 Other
-#	 NN
-uaamazing	 VB
-cuddy	 NN
-center	 NN
-bakery	 NN
-cart	 NN
-on	 Other
-T/Th	 NN
-.	 Other
-these	 Other
-prices	 NN
-.	 Other
-Made	 VB
-fresh	 JJ
-every	 Other
-morning	 NN
-.	 Other
-UAA	 NN
-Student	 NN
-Union	 NN
-Gallery	 NN
-s	 NN
-Claybody	 NN
-Invitational	 NN
-opens	 VB
-today	 NN
-featuring	 VB
-#	 Other
-UAAmazing	 VB
-ceramics	 NN
-from	 Other
-2015	 Other
-'s	 Other
-school	 NN
-year	 NN
-http://ow.ly/XEf83	 Other
-.	 Other
-he	 NN
-only	 RB
-reason	 NN
-I	 NN
-'m	 VB
-going	 VB
-to	 Other
-UAA.	 NN
-Thank	 VB
-you	 NN
-scholarships	 NN
-.	 Other
-#	 Other
-uaamazing	 VB
-Let	 VB
-me	 NN
-hurry	 VB
-up	 Other
-&	 Other
-finish	 VB
-this	 Other
-HW..tonight	 NN
-@BreeNewsome	 RB
-will	 VB
-be	 VB
-doing	 VB
-a	 Other
-public	 JJ
-lecture	 NN
-in	 Other
-Art	 NN
-150	 Other
-at	 Other
-7	 Other
-pm	 NN
-.	 Other
-#	 Other
-UAAmazing	 NN
-#	 NN
-UAA	 NN
-@BreeNewsome	 NN
-@uaanchorage	 NN
-MLK	 NN
-Student	 NN
-Appreciation	 NN
-Brunch	 NN
-#	 Other
-UAAmazing	 NN
-#	 NN
-BlackLivesMatter	 NN
-https://www.instagram.com/p/BBLgb8wM5oX/	 Other
-.	 Other
-Just	 RB
-had	 VB
-the	 Other
-pleasure	 NN
-of	 Other
-meeting	 NN
-@BreeNewsome	 Other
-@uaanchorage	 NN
-MLK	 NN
-Student	 NN
-Appreciation	 NN
-Brunch	 NN
-.	 Other
-#	 NN
-UAAmazing	 VB
-Paying	 VB
-less	 JJ
-than	 Other
-100	 Other
-for	 Other
-a	 Other
-semester	 NN
-of	 Other
-college	 NN
-.	 Other
-:)	 Other
-#	 NN
-uaamazing	 VB
-UAA	 NN
-is	 VB
-having	 VB
-a	 Other
-Star	 NN
-Wars	 NN
-night	 NN
-at	 Other
-the	 Other
-Commons	 NN
-.	 Other
-But	 Other
-guys	 NN
-.	 Other
-The	 Other
-gravy	 NN
-...	 Other
-#	 NN
-UAAmazing	 VB
-when	 RB
-u	 NN
-have	 VB
-to	 Other
-pay	 VB
-34.12	 Other
-for	 Other
-a	 Other
-semester	 NN
-of	 Other
-college	 NN
-.	 Other
-:')	 Other
-#	 NN
-blessup	 NN
-#	 NN
-UAAmazing	 VB
-UAA	 NN
-:	 Other
-fucking	 VB
-me	 NN
-over	 Other
-since	 Other
-day	 NN
-1	 Other
-#	 NN
-UAAMAZING	 NN
-knew	 VB
-I	 NN
-should	 VB
-'ve	 VB
-stayed	 VB
-in	 Other
-Maryland	 NN
-.	 Other
-#	 NN
-CSM	 NN
-would	 VB
-n't	 RB
-have	 VB
-done	 VB
-me	 NN
-like	 Other
-this	 Other
-.	 Other
-@WillowLeedy	 NN
-@camelovidov	 Other
-@Ch2KTUU	 NN
-#	 NN
-UAAmazing	 VB
-@emilyjanaewood	 NN
-update	 NN
-:	 Other
-I	 NN
-paid	 VB
-6	 Other
-for	 Other
-a	 Other
-2/3	 Other
-full	 JJ
-cup	 NN
-of	 Other
-soy	 NN
-milk	 NN
-.	 Other
-#	 Other
-UAAmazing	 VB
-UAA	 NN
-,	 Other
-where	 RB
-you	 NN
-have	 VB
-to	 Other
-drive	 VB
-around	 RB
-the	 Other
-lot	 NN
-for	 Other
-twenty	 Other
-minutes	 NN
-just	 RB
-to	 Other
-find	 VB
-a	 Other
-goddamn	 JJ
-parking	 NN
-spot	 NN
-.	 Other
-#	 Other
-uaamazing	 VB
-No	 Other
-damage	 NN
-has	 VB
-been	 VB
-reported	 VB
-to	 Other
-the	 Other
-@UAAParking	 VB
-structures-	 NN
-if	 Other
-you	 NN
-notice	 VB
-a	 Other
-problem	 NN
-,	 Other
-report	 VB
-it	 NN
-right	 RB
-away	 RB
-,	 Other
-#	 NN
-UAAmazing	 VB
-I	 NN
-feel	 VB
-like	 Other
-everyday	 NN
-is	 VB
-pick	 VB
-on	 Other
-the	 Other
-freshman	 NN
-day	 NN
-here	 RB
-.	 Other
-#	 Other
-UAAmazing	 VB
-Make	 NN
-lots	 NN
-of	 Other
-money	 NN
-.	 Other
-#	 Other
-BeAnEngineer	 NN
-#	 NN
-UAAmazing	 VB
-I	 NN
-swear	 VB
-this	 Other
-nigga	 NN
-behind	 Other
-me	 NN
-getting	 VB
-topped	 VB
-off	 Other
-in	 Other
-class	 NN
-.	 Other
-#	 Other
-UAAmazing	 VB
-UAA	 NN
-Snaps	 NN
-confirms	 VB
-my	 JJ
-belief	 NN
-that	 Other
-there	 RB
-is	 VB
-no	 Other
-hope	 NN
-in	 Other
-the	 Other
-future	 NN
-for	 Other
-most	 JJ
-of	 Other
-my	 JJ
-peers	 NN
-.	 Other
-#	 Other
-VapeLyfe	 NN
-#	 NN
-BACgoingup	 NN
-#	 NN
-GPAgoingdown	 NN
-#	 NN
-UAAmazing	 VB
-@AKEPSCoR	 NN
-@UAFGI	 NN
-dude	 NN
-'s	 VB
-a	 Other
-beast	 NN
-!	 Other
-#	 Other
-uaamazing	 NN
-#	 NN
-Alaska	 NN
-#	 NN
-mountains	 NN
-#	 Other
-sunrise	 NN
-#	 NN
-uaamazing	 VB
-@uaaphotos	 NN
-(	 Other
-at	 Other
-UAA	 NN
-Administration	 NN
-Building	 NN
-)	 Other
-.	 Other
-It	 NN
-'s	 VB
-so	 RB
-frustrating	 JJ
-to	 Other
-not	 RB
-be	 VB
-able	 JJ
-to	 Other
-get	 VB
-parking	 NN
-because	 Other
-everyone	 NN
-parks	 VB
-like	 Other
-they	 NN
-'ve	 VB
-never	 RB
-driven	 VB
-a	 Other
-car	 NN
-before	 RB
-.	 Other
-#	 NN
-UAAmazing	 VB
-@crazy808lexi	 NN
-#	 NN
-UAAmazing	 NN
-#	 NN
-uaamazing	 VB
-love	 NN
-these	 Other
-high	 JJ
-quality	 NN
-machines	 NN
-.	 Other
-Special	 JJ
-Announcement	 NN
-:	 Other
-New	 NN
-Hours	 NN
-of	 Other
-Operation-	 NN
-#	 NN
-UAASHCC	 NN
-#	 NN
-UAAmazing	 VB
-Make	 VB
-a	 Other
-plan	 NN
-to	 Other
-see	 VB
-this	 Other
-compelling	 JJ
-film	 NN
-.	 Other
-Jan	 NN
-20th	 NN
-,	 Other
-Gorsuch	 NN
-Commons	 NN
-,	 Other
-Jan	 NN
-21st	 NN
-in	 Other
-the	 Other
-SU	 NN
-Den	 NN
-.	 Other
-#	 Other
-UAASHCC	 NN
-#	 NN
-UAAmazing	 VB
-Last	 JJ
-day	 NN
-of	 Other
-Lean	 NN
-Six	 NN
-Sigma	 NN
-training	 NN
-!	 Other
-#	 Other
-uaamazing	 VB
-@uaaphotos	 NN
-(	 Other
-at	 Other
-UAA	 NN
--	 Other
-University	 NN
-Center	 NN
-)	 Other
-.	 Other
-I	 NN
-'m	 VB
-glad	 JJ
-you	 NN
-said	 VB
-"	 Other
-hola	 NN
-"	 Other
-walking	 VB
-into	 Other
-class	 NN
-because	 Other
-otherwise	 RB
-I	 NN
-would	 VB
-not	 RB
-have	 VB
-known	 VB
-whether	 Other
-Spanish	 JJ
-meets	 NN
-in	 Other
-143A	 Other
-or	 Other
-143B.	 Other
-#	 NN
-UAAmazing	 VB
-Lol	 NN
-150	 Other
-to	 Other
-rent	 VB
-one	 Other
-book	 NN
-.	 Other
-Not	 RB
-gonna	 RB
-happen	 VB
-.	 Other
-#	 NN
-UAAmazing	 VB
-UAA	 NN
-:	 Other
-Where	 RB
-textbook	 NN
-reservations	 NN
-turn	 VB
-into	 Other
-textbook	 NN
-IOUs	 NN
-right	 JJ
-before	 Other
-your	 JJ
-innocent	 JJ
-eyes	 NN
-.	 Other
-#	 Other
-UAAmazing	 VB
-And	 Other
-we	 NN
-are	 VB
-sold	 VB
-out	 Other
-!	 Other
-Thank	 VB
-you	 NN
-,	 Other
-Anchorage	 NN
-for	 Other
-caring	 VB
-about	 Other
-civil	 JJ
-discourse	 NN
-!	 Other
-#	 Other
-arguingalaska	 NN
-#	 NN
-uaamazing	 VB
-Took	 NN
-a	 Other
-semester	 NN
-off	 Other
-,	 Other
-glad	 JJ
-to	 Other
-see	 VB
-that	 Other
-the	 Other
-puddle	 NN
-of	 Other
-piss	 NN
-and	 Other
-pubes	 NN
-called	 VB
-the	 Other
-"	 Other
-men	 NN
-'s	 Other
-bathroom	 NN
-"	 Other
-in	 Other
-the	 Other
-SSB	 NN
-is	 VB
-still	 RB
-there	 RB
-.	 Other
-#	 Other
-UAAmazing	 VB
-I	 NN
-mean	 VB
-,	 Other
-it	 NN
-'d	 VB
-be	 VB
-nice	 JJ
-if	 Other
-someone	 NN
-would	 VB
-put	 VB
-down	 Other
-icemelt	 NN
-for	 Other
-the	 Other
-first	 JJ
-day	 NN
-off	 Other
-classes	 NN
-..	 Other
-#	 NN
-uaamazing	 NN
-#	 NN
-ouch	 NN
-College	 NN
-textbooks	 NN
-priced	 VB
-like	 Other
-they	 NN
-'re	 VB
-all	 RB
-leaked	 VB
-copies	 NN
-of	 Other
-the	 Other
-next	 JJ
-Game	 NN
-of	 Other
-Thrones	 NN
-book	 NN
-.	 Other
-#	 Other
-UAAmazing	 VB
-When	 RB
-the	 Other
-UAA	 NN
-bookstore	 NN
-did	 VB
-n't	 RB
-pull	 VB
-your	 JJ
-preordered	 JJ
-books	 NN
-off	 Other
-the	 Other
-shelf	 NN
-.	 Other
-#	 Other
-UAAmazing	 VB
-According	 VB
-to	 Other
-blackboard	 NN
-,	 Other
-I	 NN
-have	 VB
-one	 Other
-class	 NN
-this	 Other
-semester	 NN
-instead	 RB
-of	 Other
-5	 Other
-.	 Other
-#	 NN
-UAAmazing	 VB
-@JensenElijah	 NN
-#	 NN
-funfact	 NN
-#	 NN
-uaamazing	 NN
-is	 VB
-the	 Other
-2nd	 JJ
-cheapest	 JJ
-school	 NN
-in	 Other
-America	 NN
-!	 Other
-Got	 NN
-Health	 NN
-Insurance	 NN
-?	 Other
-No	 Other
-?	 Other
-Help	 NN
-is	 VB
-arriving	 VB
-at	 Other
-#	 Other
-UAA	 NN
-on	 Other
-January	 NN
-13th	 NN
-,	 Other
-in	 Other
-the	 Other
-SU.	 NN
-10	 Other
--	 Other
-2pm	 NN
-.	 Other
-#	 Other
-UAASHCC	 NN
-#	 NN
-UAAmazing	 VB
-22	 Other
-%	 NN
-Graduation	 NN
-rate	 NN
-at	 Other
-UAA.	 JJ
-#	 NN
-UAAmazing	 VB
-I	 NN
-love	 VB
-the	 Other
-new	 JJ
-black	 JJ
-board	 NN
-update	 NN
-.	 Other
-#	 Other
-uaamazing	 VB
-So	 RB
-happy	 JJ
-I	 NN
-have	 VB
-another	 Other
-week	 NN
-off	 RB
-before	 Other
-school	 NN
-starts	 VB
-again	 RB
-.	 Other
-#	 Other
-uaamazing	 VB
-Mr.	 NN
-A	 NN
-is	 VB
-one	 Other
-of	 Other
-the	 Other
-most	 RB
-genuine	 JJ
-people	 NN
-I	 NN
-'ve	 VB
-had	 VB
-the	 Other
-privilige	 NN
-of	 Other
-meeting	 NN
-.	 Other
-Truly	 NN
-inspiring	 VB
-.	 Other
-#	 NN
-UAAmazing	 VB
-My	 JJ
-textbooks	 NN
-for	 Other
-this	 Other
-semester	 NN
-are	 VB
-going	 VB
-to	 Other
-cost	 VB
-more	 JJ
-than	 Other
-what	 NN
-I	 NN
-even	 RB
-pay	 VB
-out	 Other
-of	 Other
-pocket	 NN
-for	 Other
-tuition	 NN
-.	 Other
-#	 Other
-uaamazing	 NN
-#	 NN
-butreally	 RB
-Education	 NN
-alumnus	 NN
-Adam	 NN
-Ahonen	 NN
-discusses	 VB
-his	 JJ
-career	 NN
-helming	 NN
-Service	 NN
-High	 NN
-School	 NN
-s	 NN
-special	 JJ
-ed	 NN
-program	 NN
-http://ow.ly/Wcipb	 Other
-.	 Other
-#	 NN
-UAAmazing	 NN
-#	 Other
-2	 Other
-Johanna	 NN
-and	 Other
-JT	 NN
-broke	 VB
-33rd	 RB
-at	 Other
-the	 Other
-World	 NN
-Universities	 NN
-Debating	 NN
-Championship	 NN
-in	 Other
-Thessaloniki	 NN
-!	 Other
-!	 Other
-!	 Other
-They	 NN
-'re	 VB
-going	 VB
-to	 Other
-elim	 VB
-rounds	 NN
-!	 Other
-#	 NN
-uaamazing	 NN
-#	 NN
-wudc	 NN
-Going	 VB
-into	 Other
-round	 JJ
-6	 Other
-,	 Other
-JT	 NN
-and	 Other
-Johanna	 NN
-are	 VB
-sitting	 VB
-on	 Other
-10	 Other
-points	 NN
-.	 Other
-They	 NN
-drew	 VB
-OG	 NN
-against	 Other
-Monash	 NN
-x2	 NN
-and	 Other
-LSE.	 NN
-Waiting	 VB
-for	 Other
-results	 NN
-.	 Other
-#	 Other
-wudc	 NN
-#	 NN
-uaa	 JJ
-Dont	 NN
-forget	 VB
-!	 Other
-You	 NN
-can	 VB
-still	 RB
-donate	 VB
-and	 Other
-save	 VB
-@UAA_Bookstore	 Other
-until	 Other
-the	 Other
-24th	 NN
-.	 Other
-#	 Other
-SeasonOfSavings	 NN
-#	 Other
-Uaamazing	 NN
-Holiday	 NN
-Special	 NN
-Hours	 NN
-of	 Other
-Operation	 NN
-.	 Other
-#	 NN
-UAASHCC	 NN
-#	 NN
-UAAmazing	 NN
-#	 NN
-uaamazing	 NN
-should	 VB
-b	 VB
-added	 VB
-to	 Other
-that	 Other
-last	 JJ
-tweet	 NN
-Bruh	 NN
-...	 Other
-same	 JJ
-#	 NN
-uaamazing	 VB
-.	 Other
-Gonfalon	 NN
-for	 Other
-@uaanchorage	 NN
-College	 NN
-of	 Other
-Arts	 NN
-&	 Other
-Sciences	 NN
-2015	 Other
-Fall	 NN
-Commencement	 NN
-!	 Other
-Congrats	 JJ
-Grads	 NN
-!	 Other
-#	 NN
-uaamazing	 VB
-Congratulations	 NN
-to	 Other
-the	 Other
-Class	 NN
-of	 Other
-2015	 Other
-!	 Other
-!	 Other
-#	 NN
-UAAGrad	 NN
-#	 NN
-UAAmazing	 VB
-Commencement	 NN
-speaker	 NN
-Ruddy	 NN
-Abam	 NN
-offering	 VB
-her	 JJ
-congratulations	 NN
-to	 Other
-#	 Other
-UAAGrad	 NN
-Fall	 NN
-2015	 Other
-.	 Other
-#	 NN
-uaamazing	 VB
-https://www.instagram.com/p/_P9ygmtYRn/	 Other
-#	 NN
-commencement	 NN
-graduation	 NN
-#	 NN
-volunteer	 NN
-#	 NN
-uaamazing	 VB
-(	 Other
-@	 Other
-Alaska	 NN
-Airlines	 NN
-Center	 NN
-in	 Other
-Anchorage	 NN
-,	 Other
-AK	 NN
-)	 Other
-https://www.swarmapp.com/c/e2TmdxpgD43	 Other
-Hats	 VB
-off	 Other
-to	 Other
-all	 JJ
-our	 JJ
-#	 NN
-UAAmazing	 VB
-Fall	 NN
-2015	 Other
-gaduates	 NN
-!	 Other
-When	 RB
-you	 NN
-had	 VB
-an	 Other
-A	 NN
-in	 Other
-English	 NN
-all	 Other
-semester	 NN
-and	 Other
-the	 Other
-day	 NN
-after	 Other
-your	 JJ
-last	 JJ
-class	 NN
-he	 NN
-decides	 VB
-to	 Other
-enter	 VB
-participation	 NN
-and	 Other
-fuck	 NN
-you	 NN
-over	 RB
-.	 Other
-#	 Other
-uaamazing	 VB
-Like	 Other
-seriously	 RB
-come	 VB
-on	 Other
-!	 Other
-Bump	 VB
-my	 JJ
-overall	 JJ
-89	 Other
-%	 NN
-to	 Other
-an	 Other
-A.	 NN
-#	 NN
-uaamazing	 VB
-Off	 NN
-to	 Other
-represent	 VB
-UAA	 NN
-:	 Other
-University	 NN
-of	 Other
-Alaska	 NN
-Anchorage	 NN
-students	 NN
-at	 Other
-the	 Other
-Board	 NN
-of	 Other
-Regents	 NN
-meeting	 NN
-at	 Other
-UAF	 NN
-!	 Other
-#	 NN
-uaamazing	 NN
-...	 Other
-http://fb.me/751hfv8rn	 Other
-bye	 Other
-UAA	 NN
-thanks	 NN
-for	 Other
-the	 Other
-3	 Other
-semesters	 NN
-lol	 RB
-.	 Other
-#	 Other
-UAAmazing	 VB
-My	 JJ
-professor	 NN
-literally	 RB
-made	 VB
-a	 Other
-phone	 NN
-call	 NN
-in	 Other
-the	 Other
-middle	 NN
-of	 Other
-our	 JJ
-final	 JJ
-,	 Other
-using	 VB
-a	 Other
-student	 NN
-'s	 Other
-phone	 NN
-,	 Other
-because	 Other
-she	 NN
-lost	 VB
-her	 JJ
-own	 JJ
-...	 Other
-#	 Other
-UAAmazing	 VB
-We	 NN
-ca	 VB
-nt	 RB
-even	 RB
-load	 VB
-a	 Other
-TV	 NN
-SHOW	 NN
-on	 Other
-residence	 NN
-wifi	 NN
-.	 Other
-#	 Other
-uaamazing	 VB
-I	 NN
-just	 RB
-discovered	 VB
-that	 Other
-I	 NN
-have	 VB
-a	 Other
-view	 NN
-of	 Other
-#	 Other
-Denali	 NN
-from	 Other
-my	 JJ
-office	 NN
-window	 NN
-.	 Other
-#	 Other
-JustTheTip	 NN
-#	 NN
-ItCounts	 NN
-#	 Other
-uaamazing	 NN
-#	 NN
-Alaska	 NN
-JT	 NN
-and	 Other
-Johanna	 NN
-WIN	 NN
-the	 Other
-#	 NN
-seattleiv	 NN
-#	 NN
-UAAmazing	 VB
-.	 Other
-@sklauder9	 Other
-I	 NN
-'m	 VB
-gonna	 NN
-take	 VB
-a	 Other
-swing	 NN
-at	 Other
-the	 Other
-dean	 NN
-of	 Other
-students	 NN
-too	 RB
-.	 Other
-#	 Other
-uaamazing	 VB
-When	 RB
-blackboard	 NN
-is	 VB
-down	 RB
-for	 Other
-scheduled	 VB
-maintenance	 NN
-the	 Other
-day	 NN
-before	 Other
-finals	 NN
-week	 NN
-starts	 VB
-....	 Other
-#	 NN
-uaamazing	 VB
-UAAs	 NN
-wifi	 NN
-is	 VB
-forever	 RB
-shitty	 NN
-.	 Other
-#	 Other
-uaamazing	 VB
-'	 Other
-Twas	 VB
-the	 Other
-week	 NN
-before	 Other
-finals#uaamazing	 VB
-(	 Other
-at	 Other
-UAA	 NN
-:	 Other
-University	 NN
-of	 Other
-Alaska	 NN
-Anchorage	 NN
-)	 Other
-Rocky	 NN
-research	 NN
-:	 Other
-#	 NN
-UAA	 NN
-geology	 NN
-student	 NN
-Ian	 NN
-Minnock	 NN
-takes	 VB
-extracurricular	 JJ
-to	 Other
-a	 Other
-whole	 JJ
-new	 JJ
-level	 NN
-.	 Other
-http://ow.ly/V5iy0	 Other
-.	 Other
-#	 NN
-UAAmazing	 NN
-#	 NN
-IAMUAA	 NN
-Photobombed	 NN
-by	 Other
-Jim	 NN
-!	 Other
-Having	 VB
-a	 Other
-blast	 NN
-at	 Other
-the	 Other
-@GCIAK	 NN
-Great	 NN
-#	 Other
-Alaska	 NN
-Shootout	 NN
-!	 Other
-#	 NN
-seawolfselfie	 NN
-#	 NN
-uaamazing	 VB
-he	 NN
-Seawolves	 NN
-are	 VB
-up	 Other
-by	 Other
-1	 Other
-at	 Other
-the	 Other
-half	 NN
-of	 Other
-the	 Other
-GCI	 NN
-Great	 NN
-Alaska	 NN
-Shootout	 NN
-!	 Other
-It	 NN
-'s	 VB
-32	 Other
--	 Other
-31	 Other
-.	 Other
-#	 Other
-GreatAKShootout	 NN
-#	 NN
-WKU	 NN
-#	 NN
-uaamazing	 NN
-#	 NN
-seawolfnation	 NN
-#	 NN
-seawolfselfie	 NN
-#	 NN
-Uaamazing	 NN
-"	 Other
-Where	 RB
-"	 Other
-drink	 VB
-until	 Other
-she	 NN
-'s	 VB
-pretty	 RB
-"	 Other
-is	 VB
-the	 Other
-school	 NN
-motto	 NN
-.	 Other
-"	 Other
--	 Other
-University	 NN
-of	 Other
-Alaska	 NN
-Anchorage	 NN
-final	 JJ
-marketing	 NN
-presentation	 NN
-!	 Other
-!	 Other
-!	 Other
-#	 NN
-studentlife	 NN
-#	 NN
-uaamazing	 NN
-#	 NN
-student	 NN
-#	 NN
-bathroomselfie	 NN
-#	 NN
-shofie	 NN
-#	 NN
-bluecrew	 NN
-https://instagram.com/p/-VIhkUABt5/	 Other
-#	 NN
-UAA	 NN
-alumna	 NN
-Rachel	 NN
-Wintz	 NN
-AK	 NN
-Hometown	 NN
-Hero	 NN
-for	 Other
-work	 NN
-with	 Other
-Girls	 NN
-on	 Other
-the	 Other
-Run	 NN
-AK.	 NN
-#	 NN
-UAAmazing	 VB
-http://ow.ly/UTVbz	 Other
-Lunch	 NN
-at	 Other
-the	 Other
-Varsity	 NN
-Sports	 NN
-Grill	 NN
-at	 Other
-the	 Other
-@AlaskaAir	 NN
-Arena	 NN
-is	 VB
-#	 Other
-uaamazing	 VB
-.	 Other
-Go	 VB
-Seawolves	 NN
-!	 Other
-#	 Other
-alaska	 NN
-Huge	 JJ
-congratulations	 NN
-Glenna	 NN
-Muncy	 NN
-!	 Other
-Way	 NN
-to	 Other
-represent	 VB
-the	 Other
-green	 NN
-and	 Other
-gold	 NN
-.	 Other
-We	 NN
-always	 RB
-knew	 VB
-you	 NN
-were	 VB
-#	 Other
-UAAmazing	 VB
-!	 Other
-Collaborative	 JJ
-meeting	 NN
-this	 Other
-morning	 NN
-to	 Other
-discuss	 VB
-Spring	 JJ
-events	 NN
-!	 Other
-#	 Other
-uaamazing	 VB
-UAA	 NN
-:	 Other
-@HilaryCorna	 NN
-at	 Other
-@uaanchorage	 NN
-.	 Other
-#	 Other
-dareyourself	 NN
-#	 NN
-uaamazing	 NN
-#	 NN
-uaaphotos	 JJ
-Finding	 NN
-things	 NN
-to	 Other
-do	 VB
-to	 Other
-beat	 VB
-the	 Other
-winter	 NN
-blues	 NN
-,	 Other
-on	 Other
-my	 JJ
-dorm	 NN
-roof	 NN
-chillin	 NN
-w	 Other
-a	 Other
-J.	 NN
-#	 NN
-uaamazing	 VB
-Finally	 RB
-finishing	 VB
-an	 Other
-essay	 NN
-that	 JJ
-has	 VB
-been	 VB
-stressing	 VB
-you	 NN
-out	 Other
-for	 Other
-the	 Other
-past	 JJ
-2	 Other
-weeks	 NN
-is	 VB
-one	 Other
-of	 Other
-the	 Other
-best	 JJ
-feelings	 NN
-.	 Other
-#	 NN
-uaamazing	 VB
-Me	 NN
-tryna	 JJ
-finish	 NN
-this	 Other
-5	 Other
-page	 NN
-essay	 NN
-,	 Other
-and	 Other
-5	 Other
-pages	 NN
-is	 VB
-n't	 RB
-even	 RB
-a	 Other
-lot	 NN
-in	 Other
-college	 NN
-.	 Other
-#	 Other
-uaamazing	 NN
-#	 NN
-collegelife	 NN
-@demrys	 NN
-killing	 VB
-it	 NN
-.	 Other
-#	 Other
-UAAmazing	 VB
-@seawolfdebate	 NN
-@uaaphotos	 NN
-(	 Other
-at	 Other
-UAA/APU	 NN
-Consortium	 NN
-Library)s	 NN
-Full	 JJ
-house	 NN
-!	 Other
-120	 Other
-people	 NN
-and	 Other
-they	 NN
-keep	 VB
-coming	 VB
-in	 RB
-.	 Other
-#	 NN
-UAAmazing	 VB
-Live	 JJ
-stream	 NN
-is	 VB
-up	 Other
-!	 Other
-Join	 VB
-us	 NN
-for	 Other
-a	 Other
-public	 JJ
-debate	 NN
-at	 Other
-7	 Other
-PM.	 NN
-#	 NN
-uaamazing	 VB
-http://m.ustream.tv/channel/exhibition	 NN
--	 Other
-debates	 NN
-Regram	 NN
-from	 Other
-the	 Other
-@akaircenter	 NN
-.	 Other
-Stunning	 VB
-sunset	 NN
-.	 Other
-#	 Other
-UAAmazing	 NN
-#	 NN
-campusview	 NN
-#	 NN
-ohwhataview	 VB
-https://instagram.com/p/-AdkZzNYW-/	 Other
-I	 NN
-finished	 VB
-my	 JJ
-only	 JJ
-college	 NN
-application	 NN
-and	 Other
-it	 NN
-took	 VB
-me	 NN
-like	 Other
-20	 Other
-minutes	 NN
-.	 Other
-#	 Other
-UAAmazing	 NN
-#	 NN
-Bless	 NN
-Not	 RB
-looking	 VB
-forward	 RB
-to	 Other
-the	 Other
-3	 Other
-night	 NN
-classes	 NN
-I	 NN
-have	 VB
-next	 JJ
-semester	 NN
-from	 Other
-5:30	 Other
--	 Other
-9:30	 Other
-#	 NN
-uaamazing	 VB
-hands	 NN
-down	 RB
-Prof	 NN
-.	 Other
-Trotter	 NN
-is	 VB
-my	 JJ
-favorite	 JJ
-prof	 NN
-right	 RB
-now	 RB
-!	 Other
-boom	 NN
-#	 NN
-100	 Other
-#	 NN
-uaamazing	 NN
-#	 NN
-studentlife	 NN
-When	 RB
-you	 NN
-spill	 VB
-all	 JJ
-the	 Other
-daphnia	 NN
-in	 Other
-your	 JJ
-bio	 JJ
-lab	 NN
-#	 NN
-uaamazing	 VB
-Well	 Other
-...	 Other
-it	 NN
-took	 VB
-me	 NN
-about	 Other
-20	 Other
-mins	 NN
-but	 Other
-I	 NN
-managed	 VB
-to	 Other
-get	 VB
-an	 Other
-almost	 RB
-halfway	 NN
-decent	 JJ
-parking	 NN
-spot	 NN
-at	 Other
-the	 Other
-UAA	 NN
-library	 NN
-.	 Other
-#	 Other
-UAAmazing	 VB
-Read	 NN
-about	 RB
-#	 Other
-UAA	 NN
-student	 NN
-Kyle	 NN
-Worl	 NN
-'s	 Other
-Second	 NN
-Bridge	 NN
-project	 NN
-in	 Other
-Chevak	 NN
-,	 Other
-AK.	 NN
-http://ow.ly/UrHyA	 Other
-#	 NN
-UAAmazing	 VB
-APD	 NN
-:	 Other
-Closes	 NN
-roads	 NN
-.	 Other
-ASD	 NN
-:	 Other
-Cancels	 NN
-school	 NN
-.	 Other
-APU	 NN
-:	 Other
-Cancels	 NN
-campus	 NN
-classes	 NN
-.	 Other
-UAA	 NN
-:	 Other
-Lol	 NN
-.	 Other
-You	 NN
-be	 VB
-aiight	 VB
-.	 Other
-Put	 VB
-on	 Other
-a	 Other
-hat	 NN
-and	 Other
-get	 VB
-over	 Other
-here	 RB
-.	 Other
-#	 Other
-uaamazing	 VB
-When	 RB
-ASD	 NN
-and	 Other
-APU	 NN
-cancel	 VB
-their	 JJ
-classes	 NN
-for	 Other
-today	 NN
-but	 Other
-UAA	 NN
-does	 VB
-n't	 RB
-.	 Other
-#	 Other
-uaamazing	 VB
-Service	 NN
-High	 NN
-seniors	 NN
-at	 Other
-the	 Other
-UAA	 NN
-Preview	 NN
-Day	 NN
-event	 NN
-today	 NN
-.	 Other
-#	 Other
-DAB	 NN
-#	 NN
-UAAmazing	 NN
-#	 NN
-907	 Other
-#	 NN
-ServiceHighSchool	 NN
-#	 NN
-ClassOf2016	 NN
+1 Between between ADP
+2 us u NOUN
+3 there there ADV
+4 was be VERB
+5 , , PUNCT
+6 as as ADP
+7 I i NOUN
+8 have have VERB
+9 already already ADV
+10 said say VERB
+11 somewhere somewhere ADV
+12 , , PUNCT
+13 the the DET
+14 bond bond NOUN
+15 of of ADP
+16 the the DET
+17 sea sea NOUN
+18 . . PUNCT
+19 Besides besides ADP
+20 holding hold VERB
+21 our our ADJ
+22 hearts heart NOUN
+23 together together ADV
+24 through through ADP
+25 long long ADJ
+26 periods period NOUN
+27 of of ADP
+28 separation separation NOUN
+29 , , PUNCT
+30 it it NOUN
+31 had have VERB
+32 the the DET
+33 effect effect NOUN
+34 of of ADP
+35 making make VERB
+36 us u NOUN
+37 tolerant tolerant ADJ
+38 of of ADP
+39 each each DET
+40 other other ADJ
+41 's 's PART
+42 yarns--and yarns--and NOUN
+43 even even ADV
+44 convictions conviction NOUN
+45 . . PUNCT
+46 The the DET
+47 Lawyer--the lawyer--the NOUN
+48 best best ADJ
+49 of of ADP
+50 old old ADJ
+51 fellows--had fellows--had NUM
+52 , , PUNCT
+53 because because ADP
+54 of of ADP
+55 his his ADJ
+56 many many ADJ
+57 years year NOUN
+58 and and CONJ
+59 many many ADJ
+60 virtues virtue NOUN
+61 , , PUNCT
+62 the the DET
+63 only only ADJ
+64 cushion cushion NOUN
+65 on on ADP
+66 deck deck NOUN
+67 , , PUNCT
+68   SPACE
+69 and and CONJ
+70 was be VERB
+71 lying lie VERB
+72 on on ADP
+73 the the DET
+74 only only ADJ
+75 rug rug NOUN
+76 . . PUNCT
+77 The the DET
+78 Accountant accountant NOUN
+79 had have VERB
+80 brought bring VERB
+81 out out PART
+82 already already ADV
+83 a a DET
+84 box box NOUN
+85 of of ADP
+86 dominoes domino NOUN
+87 , , PUNCT
+88 and and CONJ
+89 was be VERB
+90 toying toy VERB
+91 architecturally architecturally ADV
+92 with with ADP
+93 the the DET
+94 bones bone NOUN
+95 . . PUNCT
+96 Marlow marlow NOUN
+97 sat sit VERB
+98 cross cross NOUN
+99 - - PUNCT
+100 legged legged VERB
+101 right right ADJ
+102 aft aft NOUN
+103 , , PUNCT
+104 leaning lean VERB
+105 against against ADP
+106 the the DET
+107 mizzen mizzen NOUN
+108 - - PUNCT
+109 mast mast NOUN
+110 . . PUNCT
+111 He he NOUN
+112 had have VERB
+113 sunken sink VERB
+114 cheeks cheek NOUN
+115 , , PUNCT
+116 a a DET
+117 yellow yellow ADJ
+118 complexion complexion NOUN
+119 , , PUNCT
+120 a a DET
+121 straight straight ADV
+122 back back ADV
+123 , , PUNCT
+124 an an DET
+125 ascetic ascetic ADJ
+126 aspect aspect NOUN
+127 , , PUNCT
+128 and and CONJ
+129 , , PUNCT
+130 with with ADP
+131 his his ADJ
+132 arms arm NOUN
+133 dropped drop VERB
+134 , , PUNCT
+135 the the DET
+136 palms palm NOUN
+137 of of ADP
+138 hands hand NOUN
+139 outwards outwards ADV
+140 , , PUNCT
+141 resembled resemble VERB
+142 an an DET
+143 idol idol NOUN
+144 . . PUNCT
+145 The the DET
+146 director director NOUN
+147 , , PUNCT
+148 satisfied satisfy VERB
+149 the the DET
+150 anchor anchor NOUN
+151 had have VERB
+152 good good ADJ
+153 hold hold NOUN
+154 , , PUNCT
+155 made make VERB
+156 his his ADJ
+157 way way NOUN
+158 aft aft NOUN
+159 and and CONJ
+160 sat sit VERB
+161 down down PART
+162 amongst amongst ADP
+163 us u NOUN
+164 . . PUNCT
+165 We we NOUN
+166 exchanged exchange VERB
+167 a a DET
+168 few few ADJ
+169 words word NOUN
+170 lazily lazily ADV
+171 . . PUNCT
+172 Afterwards afterwards ADV
+173 there there ADV
+174 was be VERB
+175 silence silence NOUN
+176 on on ADP
+177 board board NOUN
+178 the the DET
+179 yacht yacht NOUN
+180 . . PUNCT
+181 For for ADP
+182 some some DET
+183 reason reason NOUN
+184 or or CONJ
+185 other other ADJ
+186 we we NOUN
+187 did do VERB
+188 not not ADV
+189 begin begin VERB
+190 that that DET
+191 game game NOUN
+192 of of ADP
+193 dominoes domino NOUN
+194 . . PUNCT
+195 We we NOUN
+196 felt feel VERB
+197 meditative meditative ADJ
+198 , , PUNCT
+199 and and CONJ
+200 fit fit VERB
+201 for for ADP
+202 nothing nothing NOUN
+203 but but CONJ
+204 placid placid ADJ
+205 staring staring NOUN
+206 . . PUNCT
+207 The the DET
+208 day day NOUN
+209 was be VERB
+210 ending end VERB
+211 in in ADP
+212 a a DET
+213 serenity serenity NOUN
+214 of of ADP
+215 still still ADV
+216 and and CONJ
+217 exquisite exquisite ADJ
+218 brilliance brilliance NOUN
+219 . . PUNCT
+220 The the DET
+221 water water NOUN
+222 shone shone NOUN
+223 pacifically pacifically ADV
+224 ; ; PUNCT
+225 the the DET
+226 sky sky NOUN
+227 , , PUNCT
+228 without without ADP
+229 a a DET
+230   SPACE
+231 speck speck NOUN
+232 , , PUNCT
+233 was be VERB
+234 a a DET
+235 benign benign ADJ
+236 immensity immensity NOUN
+237 of of ADP
+238 unstained unstained ADJ
+239 light light NOUN
+240 ; ; PUNCT
+241 the the DET
+242 very very ADV
+243 mist mist NOUN
+244 on on ADP
+245 the the DET
+246 Essex essex NOUN
+247 marsh marsh NOUN
+248 was be VERB
+249 like like ADP
+250 a a DET
+251 gauzy gauzy ADJ
+252 and and CONJ
+253 radiant radiant ADJ
+254 fabric fabric NOUN
+255 , , PUNCT
+256 hung hang VERB
+257 from from ADP
+258 the the DET
+259 wooded wooded ADJ
+260 rises rise VERB
+261 inland inland NOUN
+262 , , PUNCT
+263 and and CONJ
+264 draping drape VERB
+265 the the DET
+266 low low ADJ
+267 shores shore NOUN
+268 in in ADP
+269 diaphanous diaphanous ADJ
+270 folds fold NOUN
+271 . . PUNCT
+272 Only only ADV
+273 the the DET
+274 gloom gloom NOUN
+275 to to ADP
+276 the the DET
+277 west west NOUN
+278 , , PUNCT
+279 brooding brood VERB
+280 over over ADP
+281 the the DET
+282 upper upper ADJ
+283 reaches reach NOUN
+284 , , PUNCT
+285 became become VERB
+286 more more ADV
+287 sombre sombre ADJ
+288 every every DET
+289 minute minute NOUN
+290 , , PUNCT
+291 as as ADP
+292 if if ADP
+293 angered anger VERB
+294 by by ADP
+295 the the DET
+296 approach approach NOUN
+297 of of ADP
+298 the the DET
+299 sun sun NOUN
+300 . . PUNCT
+301       SPACE
+302 And and CONJ
+303 at at ADP
+304 last last ADJ
+305 , , PUNCT
+306 in in ADP
+307 its its ADJ
+308 curved curved ADJ
+309 and and CONJ
+310 imperceptible imperceptible ADJ
+311 fall fall NOUN
+312 , , PUNCT
+313 the the DET
+314 sun sun NOUN
+315 sank sink VERB
+316 low low ADJ
+317 , , PUNCT
+318 and and CONJ
+319 from from ADP
+320 glowing glow VERB
+321 white white NOUN
+322 changed change VERB
+323 to to ADP
+324 a a DET
+325 dull dull ADJ
+326 red red ADJ
+327 without without ADP
+328 rays ray NOUN
+329 and and CONJ
+330 without without ADP
+331 heat heat NOUN
+332 , , PUNCT
+333 as as ADP
+334 if if ADP
+335 about about ADV
+336 to to PART
+337 go go VERB
+338 out out PART
+339 suddenly suddenly ADV
+340 , , PUNCT
+341 stricken stricken VERB
+342 to to ADP
+343 death death NOUN
+344 by by ADP
+345 the the DET
+346 touch touch NOUN
+347 of of ADP
+348 that that DET
+349 gloom gloom NOUN
+350 brooding brood VERB
+351 over over ADP
+352 a a DET
+353 crowd crowd NOUN
+354 of of ADP
+355 men.jj men.jj NOUN
+1 The the DET
+2 swaying swaying NOUN
+3 had have VERB
+4 come come VERB
+5 to to ADP
+6 a a DET
+7 halt halt NOUN
+8 and and CONJ
+9 it it NOUN
+10 was be VERB
+11 dark dark ADJ
+12 . . PUNCT
+13 The the DET
+14 Explorer explorer NOUN
+15 was be VERB
+16 not not ADV
+17 comfortable comfortable ADJ
+18 in in ADP
+19 the the DET
+20 alien alien ADJ
+21 air air NOUN
+22 . . PUNCT
+23 It it NOUN
+24 felt feel VERB
+25 as as ADV
+26 thick thick ADJ
+27 as as ADP
+28 soup soup NOUN
+29 and and CONJ
+30 he he NOUN
+31 had have VERB
+32 to to PART
+33 breathe breathe VERB
+34 shallowly shallowly ADV
+35 . . PUNCT
+36 Even even ADV
+37 so so ADJ
+38     SPACE
+39 He he NOUN
+40 reached reach VERB
+41 out out PART
+42 in in ADP
+43 a a DET
+44 sudden sudden ADJ
+45 need need NOUN
+46 for for ADP
+47 company company NOUN
+48 . . PUNCT
+49 The the DET
+50 Merchant merchant NOUN
+51 was be VERB
+52 warm warm ADJ
+53 to to ADP
+54 the the DET
+55 touch touch NOUN
+56 . . PUNCT
+57 His his ADJ
+58 breathing breathing NOUN
+59 was be VERB
+60 rough rough ADJ
+61 , , PUNCT
+62 he he NOUN
+63 moved move VERB
+64 in in ADP
+65 an an DET
+66 occasional occasional ADJ
+67 spasm spasm NOUN
+68 , , PUNCT
+69 and and CONJ
+70 was be VERB
+71 obviously obviously ADV
+72 asleep asleep ADJ
+73 . . PUNCT
+74 The the DET
+75 Explorer explorer NOUN
+76 hesitated hesitate VERB
+77 and and CONJ
+78 decided decide VERB
+79 not not ADV
+80 to to PART
+81 wake wake VERB
+82 him him NOUN
+83 . . PUNCT
+84 It it NOUN
+85 would would VERB
+86 serve serve VERB
+87 no no DET
+88 real real ADJ
+89 purpose purpose NOUN
+90 . . PUNCT
+91     SPACE
+92 There there ADV
+93 would would VERB
+94 be be VERB
+95 no no DET
+96 rescue rescue NOUN
+97 , , PUNCT
+98 of of ADP
+99 course course NOUN
+100 . . PUNCT
+101 That that DET
+102 was be VERB
+103 the the DET
+104 penalty penalty NOUN
+105 paid pay VERB
+106 for for ADP
+107 the the DET
+108 high high ADJ
+109 profits profit NOUN
+110 which which ADJ
+111 unrestrained unrestrained ADJ
+112 competition competition NOUN
+113 could could VERB
+114 lead lead VERB
+115 to to ADP
+116 . . PUNCT
+117 The the DET
+118 Merchant merchant NOUN
+119 who who NOUN
+120 opened open VERB
+121 a a DET
+122 new new ADJ
+123 planet planet NOUN
+124 could could VERB
+125 have have VERB
+126 a a DET
+127 ten ten NUM
+128 year year NOUN
+129 monopoly monopoly NOUN
+130 of of ADP
+131 its its ADJ
+132 trade trade NOUN
+133 , , PUNCT
+134 which which ADJ
+135 he he NOUN
+136 might may VERB
+137 hug hug VERB
+138 to to ADP
+139 himself himself NOUN
+140 or or CONJ
+141 , , PUNCT
+142 more more ADV
+143 likely likely ADJ
+144 , , PUNCT
+145 rent rend VERB
+146 out out PART
+147 to to ADP
+148 all all DET
+149 comers comer NOUN
+150 at at ADP
+151 a a DET
+152 stiff stiff ADJ
+153 price price NOUN
+154 . . PUNCT
+155 It it NOUN
+156 followed follow VERB
+157 that that DET
+158 planets planet NOUN
+159 were be VERB
+160 searched search VERB
+161 for for ADP
+162 in in ADP
+163 secrecy secrecy NOUN
+164 and and CONJ
+165 , , PUNCT
+166 preferably preferably ADV
+167 , , PUNCT
+168 away away ADV
+169 from from ADP
+170 the the DET
+171 usual usual ADJ
+172 trade trade NOUN
+173 routes route NOUN
+174 . . PUNCT
+175 In in ADP
+176 a a DET
+177 case case NOUN
+178 such such ADJ
+179 as as ADP
+180 theirs theirs NOUN
+181 , , PUNCT
+182 then then ADV
+183 , , PUNCT
+184 there there ADV
+185 was be VERB
+186 little little ADJ
+187 or or CONJ
+188 no no DET
+189 chance chance NOUN
+190 that that ADP
+191 another another DET
+192 ship ship NOUN
+193 would would VERB
+194 come come VERB
+195 within within ADP
+196 range range NOUN
+197 of of ADP
+198 their their ADJ
+199 subetherics subetherics NOUN
+200 except except ADP
+201 for for ADP
+202 the the DET
+203 most most ADV
+204 improbable improbable ADJ
+205 of of ADP
+206 coincidences coincidence NOUN
+207 . . PUNCT
+208 Even even ADV
+209 if if ADP
+210 they they NOUN
+211 were be VERB
+212 in in ADP
+213 their their ADJ
+214 ship ship NOUN
+215 , , PUNCT
+216 that that ADV
+217 is is ADV
+218 , , PUNCT
+219 rather rather ADV
+220 than than ADP
+221 in in ADP
+222 thisthiscage thisthiscage NOUN
+223 . . PUNCT
+224     SPACE
+225 The the DET
+226 Explorer explorer NOUN
+227 grasped grasp VERB
+228 the the DET
+229 thick thick ADJ
+230 bars bar NOUN
+231 . . PUNCT
+232 Even even ADV
+233 if if ADP
+234 they they NOUN
+235 blasted blast VERB
+236 those those DET
+237 away away ADV
+238 , , PUNCT
+239 as as ADP
+240 they they NOUN
+241 could could VERB
+242 , , PUNCT
+243 they they NOUN
+244 would would VERB
+245 be be VERB
+246 stuck stick VERB
+247 too too ADV
+248 high high ADJ
+249 in in ADP
+250 open open ADJ
+251 air air NOUN
+252 for for ADP
+253 leaping leap VERB
+254 . . PUNCT
+255     SPACE
+256 It it NOUN
+257 was be VERB
+258 too too ADV
+259 bad bad ADJ
+260 . . PUNCT
+261 They they NOUN
+262 had have VERB
+263 landed land VERB
+264 twice twice ADV
+265 before before ADV
+266 in in ADP
+267 the the DET
+268 scout scout NOUN
+269 - - PUNCT
+270 ship ship NOUN
+271 . . PUNCT
+272 They they NOUN
+273 had have VERB
+274 established establish VERB
+275 contact contact NOUN
+276 with with ADP
+277 the the DET
+278 natives native NOUN
+279 who who NOUN
+280 were be VERB
+281 grotesquely grotesquely ADV
+282 huge huge ADJ
+283 , , PUNCT
+284 but but CONJ
+285 mild mild ADJ
+286 and and CONJ
+287 unaggressive unaggressive ADJ
+288 . . PUNCT
+289 It it NOUN
+290 was be VERB
+291 obvious obvious ADJ
+292 that that ADP
+293 they they NOUN
+294 had have VERB
+295 once once ADV
+296 owned own VERB
+297 a a DET
+298 flourishing flourishing ADJ
+299 technology technology NOUN
+300 , , PUNCT
+301 but but CONJ
+302 had have VERB
+303 n't not ADV
+304 faced face VERB
+305 up up PART
+306 to to ADP
+307 the the DET
+308 consequences consequence NOUN
+309 of of ADP
+310 such such ADJ
+311 a a DET
+312 technology technology NOUN
+313 . . PUNCT
+314 It it NOUN
+315 would would VERB
+316 have have VERB
+317 been be VERB
+318 a a DET
+319 wonderful wonderful ADJ
+320 market market NOUN
+321 . . PUNCT
+1 They they NOUN
+2 are be VERB
+3 based base VERB
+4 on on ADP
+5 a a DET
+6 strengthening strengthening NOUN
+7 of of ADP
+8 risk risk NOUN
+9 control control NOUN
+10 and and CONJ
+11 minimization minimization NOUN
+12 of of ADP
+13 a a DET
+14 ruin ruin NOUN
+15 probability probability NOUN
+16 . . PUNCT
+17 The the DET
+18 determination determination NOUN
+19 of of ADP
+20 the the DET
+21 economic economic ADJ
+22 regulatory regulatory ADJ
+23 capital capital NOUN
+24 will will VERB
+25 be be VERB
+26 faced face VERB
+27 under under ADP
+28 this this DET
+29 prudential prudential ADJ
+30 mechanism mechanism NOUN
+31 with with ADP
+32 a a DET
+33 kind kind NOUN
+34 of of ADP
+35 methodological methodological ADJ
+36 revolution revolution NOUN
+37 . . PUNCT
+38 A a DET
+39 choices choice NOUN
+40 of of ADP
+41 a a DET
+42 dependence dependence NOUN
+43 model model NOUN
+44 between between ADP
+45 different different ADJ
+46 risks risk NOUN
+47 and and CONJ
+48 of of ADP
+49 an an DET
+50 aggregation aggregation NOUN
+51 methodology methodology NOUN
+52 are be VERB
+53 both both DET
+54 required require VERB
+55 . . PUNCT
+56 In in ADP
+57 the the DET
+58 prescribed prescribed ADJ
+59 Standard standard NOUN
+60 Formula formula NOUN
+61 , , PUNCT
+62 risks risk NOUN
+63 aggregation aggregation NOUN
+64 is be VERB
+65 done do VERB
+66 using use VERB
+67 correlation correlation NOUN
+68 matrices matrix NOUN
+69 that that ADJ
+70 connect connect VERB
+71 families family NOUN
+72 and and CONJ
+73 subfamilies subfamily NOUN
+74 of of ADP
+75 risks risk NOUN
+76 . . PUNCT
+77     SPACE
+78 Several several ADJ
+79 allocation allocation NOUN
+80 methods method NOUN
+81 in in ADP
+82 the the DET
+83 literature literature NOUN
+84 are be VERB
+85 based base VERB
+86 on on ADP
+87 a a DET
+88 choice choice NOUN
+89 of of ADP
+90 a a DET
+91 univariate univariate ADJ
+92 risk risk NOUN
+93 measure measure NOUN
+94 and and CONJ
+95 an an DET
+96 allocation allocation NOUN
+97 principle principle NOUN
+98 . . PUNCT
+99 Others others NOUN
+100 are be VERB
+101 based base VERB
+102 on on ADP
+103 optimizing optimize VERB
+104 a a DET
+105 multivariate multivariate ADJ
+106 ruin ruin NOUN
+107 probability probability NOUN
+108 or or CONJ
+109 some some DET
+110 multivariate multivariate ADJ
+111 risk risk NOUN
+112 indicators indicator NOUN
+113 . . PUNCT
+114 In in ADP
+115 this this DET
+116 paper paper NOUN
+117 , , PUNCT
+118 we we NOUN
+119 focus focus VERB
+120 on on ADP
+121 the the DET
+122 allocation allocation NOUN
+123 technique technique NOUN
+124 by by ADP
+125 minimizing minimize VERB
+126 some some DET
+127 risk risk NOUN
+128 indicators indicator NOUN
+129 . . PUNCT
+130     SPACE
+131 The the DET
+132 literature literature NOUN
+133 on on ADP
+134 the the DET
+135 subject subject NOUN
+136 of of ADP
+137 capital capital NOUN
+138 allocation allocation NOUN
+139 methods method NOUN
+140 is be VERB
+141 very very ADV
+142 rich rich ADJ
+143 . . PUNCT
+144 Several several ADJ
+145 principles principle NOUN
+146 have have VERB
+147 been be VERB
+148 proposed propose VERB
+149 over over ADP
+150 the the DET
+151 last last ADJ
+152 twenty twenty NUM
+153 years year NOUN
+154 . . PUNCT
+155 The the DET
+156 most most ADV
+157 important important ADJ
+158 and and CONJ
+159 most most ADJ
+160 studied study VERB
+161 are be VERB
+162 the the DET
+163 Shapley shapley NOUN
+164 method method NOUN
+165 , , PUNCT
+166 the the DET
+167 Aumann aumann NOUN
+168 - - PUNCT
+169 Shapley shapley NOUN
+170 method method NOUN
+171 and and CONJ
+172 the the DET
+173 Euler euler NOUN
+174 s  NOUN
+175 method method NOUN
+176 . . PUNCT
+177     SPACE
+178 The the DET
+179 Shapley shapley NOUN
+180 method method NOUN
+181 is be VERB
+182 based base VERB
+183 on on ADP
+184 cooperative cooperative ADJ
+185 game game NOUN
+186 theory theory NOUN
+187 . . PUNCT
+188 It it NOUN
+189 is be VERB
+190 described describe VERB
+191 in in ADP
+192 detail detail NOUN
+193 in in ADP
+194 Denault denault NOUN
+195 s s NUM
+196 paper paper NOUN
+197 ( ( PUNCT
+198 2001 2001 NUM
+199 ) ) PUNCT
+200 [ [ PUNCT
+201 10 10 NUM
+202 ] ] PUNCT
+203 . . PUNCT
+204     SPACE
+205 Denault denault NOUN
+206 proved prove VERB
+207 that that ADP
+208 this this DET
+209 method method NOUN
+210 , , PUNCT
+211 originally originally ADV
+212 used use VERB
+213 to to PART
+214 allocate allocate VERB
+215 the the DET
+216 total total ADJ
+217 cost cost NOUN
+218 between between ADP
+219 players player NOUN
+220 in in ADP
+221 coalitional coalitional ADJ
+222 games game NOUN
+223 context context NOUN
+224 , , PUNCT
+225 can can VERB
+226 be be VERB
+227 easily easily ADV
+228 adapted adapt VERB
+229 to to PART
+230 solve solve VERB
+231 the the DET
+232 problem problem NOUN
+233 of of ADP
+234 the the DET
+235 overall overall ADJ
+236 risk risk NOUN
+237 allocation allocation NOUN
+238 between between ADP
+239 segments segment NOUN
+240 . . PUNCT
+241     SPACE
+242 Tasche tasche NOUN
+243 devoted devote VERB
+244 two two NUM
+245 papers paper NOUN
+246 [ [ PUNCT
+247 21 21 NUM
+248 ] ] PUNCT
+249 and and CONJ
+250 [ [ PUNCT
+251 22 22 NUM
+252 ] ] PUNCT
+253 to to PART
+254 describe describe VERB
+255 Euler euler NOUN
+256 s  NOUN
+257 method method NOUN
+258 . . PUNCT
+259 Euler euler NOUN
+260 s  NOUN
+261 method method NOUN
+262 is be VERB
+263 also also ADV
+264 found find VERB
+265 in in ADP
+266 the the DET
+267 literature literature NOUN
+268 under under ADP
+269 the the DET
+270 name name NOUN
+271 of of ADP
+272 gradient gradient NOUN
+273 method method NOUN
+274 . . PUNCT
+275 It it NOUN
+276 is be VERB
+277 based base VERB
+278 on on ADP
+279 the the DET
+280 idea idea NOUN
+281 of of ADP
+282 allocating allocate VERB
+283 capital capital NOUN
+284 according accord VERB
+285 to to ADP
+286 the the DET
+287 infinitesimal infinitesimal ADJ
+288 marginal marginal ADJ
+289 impact impact NOUN
+290 of of ADP
+291 each each DET
+292 risk risk NOUN
+293 . . PUNCT
+294 This this DET
+295 impact impact NOUN
+296 corresponds correspond VERB
+297 to to ADP
+298 the the DET
+299 increase increase NOUN
+300 obtained obtain VERB
+301 on on ADP
+302 the the DET
+303 overall overall ADJ
+304 risk risk NOUN
+305 , , PUNCT
+306 yielding yield VERB
+307 an an DET
+308 infinitely infinitely ADV
+309 small small ADJ
+310 increment increment NOUN
+311 in in ADP
+312 a a DET
+313 marginal marginal ADJ
+314 risk risk NOUN
+315 . . PUNCT
+1 The the DET
+2 majority majority NOUN
+3 of of ADP
+4 Lecturers lecturer NOUN
+5 are be VERB
+6 hired hire VERB
+7 year year NOUN
+8 - - PUNCT
+9 by-year by-year ADJ
+10 or or CONJ
+11 quarter quarter NOUN
+12 - - PUNCT
+13 by-quarter by-quarter NOUN
+14 as as ADP
+15 " " PUNCT
+16 temp temp NOUN
+17 " " PUNCT
+18 workers worker NOUN
+19 , , PUNCT
+20 which which ADJ
+21 leaves leave VERB
+22 them them NOUN
+23 with with ADP
+24 no no DET
+25 job job NOUN
+26 security security NOUN
+27 . . PUNCT
+28 Additionally additionally ADV
+29 , , PUNCT
+30 a a DET
+31 full full ADJ
+32 - - PUNCT
+33 time time NOUN
+34 Lecturer lecturer NOUN
+35 's 's PART
+36 workload workload NOUN
+37 is be VERB
+38 typically typically ADV
+39 twice twice ADJ
+40 that that DET
+41 of of ADP
+42 a a DET
+43 tenure tenure NOUN
+44 track track NOUN
+45 professor professor NOUN
+46 , , PUNCT
+47 yet yet CONJ
+48 they they NOUN
+49 are be VERB
+50 paid pay VERB
+51 significantly significantly ADV
+52 less less ADV
+53 . . PUNCT
+54     SPACE
+55 Many many ADJ
+56 of of ADP
+57 the the DET
+58 picket picket NOUN
+59 signs sign NOUN
+60 displayed display VERB
+61 at at ADP
+62 the the DET
+63 picnic picnic NOUN
+64 communicated communicate VERB
+65 around around ADP
+66 the the DET
+67 theme theme NOUN
+68 of of ADP
+69 precarity precarity NOUN
+70 . . PUNCT
+71 One one NUM
+72 such such ADJ
+73 message message NOUN
+74 , , PUNCT
+75 " " PUNCT
+76 A a DET
+77 Precarious precarious ADJ
+78 Faculty faculty NOUN
+79 = = VERB
+80 A a DET
+81 Precarious precarious ADJ
+82 University university NOUN
+83 , , PUNCT
+84 " " PUNCT
+85 was be VERB
+86 emblazoned emblazon VERB
+87 on on ADP
+88 a a DET
+89 gold gold NOUN
+90 flag flag NOUN
+91 along along ADP
+92 with with ADP
+93 the the DET
+94 stencil stencil NOUN
+95 of of ADP
+96 a a DET
+97 fist fist NOUN
+98 holding hold VERB
+99 a a DET
+100 pencil pencil NOUN
+101 . . PUNCT
+102     SPACE
+103 Precarity precarity NOUN
+104 has have VERB
+105 been be VERB
+106 defined define VERB
+107 as as ADP
+108 a a DET
+109 condition condition NOUN
+110 of of ADP
+111 instability instability NOUN
+112 in in ADP
+113 the the DET
+114 workforce workforce NOUN
+115 created create VERB
+116 in in ADP
+117 postindustrial postindustrial ADJ
+118 societies society NOUN
+119 when when ADV
+120 management management NOUN
+121 seeks seek VERB
+122 to to PART
+123 increase increase VERB
+124 its its ADJ
+125 own own ADJ
+126 strength strength NOUN
+127 by by ADP
+128 limiting limit VERB
+129 job job NOUN
+130 opportunities opportunity NOUN
+131 to to ADP
+132 temporary temporary ADJ
+133 and and CONJ
+134 or or CONJ
+135 part part NOUN
+136 - - PUNCT
+137 time time NOUN
+138 work work NOUN
+139 . . PUNCT
+140     SPACE
+141 In in ADP
+142 February february NOUN
+143 , , PUNCT
+144 organizers organizer NOUN
+145 of of ADP
+146 the the DET
+147 National national NOUN
+148 Adjunct adjunct NOUN
+149 Day day NOUN
+150 of of ADP
+151 Action action NOUN
+152 adopted adopt VERB
+153 " " PUNCT
+154 Saint saint NOUN
+155 Precaria precaria NOUN
+156 " " PUNCT
+157 as as ADP
+158 their their ADJ
+159 " " PUNCT
+160 icon icon NOUN
+161 saint saint NOUN
+162 " " PUNCT
+163 and and CONJ
+164 individuals individual NOUN
+165 at at ADP
+166 UC uc NOUN
+167 Santa santa NOUN
+168 Cruz cruz NOUN
+169 continue continue VERB
+170 to to PART
+171 develop develop VERB
+172 themes theme NOUN
+173 surrounding surround VERB
+174 precarity precarity NOUN
+175 . . PUNCT
+176     SPACE
+177 " " PUNCT
+178 All all ADJ
+179 these these DET
+180 movements movement NOUN
+181 that that ADP
+182 we we NOUN
+183 are be VERB
+184 building build VERB
+185 together together ADV
+186 are be VERB
+187 really really ADV
+188 interconnected interconnected ADJ
+189 , , PUNCT
+190 all all ADJ
+191 the the DET
+192 student student NOUN
+193 movements movement NOUN
+194 and and CONJ
+195 the the DET
+196 union union NOUN
+197 movements movements VERB
+198 that that ADP
+199 we we NOUN
+200 have have VERB
+201 been be VERB
+202 working work VERB
+203 on on ADP
+204 for for ADP
+205 many many ADJ
+206 years year NOUN
+207 together together ADV
+208 , , PUNCT
+209 " " PUNCT
+210 explained explain VERB
+211 Josh josh NOUN
+212 Brahinsky brahinsky NOUN
+213 at at ADP
+214 a a DET
+215 mid mid ADJ
+216 - - PUNCT
+217 day day NOUN
+218 rally rally NOUN
+219 held hold VERB
+220 at at ADP
+221 the the DET
+222 picnic picnic NOUN
+223 . . PUNCT
+224 Brahinsky brahinsky NOUN
+225 teaches teach VERB
+226 courses course NOUN
+227 at at ADP
+228 both both DET
+229 UC uc NOUN
+230 Santa santa NOUN
+231 Cruz cruz NOUN
+232 and and CONJ
+233 San san NOUN
+234 Jose jose NOUN
+235 State state NOUN
+236 University university NOUN
+237 . . PUNCT
+238     SPACE
+239 " " PUNCT
+240 We we NOUN
+241 're 're VERB
+242 all all ADV
+243 facing face VERB
+244 a a DET
+245 certain certain ADJ
+246 kind kind NOUN
+247 of of ADP
+248 neo neo NOUN
+249 - - PUNCT
+250 liberal liberal ADJ
+251 budget budget NOUN
+252 where where ADV
+253 they they NOUN
+254 play play VERB
+255 with with ADP
+256 it it NOUN
+257 , , PUNCT
+258 and and CONJ
+259 mess mess NOUN
+260 with with ADP
+261 the the DET
+262 money money NOUN
+263 , , PUNCT
+264 " " PUNCT
+265 he he NOUN
+266 said say VERB
+267 . . PUNCT
+268 " " PUNCT
+269 They they NOUN
+270 do do VERB
+271 n't not ADV
+272 spend spend VERB
+273 the the DET
+274 money money NOUN
+275 on on ADP
+276 undergraduate undergraduate ADJ
+277 education education NOUN
+278 , , PUNCT
+279 which which ADJ
+280 is be VERB
+281 what what NOUN
+282 we we NOUN
+283 are be VERB
+284 all all DET
+285 here here ADV
+286 to to PART
+287 make make VERB
+288 happen happen VERB
+289 . . PUNCT
+290 " " PUNCT
+291     SPACE
+292 Brahinsky brahinsky NOUN
+293 said say VERB
+294 that that ADP
+295 the the DET
+296 University university NOUN
+297 of of ADP
+298 California california NOUN
+299 has have VERB
+300 , , PUNCT
+301 " " PUNCT
+302 made make VERB
+303 a a DET
+304 priority priority NOUN
+305 out out ADP
+306 of of ADP
+307 administrative administrative ADJ
+308 spending spending NOUN
+309 , , PUNCT
+310 " " PUNCT
+311 noting note VERB
+312 that that ADP
+313 it it NOUN
+314 has have VERB
+315 increased increase VERB
+316 by by ADP
+317 over over ADP
+318 250 250 NUM
+319 % % NOUN
+320 in in ADP
+321 the the DET
+322 last last ADJ
+323 20 20 NUM
+324 years year NOUN
+325 . . PUNCT
+326 The the DET
+327 growth growth NOUN
+328 of of ADP
+329 faculty faculty NOUN
+330 spending spending NOUN
+331 over over ADP
+332 the the DET
+333 same same ADJ
+334 time time NOUN
+335 period period NOUN
+336 has have VERB
+337 only only ADV
+338 increased increase VERB
+339 by by ADP
+340 50 50 NUM
+341 % % NOUN
+342 , , PUNCT
+343 he he NOUN
+344 said say VERB
+345 , , PUNCT
+346 adding add VERB
+347 that that ADP
+348 20 20 NUM
+349 years year NOUN
+350 ago ago ADV
+351 there there ADV
+352 were be VERB
+353 five five NUM
+354 faculty faculty NOUN
+355 members member NOUN
+356 for for ADP
+357 every every DET
+358 two two NUM
+359 administrators administrator NOUN
+360 , , PUNCT
+361 but but CONJ
+362 the the DET
+363 figure figure NOUN
+364 has have VERB
+365 shifted shift VERB
+366 dramatically dramatically ADV
+367 , , PUNCT
+368 and and CONJ
+369 presently presently ADV
+370 there there ADV
+371 are be VERB
+372 only only ADV
+373 five five NUM
+374 faculty faculty NOUN
+375 members member NOUN
+376 for for ADP
+377 every every DET
+378 six six NUM
+379 administrators administrator NOUN
+380 , , PUNCT
+381 on on ADP
+382 average average ADJ
+383 . . PUNCT
+384     SPACE
+1 Conventional conventional ADJ
+2 silicon silicon NOUN
+3 based base VERB
+4 computing computing NOUN
+5 has have VERB
+6 been be VERB
+7 successful successful ADJ
+8 over over ADP
+9 the the DET
+10 past past ADJ
+11 several several ADJ
+12 decades decade NOUN
+13 . . PUNCT
+14 It it NOUN
+15 is be VERB
+16 fast fast ADJ
+17 , , PUNCT
+18 flexible flexible ADJ
+19 , , PUNCT
+20 and and CONJ
+21 well well ADV
+22 understood understand VERB
+23 . . PUNCT
+24 The the DET
+25 behaviour behaviour NOUN
+26 of of ADP
+27 DNA dna NOUN
+28 molecules molecule NOUN
+29 can can VERB
+30 be be VERB
+31 predicted predict VERB
+32 , , PUNCT
+33 and and CONJ
+34 by by ADP
+35 setting set VERB
+36 up up PART
+37 strands strand NOUN
+38 of of ADP
+39 DNA dna NOUN
+40 in in ADP
+41 the the DET
+42 right right ADJ
+43 way way NOUN
+44 , , PUNCT
+45 they they NOUN
+46 can can VERB
+47 draw draw VERB
+48 conclusion conclusion NOUN
+49 from from ADP
+50 a a DET
+51 set set NOUN
+52 of of ADP
+53 logical logical ADJ
+54 inference inference NOUN
+55 rules rule NOUN
+56 [ [ PUNCT
+57 Ray ray NOUN
+58 and and CONJ
+59 Mondal mondal NOUN
+60 , , PUNCT
+61 2011a 2011a NUM
+62 ; ; PUNCT
+63 Ray ray NOUN
+64 and and CONJ
+65 Mondal mondal NOUN
+66 , , PUNCT
+67 2011b 2011b NUM
+68 ] ] PUNCT
+69 . . PUNCT
+70     SPACE
+71 In in ADP
+72 this this DET
+73 paper paper NOUN
+74 we we NOUN
+75 have have VERB
+76 performed perform VERB
+77 logical logical ADJ
+78 reasoning reasoning NOUN
+79 by by ADP
+80 modus modus NOUN
+81 ponens ponens NOUN
+82 using use VERB
+83 DNA dna NOUN
+84     SPACE
+85 strand strand NOUN
+86 algebra algebra NOUN
+87 , , PUNCT
+88 which which ADJ
+89 can can VERB
+90 be be VERB
+91 defined define VERB
+92 as as ADP
+93 a a DET
+94 branch branch NOUN
+95 of of ADP
+96 process process NOUN
+97 algebra algebra NOUN
+98 . . PUNCT
+99 The the DET
+100 operations operation NOUN
+101 of of ADP
+102 DNA dna NOUN
+103 strands strand NOUN
+104 in in ADP
+105 present present ADJ
+106 model model NOUN
+107 are be VERB
+108 based base VERB
+109 on on ADP
+110 the the DET
+111 mechanism mechanism NOUN
+112 of of ADP
+113 DNA dna NOUN
+114 strand strand NOUN
+115 displacement displacement NOUN
+116 . . PUNCT
+117 Process process NOUN
+118 algebras algebra NOUN
+119 are be VERB
+120 widely widely ADV
+121 used use VERB
+122 for for ADP
+123 defining define VERB
+124 the the DET
+125 formal formal ADJ
+126 semantics semantics NOUN
+127 of of ADP
+128 concurrent concurrent ADJ
+129 communicating communicating NOUN
+130 processes process NOUN
+131 . . PUNCT
+132 Process process NOUN
+133 calculi calculi VERB
+134 provide provide VERB
+135 a a DET
+136 tool tool NOUN
+137 for for ADP
+138 the the DET
+139 high high ADJ
+140 - - PUNCT
+141 level level NOUN
+142 description description NOUN
+143 of of ADP
+144 interactions interaction NOUN
+145 , , PUNCT
+146 communications communication NOUN
+147 , , PUNCT
+148 and and CONJ
+149 synchronizations synchronization NOUN
+150 between between ADP
+151 a a DET
+152 collection collection NOUN
+153 of of ADP
+154 independent independent ADJ
+155 agents agent NOUN
+156 or or CONJ
+157 processes process NOUN
+158 . . PUNCT
+159 They they NOUN
+160 also also ADV
+161 provide provide VERB
+162 algebraic algebraic ADJ
+163 laws law NOUN
+164 that that ADJ
+165 allow allow VERB
+166 process process NOUN
+167 descriptions description NOUN
+168 to to PART
+169 be be VERB
+170 manipulated manipulate VERB
+171 and and CONJ
+172 analyzed analyze VERB
+173 , , PUNCT
+174 and and CONJ
+175 permit permit NOUN
+176     SPACE
+177 formal formal ADJ
+178 reasoning reasoning NOUN
+179 about about ADP
+180 equivalences equivalence NOUN
+181 between between ADP
+182 processes process NOUN
+183 . . PUNCT
+184 The the DET
+185 main main ADJ
+186 components component NOUN
+187 of of ADP
+188 DNA dna NOUN
+189 strand strand NOUN
+190 algebra algebra NOUN
+191 are be VERB
+192 DNA dna NOUN
+193 strands strand NOUN
+194 , , PUNCT
+195 DNA dna NOUN
+196 gates gate NOUN
+197 , , PUNCT
+198 and and CONJ
+199 their their ADJ
+200 interactions interaction NOUN
+201 . . PUNCT
+202     SPACE
+203 Before before ADP
+204 going go VERB
+205 in in ADP
+206 detail detail NOUN
+207 description description NOUN
+208 of of ADP
+209 DNA dna NOUN
+210 strand strand NOUN
+211 algebra algebra NOUN
+212 we we NOUN
+213 first first ADV
+214 have have VERB
+215 to to PART
+216 know know VERB
+217     SPACE
+218 what what NOUN
+219 is be VERB
+220 syntax syntax NOUN
+221 and and CONJ
+222 semantics semantics NOUN
+223 . . PUNCT
+224       SPACE
+225 In in ADP
+226 mathematics mathematics NOUN
+227 , , PUNCT
+228 computer computer NOUN
+229 science science NOUN
+230 and and CONJ
+231 linguistics linguistics NOUN
+232 , , PUNCT
+233 a a DET
+234 formal formal ADJ
+235 language language NOUN
+236 is be VERB
+237 a a DET
+238 set set NOUN
+239 of of ADP
+240 strings string NOUN
+241 of of ADP
+242 symbols symbol NOUN
+243 that that ADJ
+244 may may VERB
+245 be be VERB
+246 constrained constrain VERB
+247 by by ADP
+248 rules rule NOUN
+249 that that ADJ
+250 are be VERB
+251 specific specific ADJ
+252 to to ADP
+253 it it NOUN
+254 . . PUNCT
+255     SPACE
+256 In in ADP
+257 computer computer NOUN
+258 science science NOUN
+259 , , PUNCT
+260 the the DET
+261 process process NOUN
+262 algebras algebra NOUN
+263 [ [ PUNCT
+264 Baeten baeten NOUN
+265 , , PUNCT
+266 2004 2004 NUM
+267 ] ] PUNCT
+268 are be VERB
+269 mathematically mathematically ADV
+270 rigorous rigorous ADJ
+271 languages language NOUN
+272 with with ADP
+273 well well ADV
+274 defined define VERB
+275 semantics semantics NOUN
+276 that that ADJ
+277 permit permit VERB
+278 describing describe VERB
+279 and and CONJ
+280 verifying verify VERB
+281 properties property NOUN
+282 of of ADP
+283 concurrent concurrent ADJ
+284 communicating communicating NOUN
+285 systems system NOUN
+286 . . PUNCT
+287 Process process NOUN
+288 calculi calculi VERB
+289 provide provide VERB
+290 a a DET
+291 tool tool NOUN
+292 for for ADP
+293 the the DET
+294 high high ADJ
+295 - - PUNCT
+296 level level NOUN
+297 description description NOUN
+298 of of ADP
+299 interactions interaction NOUN
+300 , , PUNCT
+301 communications communication NOUN
+302 , , PUNCT
+303 and and CONJ
+304 synchronizations synchronization NOUN
+305 between between ADP
+306 a a DET
+307 collection collection NOUN
+308 of of ADP
+309 independent independent ADJ
+310 agents agent NOUN
+311 or or CONJ
+312 processes process NOUN
+313 . . PUNCT
+314 They they NOUN
+315 also also ADV
+316 provide provide VERB
+317 algebraic algebraic ADJ
+318 laws law NOUN
+319 that that ADJ
+320 allow allow VERB
+321 process process NOUN
+322 descriptions description NOUN
+323 to to PART
+324 be be VERB
+325 manipulated manipulate VERB
+326 and and CONJ
+327 analyzed analyze VERB
+328 , , PUNCT
+329 and and CONJ
+330 permit permit VERB
+331 formal formal ADJ
+332 reasoning reasoning NOUN
+333 about about ADP
+334 equivalences equivalence NOUN
+335 between between ADP
+336 processes process NOUN
+337 . . PUNCT
+1 Let let VERB
+2 me me NOUN
+3 hurry hurry VERB
+4 up up PART
+5 & & CONJ
+6 finish finish VERB
+7 this this DET
+8 HW..tonight hw..tonight NOUN
+9 @BreeNewsome @breenewsome ADV
+10 will will VERB
+11 be be VERB
+12 doing do VERB
+13 a a DET
+14 public public ADJ
+15 lecture lecture NOUN
+16 in in ADP
+17 Art art NOUN
+18 150 150 NUM
+19 at at ADP
+20 7 7 NUM
+21 pm pm NOUN
+22 . . PUNCT
+23 # # PUNCT
+24 UAAmazing uaamazing NOUN
+25 # # NOUN
+26 UAA uaa NOUN
+27 @BreeNewsome @breenewsome NOUN
+28 @uaanchorage @uaanchorage NOUN
+29 MLK mlk NOUN
+30 Student student NOUN
+31 Appreciation appreciation NOUN
+32 Brunch brunch NOUN
+33 . . PUNCT
+34 # # PUNCT
+35 UAAmazing uaamazing NOUN
+36 # # NOUN
+37 BlackLivesMatter blacklivesmatter NOUN
+38 https://www.instagram.com/p/BBLgb8wM5oX/ https://www.instagram.com/p/bblgb8wm5ox/ X
+39     SPACE
+40 Just just ADV
+41 had have VERB
+42 the the DET
+43 pleasure pleasure NOUN
+44 of of ADP
+45 meeting meeting NOUN
+46 @BreeNewsome @breenewsome PUNCT
+47 @uaanchorage @uaanchorage NOUN
+48 MLK mlk NOUN
+49 Student student NOUN
+50 Appreciation appreciation NOUN
+51 Brunch brunch NOUN
+52 . . PUNCT
+53 # # NOUN
+54 UAAmazing uaamazing VERB
+55 Paying pay VERB
+56 less less ADJ
+57 than than ADP
+58     SPACE
+59 100 100 NUM
+60 for for ADP
+61 a a DET
+62 semester semester NOUN
+63 of of ADP
+64 college college NOUN
+65 . . PUNCT
+66 :) :) PUNCT
+67 # # NOUN
+68 uaamazing uaamazing VERB
+69 UAA uaa NOUN
+70 is be VERB
+71 having have VERB
+72 a a DET
+73 Star star NOUN
+74 Wars war NOUN
+75 night night NOUN
+76 at at ADP
+77 the the DET
+78 Commons common NOUN
+79 . . PUNCT
+80 But but CONJ
+81 guys guy NOUN
+82 . . PUNCT
+83 The the DET
+84 gravy gravy NOUN
+85 ... ... PUNCT
+86 # # NOUN
+87 UAAmazing uaamazing VERB
+88     SPACE
+89 when when ADV
+90 u u NOUN
+91 have have VERB
+92 to to PART
+93 pay pay VERB
+94     SPACE
+95 34.12 34.12 NUM
+96 for for ADP
+97 a a DET
+98 semester semester NOUN
+99 of of ADP
+100 college college NOUN
+101 . . PUNCT
+102 :') :') PUNCT
+103 # # NOUN
+104 blessup blessup NOUN
+105 # # NOUN
+106 UAAmazing uaamazing VERB
+107 UAA uaa NOUN
+108 : : PUNCT
+109 fucking fuck VERB
+110 me me NOUN
+111 over over ADP
+112 since since ADP
+113 day day NOUN
+114 1 1 NUM
+115 # # NOUN
+116 UAAMAZING uaamazing NOUN
+117 knew know VERB
+118 I i NOUN
+119 should should VERB
+120 've have VERB
+121 stayed stay VERB
+122 in in ADP
+123 Maryland maryland NOUN
+124 . . PUNCT
+125 # # NOUN
+126 CSM csm NOUN
+127 would would VERB
+128 n't not ADV
+129 have have VERB
+130 done do VERB
+131 me me NOUN
+132 like like ADP
+133 this this DET
+134 . . PUNCT
+135 @WillowLeedy @willowleedy NOUN
+136 @camelovidov @camelovidov NUM
+137 @Ch2KTUU @ch2ktuu NOUN
+138 # # NOUN
+139 UAAmazing uaamazing VERB
+140 @emilyjanaewood @emilyjanaewood NOUN
+141 update update NOUN
+142 : : PUNCT
+143 I i NOUN
+144 paid pay VERB
+145     SPACE
+146 6 6 NUM
+147 for for ADP
+148 a a DET
+149 2/3 2/3 NUM
+150 full full ADJ
+151 cup cup NOUN
+152 of of ADP
+153 soy soy NOUN
+154 milk milk NOUN
+155 . . PUNCT
+156 # # PUNCT
+157 UAAmazing uaamazing VERB
+158 UAA uaa NOUN
+159 , , PUNCT
+160 where where ADV
+161 you you NOUN
+162 have have VERB
+163 to to PART
+164 drive drive VERB
+165 around around ADV
+166 the the DET
+167 lot lot NOUN
+168 for for ADP
+169 twenty twenty NUM
+170 minutes minute NOUN
+171 just just ADV
+172 to to PART
+173 find find VERB
+174 a a DET
+175 goddamn goddamn ADJ
+176 parking parking NOUN
+177 spot spot NOUN
+178 . . PUNCT
+179 # # PUNCT
+180 uaamazing uaamazing VERB
+181 No no DET
+182 damage damage NOUN
+183 has have VERB
+184 been be VERB
+185 reported report VERB
+186 to to ADP
+187 the the DET
+188 @UAAParking @uaapark VERB
+189 structures- structures- NOUN
+190 if if ADP
+191 you you NOUN
+192 notice notice VERB
+193 a a DET
+194 problem problem NOUN
+195 , , PUNCT
+196 report report VERB
+197 it it NOUN
+198 right right ADV
+199 away away ADV
+200 , , PUNCT
+201 # # NOUN
+202 UAAmazing uaamazing VERB
+203 . . PUNCT
+204 I i NOUN
+205 feel feel VERB
+206 like like ADP
+207 everyday everyday NOUN
+208 is be VERB
+209 pick pick VERB
+210 on on ADP
+211 the the DET
+212 freshman freshman NOUN
+213 day day NOUN
+214 here here ADV
+215 . . PUNCT
+216 # # PUNCT
+217 UAAmazing uaamazing VERB
+218 Make make NOUN
+219 lots lot NOUN
+220 of of ADP
+221 money money NOUN
+222 . . PUNCT
+223 # # PUNCT
+224 BeAnEngineer beanengineer NOUN
+225 # # NOUN
+226 UAAmazing uaamazing VERB
+227 I i NOUN
+228 swear swear VERB
+229 this this DET
+230 nigga nigga NOUN
+231 behind behind ADP
+232 me me NOUN
+233 getting get VERB
+234 topped top VERB
+235 off off PART
+236 in in ADP
+237 class class NOUN
+238 . . PUNCT
+239 # # PUNCT
+240 UAAmazing uaamazing VERB
+241 UAA uaa NOUN
+242 Snaps snap NOUN
+243 confirms confirm VERB
+244 my my ADJ
+245 belief belief NOUN
+246 that that ADP
+247 there there ADV
+248 is be VERB
+249 no no DET
+250 hope hope NOUN
+251 in in ADP
+252 the the DET
+253 future future NOUN
+254 for for ADP
+255 most most ADJ
+256 of of ADP
+257 my my ADJ
+258 peers peer NOUN
+259 . . PUNCT
+260 # # PUNCT
+261 VapeLyfe vapelyfe NOUN
+262 # # NOUN
+263 BACgoingup bacgoingup NOUN
+264 # # NOUN
+265 GPAgoingdown gpagoingdown NOUN
+266 # # NOUN
+267 UAAmazing uaamazing VERB
+268 @AKEPSCoR @akepscor NOUN
+269 @UAFGI @uafgi NOUN
+270 dude dude NOUN
+271 's ' VERB
+272 a a DET
+273 beast beast NOUN
+274 ! ! PUNCT
+275 # # PUNCT
+276 uaamazing uaamazing NOUN
+277 # # NOUN
+278 Alaska alaska NOUN
+279 # # NOUN
+280 mountains mountain NOUN
+281 # # PUNCT
+282 sunrise sunrise NOUN
+283 # # NOUN
+284 uaamazing uaamazing VERB
+285 @uaaphotos @uaaphoto NOUN
+286 ( ( PUNCT
+287 at at ADP
+288 UAA uaa NOUN
+289 Administration administration NOUN
+290 Building building NOUN
+291 ) ) PUNCT
+292 . . PUNCT
+293 It it NOUN
+294 's ' VERB
+295 so so ADV
+296 frustrating frustrating ADJ
+297 to to PART
+298 not not ADV
+299 be be VERB
+300 able able ADJ
+301 to to PART
+302 get get VERB
+303 parking parking NOUN
+304 because because ADP
+305 everyone everyone NOUN
+306 parks park VERB
+307 like like ADP
+308 they they NOUN
+309 've have VERB
+310 never never ADV
+311 driven drive VERB
+312 a a DET
+313 car car NOUN
+314 before before ADV
+315 . . PUNCT
+316 # # NOUN
+317 UAAmazing uaamazing VERB
+318     SPACE
+319 @crazy808lexi @crazy808lexi NOUN
+320 # # NOUN
+321 UAAmazing uaamazing NOUN
+322 # # NOUN
+323 uaamazing uaamazing VERB
+324 love love NOUN
+325 these these DET
+326 high high ADJ
+327 quality quality NOUN
+328 machines machine NOUN
+329 . . PUNCT
+330 Special special ADJ
+331 Announcement announcement NOUN
+332 : : PUNCT
+333 New new NOUN
+334 Hours hour NOUN
+335 of of ADP
+336 Operation- operation- NOUN
+337 # # NOUN
+338 UAASHCC uaashcc NOUN
+339 # # NOUN
+340 UAAmazing uaamazing NOUN
+341 . . PUNCT
+342 Make make VERB
+343 a a DET
+344 plan plan NOUN
+345 to to PART
+346 see see VERB
+347 this this DET
+348 compelling compelling ADJ
+349 film film NOUN
+350 . . PUNCT
+351 Jan jan NOUN
+352 20th 20th NOUN
+353 , , PUNCT
+354 Gorsuch gorsuch NOUN
+355 Commons common NOUN
+356 , , PUNCT
+357 Jan jan NOUN
+358 21st 21st NOUN
+359 in in ADP
+360 the the DET
+361 SU su NOUN
+362 Den den NOUN
+363 . . PUNCT
+364 # # PUNCT
+365 UAASHCC uaashcc NOUN
+366 # # NOUN
+367 UAAmazing uaamazing VERB
+368 Last last ADJ
+369 day day NOUN
+370 of of ADP
+371 Lean lean NOUN
+372 Six six NOUN
+373 Sigma sigma NOUN
+374 training training NOUN
+375 ! ! PUNCT
+376 # # PUNCT
+377 uaamazing uaamazing VERB
+378 @uaaphotos @uaaphoto NOUN
+379 ( ( PUNCT
+380 at at ADP
+381 UAA uaa NOUN
+382 - - PUNCT
+383 University university NOUN
+384 Center center NOUN
+385 ) ) PUNCT
+386 I i NOUN
+387 'm be VERB
+388 glad glad ADJ
+389 you you NOUN
+390 said say VERB
+391 " " PUNCT
+392 hola hola NOUN
+393 " " PUNCT
+394 walking walk VERB
+395 into into ADP
+396 class class NOUN
+397 because because ADP
+398 otherwise otherwise ADV
+399 I i NOUN
+400 would would VERB
+401 not not ADV
+402 have have VERB
+403 known know VERB
+404 whether whether ADP
+405 Spanish spanish ADJ
+406 meets meet NOUN
+407 in in ADP
+408 143A 143a NUM
+409 or or CONJ
+410 143B. 143b. NUM
+411 # # NOUN
+412 UAAmazing uaamazing VERB
+413 Lol lol NOUN
+414     SPACE
+415 150 150 NUM
+416 to to PART
+417 rent rend VERB
+418 one one NUM
+419 book book NOUN
+420 . . PUNCT
+421 Not not ADV
+422 gonna gonna ADV
+423 happen happen VERB
+424 . . PUNCT
+425 # # NOUN
+426 UAAmazing uaamazing VERB
+427 UAA uaa NOUN
+428 : : PUNCT
+429 Where where ADV
+430 textbook textbook NOUN
+431 reservations reservation NOUN
+432 turn turn VERB
+433 into into ADP
+434 textbook textbook NOUN
+435 IOUs iou NOUN
+436 right right ADJ
+437 before before ADP
+438 your your ADJ
+439 innocent innocent ADJ
+440 eyes eye NOUN
+441 . . PUNCT
+442 # # PUNCT
+443 UAAmazing uaamazing VERB
+444 And and CONJ
+445 we we NOUN
+446 are be VERB
+447 sold sell VERB
+448 out out PART
+449 ! ! PUNCT
+450 Thank thank VERB
+451 you you NOUN
+452 , , PUNCT
+453 Anchorage anchorage NOUN
+454 for for ADP
+455 caring care VERB
+456 about about ADP
+457 civil civil ADJ
+458 discourse discourse NOUN
+459 ! ! PUNCT
+460 # # PUNCT
+461 arguingalaska arguingalaska NOUN
+462 # # NOUN
+463 uaamazing uaamazing VERB
+464 Took took NOUN
+465 a a DET
+466 semester semester NOUN
+467 off off PART
+468 , , PUNCT
+469 glad glad ADJ
+470 to to PART
+471 see see VERB
+472 that that ADP
+473 the the DET
+474 puddle puddle NOUN
+475 of of ADP
+476 piss piss NOUN
+477 and and CONJ
+478 pubes pubes NOUN
+479 called call VERB
+480 the the DET
+481 " " PUNCT
+482 men man NOUN
+483 's 's PART
+484 bathroom bathroom NOUN
+485 " " PUNCT
+486 in in ADP
+487 the the DET
+488 SSB ssb NOUN
+489 is be VERB
+490 still still ADV
+491 there there ADV
+492 . . PUNCT
+493 # # PUNCT
+494 UAAmazing uaamazing VERB
+495 I i NOUN
+496 mean mean VERB
+497 , , PUNCT
+498 it it NOUN
+499 'd would VERB
+500 be be VERB
+501 nice nice ADJ
+502 if if ADP
+503 someone someone NOUN
+504 would would VERB
+505 put put VERB
+506 down down PART
+507 icemelt icemelt NOUN
+508 for for ADP
+509 the the DET
+510 first first ADJ
+511 day day NOUN
+512 off off ADP
+513 classes class NOUN
+514 .. .. PUNCT
+515 # # NOUN
+516 uaamazing uaamazing NOUN
+517 # # NOUN
+518 ouch ouch NOUN
+519 College college NOUN
+520 textbooks textbook NOUN
+521 priced price VERB
+522 like like ADP
+523 they they NOUN
+524 're 're VERB
+525 all all ADV
+526 leaked leak VERB
+527 copies copy NOUN
+528 of of ADP
+529 the the DET
+530 next next ADJ
+531 Game game NOUN
+532 of of ADP
+533 Thrones throne NOUN
+534 book book NOUN
+535 . . PUNCT
+536 # # PUNCT
+537 UAAmazing uaamazing VERB
+538 When when ADV
+539 the the DET
+540 UAA uaa NOUN
+541 bookstore bookstore NOUN
+542 did do VERB
+543 n't not ADV
+544 pull pull VERB
+545 your your ADJ
+546 preordered preordered ADJ
+547 books book NOUN
+548 off off ADP
+549 the the DET
+550 shelf shelf NOUN
+551 . . PUNCT
+552 # # PUNCT
+553 UAAmazing uaamazing VERB
+554 According accord VERB
+555 to to ADP
+556 blackboard blackboard NOUN
+557 , , PUNCT
+558 I i NOUN
+559 have have VERB
+560 one one NUM
+561 class class NOUN
+562 this this DET
+563 semester semester NOUN
+564 instead instead ADV
+565 of of ADP
+566 5 5 NUM
+567 . . PUNCT
+568 # # NOUN
+569 UAAmazing uaamazing VERB
+570 @JensenElijah @jensenelijah NOUN
+571 # # NOUN
+572 funfact funfact NOUN
+573 # # NOUN
+574 uaamazing uaamazing NOUN
+575 is be VERB
+576 the the DET
+577 2nd 2nd ADJ
+578 cheapest cheap ADJ
+579 school school NOUN
+580 in in ADP
+581 America america NOUN
+582 ! ! PUNCT
+583 Got got NOUN
+584 Health health NOUN
+585 Insurance insurance NOUN
+586 ? ? PUNCT
+587 No no DET
+588 ? ? PUNCT
+589 Help help NOUN
+590 is be VERB
+591 arriving arrive VERB
+592 at at ADP
+593 # # SYM
+594 UAA uaa NOUN
+595 on on ADP
+596 January january NOUN
+597 13th 13th NOUN
+598 , , PUNCT
+599 in in ADP
+600 the the DET
+601 SU. su. NOUN
+602 10 10 NUM
+603 - - PUNCT
+604 2pm 2pm NOUN
+605 . . PUNCT
+606 # # PUNCT
+607 UAASHCC uaashcc NOUN
+608 # # NOUN
+609 UAAmazing uaamazing VERB
+610 22 22 NUM
+611 % % NOUN
+612 Graduation graduation NOUN
+613 rate rate NOUN
+614 at at ADP
+615 UAA. uaa. ADJ
+616 # # NOUN
+617 UAAmazing uaamazing VERB
+618 I i NOUN
+619 love love VERB
+620 the the DET
+621 new new ADJ
+622 black black ADJ
+623 board board NOUN
+624 update update NOUN
+625 . . PUNCT
+626 # # PUNCT
+627 uaamazing uaamazing VERB
+628 So so ADV
+629 happy happy ADJ
+630 I i NOUN
+631 have have VERB
+632 another another DET
+633 week week NOUN
+634 off off ADV
+635 before before ADP
+636 school school NOUN
+637 starts start VERB
+638 again again ADV
+639 . . PUNCT
+640 # # PUNCT
+641 uaamazing uaamazing VERB
+642 Mr. mr. NOUN
+643 A a NOUN
+644 is be VERB
+645 one one NUM
+646 of of ADP
+647 the the DET
+648 most most ADV
+649 genuine genuine ADJ
+650 people people NOUN
+651 I i NOUN
+652 've have VERB
+653 had have VERB
+654 the the DET
+655 privilige privilige NOUN
+656 of of ADP
+657 meeting meeting NOUN
+658 . . PUNCT
+659 Truly truly NOUN
+660 inspiring inspire VERB
+661 . . PUNCT
+662 # # NOUN
+663 UAAmazing uaamazing VERB
+664 My my ADJ
+665 textbooks textbook NOUN
+666 for for ADP
+667 this this DET
+668 semester semester NOUN
+669 are be VERB
+670 going go VERB
+671 to to PART
+672 cost cost VERB
+673 more more ADJ
+674 than than ADP
+675 what what NOUN
+676 I i NOUN
+677 even even ADV
+678 pay pay VERB
+679 out out ADP
+680 of of ADP
+681 pocket pocket NOUN
+682 for for ADP
+683 tuition tuition NOUN
+684 . . PUNCT
+685 # # PUNCT
+686 uaamazing uaamazing NOUN
+687 # # NOUN
+688 butreally butreally ADV
+689 Education education NOUN
+690 alumnus alumnus NOUN
+691 Adam adam NOUN
+692 Ahonen ahonen NOUN
+693 discusses discuss VERB
+694 his his ADJ
+695 career career NOUN
+696 helming helming NOUN
+697 Service service NOUN
+698 High high NOUN
+699 School school NOUN
+700 s  NOUN
+701 special special ADJ
+702 ed ed NOUN
+703 program program NOUN
+704 http://ow.ly/Wcipb http://ow.ly/wcipb X
+705 . . PUNCT
+706 # # NOUN
+707 UAAmazing uaamazing NOUN
+708 # # SYM
+709 2 2 NUM
+710 Johanna johanna NOUN
+711 and and CONJ
+712 JT jt NOUN
+713 broke break VERB
+714 33rd 33rd ADV
+715 at at ADP
+716 the the DET
+717 World world NOUN
+718 Universities university NOUN
+719 Debating debating NOUN
+720 Championship championship NOUN
+721 in in ADP
+722 Thessaloniki thessaloniki NOUN
+723 ! ! PUNCT
+724 ! ! PUNCT
+725 ! ! PUNCT
+726 They they NOUN
+727 're 're VERB
+728 going go VERB
+729 to to PART
+730 elim elim VERB
+731 rounds round NOUN
+732 ! ! PUNCT
+733 # # NOUN
+734 uaamazing uaamazing NOUN
+735 # # NOUN
+736 wudc wudc NOUN
+737 Going go VERB
+738 into into ADP
+739 round round ADJ
+740 6 6 NUM
+741 , , PUNCT
+742 JT jt NOUN
+743 and and CONJ
+744 Johanna johanna NOUN
+745 are be VERB
+746 sitting sit VERB
+747 on on ADP
+748 10 10 NUM
+749 points point NOUN
+750 . . PUNCT
+751 They they NOUN
+752 drew draw VERB
+753 OG og NOUN
+754 against against ADP
+755 Monash monash NOUN
+756 x2 x2 NOUN
+757 and and CONJ
+758 LSE. lse. NOUN
+759 Waiting wait VERB
+760 for for ADP
+761 results result NOUN
+762 . . PUNCT
+763 # # PUNCT
+764 wudc wudc NOUN
+765 # # NOUN
+766 uaa uaa ADJ
+767 Dont dont NOUN
+768 forget forget VERB
+769 ! ! PUNCT
+770 You you NOUN
+771 can can VERB
+772 still still ADV
+773 donate donate VERB
+774 and and CONJ
+775 save save VERB
+776 @UAA_Bookstore @uaa_bookstore NUM
+777 until until ADP
+778 the the DET
+779 24th 24th NOUN
+780 . . PUNCT
+781 # # PUNCT
+782 SeasonOfSavings seasonofsavings NOUN
+783 # # PUNCT
+784 Uaamazing uaamazing NOUN
+785 Holiday holiday NOUN
+786 Special special NOUN
+787 Hours hour NOUN
+788 of of ADP
+789 Operation operation NOUN
+790 . . PUNCT
+791 # # NOUN
+792 UAASHCC uaashcc NOUN
+793 # # NOUN
+794 UAAmazing uaamazing NOUN
+795 # # NOUN
+796 uaamazing uaamazing NOUN
+797 should should VERB
+798 b b VERB
+799 added add VERB
+800 to to ADP
+801 that that DET
+802 last last ADJ
+803 tweet tweet NOUN
+804 Bruh bruh NOUN
+805 ... ... PUNCT
+806 same same ADJ
+807 # # NOUN
+808 uaamazing uaamazing VERB
+809 Gonfalon gonfalon NOUN
+810 for for ADP
+811 @uaanchorage @uaanchorage NOUN
+812 College college NOUN
+813 of of ADP
+814 Arts art NOUN
+815 & & CONJ
+816 Sciences science NOUN
+817 2015 2015 NUM
+818 Fall fall NOUN
+819 Commencement commencement NOUN
+820 ! ! PUNCT
+821 Congrats congrats ADJ
+822 Grads grad NOUN
+823 ! ! PUNCT
+824 # # NOUN
+825 uaamazing uaamazing VERB
+826     SPACE
+827 Congratulations congratulation NOUN
+828 to to ADP
+829 the the DET
+830 Class class NOUN
+831 of of ADP
+832 2015 2015 NUM
+833 ! ! PUNCT
+834 ! ! PUNCT
+835 # # NOUN
+836 UAAGrad uaagrad NOUN
+837 # # NOUN
+838 UAAmazing uaamazing VERB
+839 Commencement commencement NOUN
+840 speaker speaker NOUN
+841 Ruddy ruddy NOUN
+842 Abam abam NOUN
+843 offering offer VERB
+844 her her ADJ
+845 congratulations congratulation NOUN
+846 to to ADP
+847 # # SYM
+848 UAAGrad uaagrad NOUN
+849 Fall fall NOUN
+850 2015 2015 NUM
+851 . . PUNCT
+852 # # NOUN
+853 uaamazing uaamazing VERB
+854 https://www.instagram.com/p/_P9ygmtYRn/ https://www.instagram.com/p/_p9ygmtyrn/ X
+855     SPACE
+856 # # NOUN
+857 commencement commencement NOUN
+858 graduation graduation NOUN
+859 # # NOUN
+860 volunteer volunteer NOUN
+861 # # NOUN
+862 uaamazing uaamazing VERB
+863 ( ( PUNCT
+864 @ @ ADP
+865 Alaska alaska NOUN
+866 Airlines airline NOUN
+867 Center center NOUN
+868 in in ADP
+869 Anchorage anchorage NOUN
+870 , , PUNCT
+871 AK ak NOUN
+872 ) ) PUNCT
+873 . . PUNCT
+874 https://www.swarmapp.com/c/e2TmdxpgD43 https://www.swarmapp.com/c/e2tmdxpgd43 X
+875     SPACE
+876 Hats hat VERB
+877 off off PART
+878 to to ADP
+879 all all ADJ
+880 our our ADJ
+881 # # NOUN
+882 UAAmazing uaamazing VERB
+883 Fall fall NOUN
+884 2015 2015 NUM
+885 gaduates gaduates NOUN
+886 ! ! PUNCT
+887 When when ADV
+888 you you NOUN
+889 had have VERB
+890 an an DET
+891 A a NOUN
+892 in in ADP
+893 English english NOUN
+894 all all DET
+895 semester semester NOUN
+896 and and CONJ
+897 the the DET
+898 day day NOUN
+899 after after ADP
+900 your your ADJ
+901 last last ADJ
+902 class class NOUN
+903 he he NOUN
+904 decides decide VERB
+905 to to PART
+906 enter enter VERB
+907 participation participation NOUN
+908 and and CONJ
+909 fuck fuck NOUN
+910 you you NOUN
+911 over over ADV
+912 . . PUNCT
+913 # # PUNCT
+914 uaamazing uaamazing VERB
+915 Like like ADP
+916 seriously seriously ADV
+917 come come VERB
+918 on on PART
+919 ! ! PUNCT
+920 Bump bump VERB
+921 my my ADJ
+922 overall overall ADJ
+923 89 89 NUM
+924 % % NOUN
+925 to to ADP
+926 an an DET
+927 A. a. NOUN
+928 # # NOUN
+929 uaamazing uaamazing VERB
+930 Off off NOUN
+931 to to PART
+932 represent represent VERB
+933 UAA uaa NOUN
+934 : : PUNCT
+935 University university NOUN
+936 of of ADP
+937 Alaska alaska NOUN
+938 Anchorage anchorage NOUN
+939 students student NOUN
+940 at at ADP
+941 the the DET
+942 Board board NOUN
+943 of of ADP
+944 Regents regent NOUN
+945 meeting meeting NOUN
+946 at at ADP
+947 UAF uaf NOUN
+948 ! ! PUNCT
+949 # # NOUN
+950 uaamazing uaamazing NOUN
+951 ... ... PUNCT
+952 http://fb.me/751hfv8rn http://fb.me/751hfv8rn X
+953     SPACE
+954 bye bye INTJ
+955 UAA uaa NOUN
+956 thanks thanks NOUN
+957 for for ADP
+958 the the DET
+959 3 3 NUM
+960 semesters semester NOUN
+961 lol lol ADV
+962 . . PUNCT
+963 # # PUNCT
+964 UAAmazing uaamazing VERB
+965 My my ADJ
+966 professor professor NOUN
+967 literally literally ADV
+968 made make VERB
+969 a a DET
+970 phone phone NOUN
+971 call call NOUN
+972 in in ADP
+973 the the DET
+974 middle middle NOUN
+975 of of ADP
+976 our our ADJ
+977 final final ADJ
+978 , , PUNCT
+979 using use VERB
+980 a a DET
+981 student student NOUN
+982 's 's PART
+983 phone phone NOUN
+984 , , PUNCT
+985 because because ADP
+986 she she NOUN
+987 lost lose VERB
+988 her her ADJ
+989 own own ADJ
+990 ... ... PUNCT
+991 # # X
+992 UAAmazing uaamazing VERB
+993 We we NOUN
+994 ca can VERB
+995 nt not ADV
+996 even even ADV
+997 load load VERB
+998 a a DET
+999 TV tv NOUN
+1000 SHOW show NOUN
+1001 on on ADP
+1002 residence residence NOUN
+1003 wifi wifi NOUN
+1004 . . PUNCT
+1005 # # PUNCT
+1006 uaamazing uaamazing VERB
+1007 I i NOUN
+1008 just just ADV
+1009 discovered discover VERB
+1010 that that ADP
+1011 I i NOUN
+1012 have have VERB
+1013 a a DET
+1014 view view NOUN
+1015 of of ADP
+1016 # # SYM
+1017 Denali denali NOUN
+1018 from from ADP
+1019 my my ADJ
+1020 office office NOUN
+1021 window window NOUN
+1022 . . PUNCT
+1023 # # PUNCT
+1024 JustTheTip justthetip NOUN
+1025 # # NOUN
+1026 ItCounts itcounts NOUN
+1027 # # PUNCT
+1028 uaamazing uaamazing NOUN
+1029 # # NOUN
+1030 Alaska alaska NOUN
+1031     SPACE
+1032 JT jt NOUN
+1033 and and CONJ
+1034 Johanna johanna NOUN
+1035 WIN win NOUN
+1036 the the DET
+1037 # # NOUN
+1038 seattleiv seattleiv NOUN
+1039 . . PUNCT
+1040 # # PUNCT
+1041 UAAmazing uaamazing VERB
+1042 @sklauder9 @sklauder9 X
+1043 I i NOUN
+1044 'm be VERB
+1045 gonna gonna NOUN
+1046 take take VERB
+1047 a a DET
+1048 swing swing NOUN
+1049 at at ADP
+1050 the the DET
+1051 dean dean NOUN
+1052 of of ADP
+1053 students student NOUN
+1054 too too ADV
+1055 . . PUNCT
+1056 # # PUNCT
+1057 uaamazing uaamazing VERB
+1058 When when ADV
+1059 blackboard blackboard NOUN
+1060 is be VERB
+1061 down down ADV
+1062 for for ADP
+1063 scheduled schedule VERB
+1064 maintenance maintenance NOUN
+1065 the the DET
+1066 day day NOUN
+1067 before before ADP
+1068 finals final NOUN
+1069 week week NOUN
+1070 starts start VERB
+1071 .... .... PUNCT
+1072 # # NOUN
+1073 uaamazing uaamazing VERB
+1074 UAAs uaas NOUN
+1075 wifi wifi NOUN
+1076 is be VERB
+1077 forever forever ADV
+1078 shitty shitty NOUN
+1079 . . PUNCT
+1080 # # PUNCT
+1081 uaamazing uaamazing VERB
+1082  ' PUNCT
+1083 Twas twas VERB
+1084 the the DET
+1085 week week NOUN
+1086 before before ADP
+1087 finals#uaamazing finals#uaamaz VERB
+1088 ( ( PUNCT
+1089 at at ADP
+1090 UAA uaa NOUN
+1091 : : PUNCT
+1092 University university NOUN
+1093 of of ADP
+1094 Alaska alaska NOUN
+1095 Anchorage anchorage NOUN
+1096 ) ) PUNCT
+1097 Rocky rocky NOUN
+1098 research research NOUN
+1099 : : PUNCT
+1100 # # NOUN
+1101 UAA uaa NOUN
+1102 geology geology NOUN
+1103 student student NOUN
+1104 Ian ian NOUN
+1105 Minnock minnock NOUN
+1106 takes take VERB
+1107 extracurricular extracurricular ADJ
+1108 to to ADP
+1109 a a DET
+1110 whole whole ADJ
+1111 new new ADJ
+1112 level level NOUN
+1113 . . PUNCT
+1114 http://ow.ly/V5iy0 http://ow.ly/v5iy0 X
+1115 # # NOUN
+1116 UAAmazing uaamazing NOUN
+1117 # # NOUN
+1118 IAMUAA iamuaa NOUN
+1119 Photobombed photobombed NOUN
+1120 by by ADP
+1121 Jim jim NOUN
+1122 ! ! PUNCT
+1123 Having have VERB
+1124 a a DET
+1125 blast blast NOUN
+1126 at at ADP
+1127 the the DET
+1128 @GCIAK @gciak NOUN
+1129 Great great NOUN
+1130 # # PUNCT
+1131 Alaska alaska NOUN
+1132 Shootout shootout NOUN
+1133 ! ! PUNCT
+1134 # # NOUN
+1135 seawolfselfie seawolfselfie NOUN
+1136 # # NOUN
+1137 uaamazing uaamazing VERB
+1138 he he NOUN
+1139 Seawolves seawolves NOUN
+1140 are be VERB
+1141 up up PART
+1142 by by ADP
+1143 1 1 NUM
+1144 at at ADP
+1145 the the DET
+1146 half half NOUN
+1147 of of ADP
+1148 the the DET
+1149 GCI gci NOUN
+1150 Great great NOUN
+1151 Alaska alaska NOUN
+1152 Shootout shootout NOUN
+1153 ! ! PUNCT
+1154 It it NOUN
+1155 's ' VERB
+1156 32 32 NUM
+1157 - - SYM
+1158 31 31 NUM
+1159 . . PUNCT
+1160 # # PUNCT
+1161 GreatAKShootout greatakshootout NOUN
+1162 # # NOUN
+1163 WKU wku NOUN
+1164 # # NOUN
+1165 uaamazing uaamazing NOUN
+1166 # # NOUN
+1167 seawolfnation seawolfnation NOUN
+1168 # # NOUN
+1169 seawolfselfie seawolfselfie NOUN
+1170 # # NOUN
+1171 Uaamazing uaamazing NOUN
+1172 " " PUNCT
+1173 Where where ADV
+1174 " " PUNCT
+1175 drink drink VERB
+1176 until until ADP
+1177 she she NOUN
+1178 's ' VERB
+1179 pretty pretty ADV
+1180 " " PUNCT
+1181 is be VERB
+1182 the the DET
+1183 school school NOUN
+1184 motto motto NOUN
+1185 . . PUNCT
+1186 " " PUNCT
+1187 - - PUNCT
+1188 University university NOUN
+1189 of of ADP
+1190 Alaska alaska NOUN
+1191 Anchorage anchorage NOUN
+1192 final final ADJ
+1193 marketing marketing NOUN
+1194 presentation presentation NOUN
+1195 ! ! PUNCT
+1196 ! ! PUNCT
+1197 ! ! PUNCT
+1198 # # NOUN
+1199 studentlife studentlife NOUN
+1200 # # NOUN
+1201 uaamazing uaamazing NOUN
+1202 # # NOUN
+1203 student student NOUN
+1204 # # NOUN
+1205 bathroomselfie bathroomselfie NOUN
+1206 # # NOUN
+1207 shofie shofie NOUN
+1208 # # NOUN
+1209 bluecrew bluecrew NOUN
+1210 https://instagram.com/p/-VIhkUABt5/ https://instagram.com/p/-vihkuabt5/ X
+1211     SPACE
+1212 # # NOUN
+1213 UAA uaa NOUN
+1214 alumna alumna NOUN
+1215 Rachel rachel NOUN
+1216 Wintz wintz NOUN
+1217 AK ak NOUN
+1218 Hometown hometown NOUN
+1219 Hero hero NOUN
+1220 for for ADP
+1221 work work NOUN
+1222 with with ADP
+1223 Girls girl NOUN
+1224 on on ADP
+1225 the the DET
+1226 Run run NOUN
+1227 AK. ak. NOUN
+1228 # # NOUN
+1229 UAAmazing uaamazing VERB
+1230 http://ow.ly/UTVbz http://ow.ly/utvbz X
+1231     SPACE
+1232 Lunch lunch NOUN
+1233 at at ADP
+1234 the the DET
+1235 Varsity varsity NOUN
+1236 Sports sport NOUN
+1237 Grill grill NOUN
+1238 at at ADP
+1239 the the DET
+1240 @AlaskaAir @alaskaair NOUN
+1241 Arena arena NOUN
+1242 is be VERB
+1243 # # SYM
+1244 uaamazing uaamazing VERB
+1245 . . PUNCT
+1246 Go go VERB
+1247 Seawolves seawolves NOUN
+1248 ! ! PUNCT
+1249 # # PUNCT
+1250 alaska alaska NOUN
+1251 Huge huge ADJ
+1252 congratulations congratulation NOUN
+1253 Glenna glenna NOUN
+1254 Muncy muncy NOUN
+1255 ! ! PUNCT
+1256 Way way NOUN
+1257 to to PART
+1258 represent represent VERB
+1259 the the DET
+1260 green green NOUN
+1261 and and CONJ
+1262 gold gold NOUN
+1263 . . PUNCT
+1264 We we NOUN
+1265 always always ADV
+1266 knew know VERB
+1267 you you NOUN
+1268 were be VERB
+1269 # # PUNCT
+1270 UAAmazing uaamazing VERB
+1271 ! ! PUNCT
+1272 Collaborative collaborative ADJ
+1273 meeting meeting NOUN
+1274 this this DET
+1275 morning morning NOUN
+1276 to to PART
+1277 discuss discuss VERB
+1278 Spring spring ADJ
+1279 events event NOUN
+1280 ! ! PUNCT
+1281 # # PUNCT
+1282 uaamazing uaamazing VERB
+1283 UAA uaa NOUN
+1284 : : PUNCT
+1285 @HilaryCorna @hilarycorna NOUN
+1286 at at ADP
+1287 @uaanchorage @uaanchorage NOUN
+1288 . . PUNCT
+1289 # # PUNCT
+1290 dareyourself dareyourself NOUN
+1291 # # NOUN
+1292 uaamazing uaamazing NOUN
+1293 # # NOUN
+1294 uaaphotos uaaphotos ADJ
+1295 Finding finding NOUN
+1296 things thing NOUN
+1297 to to PART
+1298 do do VERB
+1299 to to PART
+1300 beat beat VERB
+1301 the the DET
+1302 winter winter NOUN
+1303 blues blue NOUN
+1304 , , PUNCT
+1305 on on ADP
+1306 my my ADJ
+1307 dorm dorm NOUN
+1308 roof roof NOUN
+1309 chillin chillin NOUN
+1310 w w ADP
+1311 a a DET
+1312 J. j. NOUN
+1313 # # NOUN
+1314 uaamazing uaamazing VERB
+1315 Finally finally ADV
+1316 finishing finish VERB
+1317 an an DET
+1318 essay essay NOUN
+1319 that that ADJ
+1320 has have VERB
+1321 been be VERB
+1322 stressing stress VERB
+1323 you you NOUN
+1324 out out PART
+1325 for for ADP
+1326 the the DET
+1327 past past ADJ
+1328 2 2 NUM
+1329 weeks week NOUN
+1330 is be VERB
+1331 one one NUM
+1332 of of ADP
+1333 the the DET
+1334 best best ADJ
+1335 feelings feeling NOUN
+1336 . . PUNCT
+1337 # # NOUN
+1338 uaamazing uaamazing VERB
+1339 Me me NOUN
+1340 tryna tryna ADJ
+1341 finish finish NOUN
+1342 this this DET
+1343 5 5 NUM
+1344 page page NOUN
+1345 essay essay NOUN
+1346 , , PUNCT
+1347 and and CONJ
+1348 5 5 NUM
+1349 pages page NOUN
+1350 is be VERB
+1351 n't not ADV
+1352 even even ADV
+1353 a a DET
+1354 lot lot NOUN
+1355 in in ADP
+1356 college college NOUN
+1357 . . PUNCT
+1358 # # PUNCT
+1359 uaamazing uaamazing NOUN
+1360 # # NOUN
+1361 collegelife collegelife NOUN
+1362 @demrys @demry NOUN
+1363 killing kill VERB
+1364 it it NOUN
+1365 . . PUNCT
+1366 # # PUNCT
+1367 UAAmazing uaamazing VERB
+1368 @seawolfdebate @seawolfdebate NOUN
+1369 @uaaphotos @uaaphoto NOUN
+1370 ( ( PUNCT
+1371 at at ADP
+1372 UAA/APU uaa/apu NOUN
+1373 Consortium consortium NOUN
+1374 Library)s library) NOUN
+1375 Full full ADJ
+1376 house house NOUN
+1377 ! ! PUNCT
+1378 120 120 NUM
+1379 people people NOUN
+1380 and and CONJ
+1381 they they NOUN
+1382 keep keep VERB
+1383 coming come VERB
+1384 in in ADV
+1385 . . PUNCT
+1386 # # NOUN
+1387 UAAmazing uaamazing VERB
+1388 Live live ADJ
+1389 stream stream NOUN
+1390 is be VERB
+1391 up up PART
+1392 ! ! PUNCT
+1393 Join join VERB
+1394 us u NOUN
+1395 for for ADP
+1396 a a DET
+1397 public public ADJ
+1398 debate debate NOUN
+1399 at at ADP
+1400 7 7 NUM
+1401 PM. pm. NOUN
+1402 # # NOUN
+1403 uaamazing uaamazing VERB
+1404 http://m.ustream.tv/channel/exhibition http://m.ustream.tv/channel/exhibition NOUN
+1405 - - PUNCT
+1406 debates debate NOUN
+1407   PUNCT
+1408 Regram regram NOUN
+1409 from from ADP
+1410 the the DET
+1411 @akaircenter @akaircenter NOUN
+1412 . . PUNCT
+1413 Stunning stun VERB
+1414 sunset sunset NOUN
+1415 . . PUNCT
+1416 # # PUNCT
+1417 UAAmazing uaamazing NOUN
+1418 # # NOUN
+1419 campusview campusview NOUN
+1420 # # NOUN
+1421 ohwhataview ohwhataview VERB
+1422 https://instagram.com/p/-AdkZzNYW-/ https://instagram.com/p/-adkzznyw-/ X
+1423     SPACE
+1424 I i NOUN
+1425 finished finish VERB
+1426 my my ADJ
+1427 only only ADJ
+1428 college college NOUN
+1429 application application NOUN
+1430 and and CONJ
+1431 it it NOUN
+1432 took take VERB
+1433 me me NOUN
+1434 like like ADP
+1435 20 20 NUM
+1436 minutes minute NOUN
+1437 . . PUNCT
+1438 # # PUNCT
+1439 UAAmazing uaamazing NOUN
+1440 # # NOUN
+1441 Bless bless NOUN
+1442     SPACE
+1443 Not not ADV
+1444 looking look VERB
+1445 forward forward ADV
+1446 to to ADP
+1447 the the DET
+1448 3 3 NUM
+1449 night night NOUN
+1450 classes class NOUN
+1451 I i NOUN
+1452 have have VERB
+1453 next next ADJ
+1454 semester semester NOUN
+1455 from from ADP
+1456 5:30 5:30 NUM
+1457 - - PUNCT
+1458 9:30 9:30 NUM
+1459 . . PUNCT
+1460 # # NOUN
+1461 uaamazing uaamazing VERB
+1462 hands hand NOUN
+1463 down down ADV
+1464 Prof prof NOUN
+1465 . . PUNCT
+1466 Trotter trotter NOUN
+1467 is be VERB
+1468 my my ADJ
+1469 favorite favorite ADJ
+1470 prof prof NOUN
+1471 right right ADV
+1472 now now ADV
+1473 ! ! PUNCT
+1474 boom boom NOUN
+1475 # # NOUN
+1476 100 100 NUM
+1477 . . PUNCT
+1478 # # NOUN
+1479 uaamazing uaamazing NOUN
+1480 # # NOUN
+1481 studentlife studentlife NOUN
+1482 When when ADV
+1483 you you NOUN
+1484 spill spill VERB
+1485 all all ADJ
+1486 the the DET
+1487 daphnia daphnia NOUN
+1488 in in ADP
+1489 your your ADJ
+1490 bio bio ADJ
+1491 lab lab NOUN
+1492 . . PUNCT
+1493 # # PUNCT
+1494 uaamazing uaamazing VERB
+1495 Well well INTJ
+1496 ... ... PUNCT
+1497 it it NOUN
+1498 took take VERB
+1499 me me NOUN
+1500 about about ADP
+1501 20 20 NUM
+1502 mins min NOUN
+1503 but but CONJ
+1504 I i NOUN
+1505 managed manage VERB
+1506 to to PART
+1507 get get VERB
+1508 an an DET
+1509 almost almost ADV
+1510 halfway halfway NOUN
+1511 decent decent ADJ
+1512 parking parking NOUN
+1513 spot spot NOUN
+1514 at at ADP
+1515 the the DET
+1516 UAA uaa NOUN
+1517 library library NOUN
+1518 . . PUNCT
+1519 # # PUNCT
+1520 UAAmazing uaamazing VERB
+1521 Read read NOUN
+1522 about about ADV
+1523 # # SYM
+1524 UAA uaa NOUN
+1525 student student NOUN
+1526 Kyle kyle NOUN
+1527 Worl worl NOUN
+1528 's 's PART
+1529 Second second NOUN
+1530 Bridge bridge NOUN
+1531 project project NOUN
+1532 in in ADP
+1533 Chevak chevak NOUN
+1534 , , PUNCT
+1535 AK. ak. NOUN
+1536 http://ow.ly/UrHyA http://ow.ly/urhya X
+1537     SPACE
+1538 # # NOUN
+1539 UAAmazing uaamazing VERB
+1540 APD apd NOUN
+1541 : : PUNCT
+1542 Closes close NOUN
+1543 roads road NOUN
+1544 . . PUNCT
+1545 ASD asd NOUN
+1546 : : PUNCT
+1547 Cancels cancel NOUN
+1548 school school NOUN
+1549 . . PUNCT
+1550 APU apu NOUN
+1551 : : PUNCT
+1552 Cancels cancel NOUN
+1553 campus campus NOUN
+1554 classes class NOUN
+1555 . . PUNCT
+1556 UAA uaa NOUN
+1557 : : PUNCT
+1558 Lol lol NOUN
+1559 . . PUNCT
+1560 You you NOUN
+1561 be be VERB
+1562 aiight aiight VERB
+1563 . . PUNCT
+1564 Put put VERB
+1565 on on PART
+1566 a a DET
+1567 hat hat NOUN
+1568 and and CONJ
+1569 get get VERB
+1570 over over PART
+1571 here here ADV
+1572 . . PUNCT
+1573 # # PUNCT
+1574 uaamazing uaamazing VERB
+1575 When when ADV
+1576 ASD asd NOUN
+1577 and and CONJ
+1578 APU apu NOUN
+1579 cancel cancel VERB
+1580 their their ADJ
+1581 classes class NOUN
+1582 for for ADP
+1583 today today NOUN
+1584 but but CONJ
+1585 UAA uaa NOUN
+1586 does do VERB
+1587 n't not ADV
+1588 . . PUNCT
+1589 # # PUNCT
+1590 uaamazing uaamazing VERB
+1591     SPACE
+1592 Service service NOUN
+1593 High high NOUN
+1594 seniors senior NOUN
+1595 at at ADP
+1596 the the DET
+1597 UAA uaa NOUN
+1598 Preview preview NOUN
+1599 Day day NOUN
+1600 event event NOUN
+1601 today today NOUN
+1602 . . PUNCT
+1603 # # PUNCT
+1604 DAB dab NOUN
+1605 # # NOUN
+1606 UAAmazing uaamazing NOUN
+1607 # # NOUN
+1608 907 907 NUM
+1609 # # NOUN
+1610 ServiceHighSchool servicehighschool NOUN
+1611 # # NOUN
+1612 ClassOf2016 classof2016 NOUN
+1613     SPACE
