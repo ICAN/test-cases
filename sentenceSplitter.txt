@@ -134,4 +134,14 @@ Version 1.7.0 of the Noobs operating system contains the most recent version of 
 
 Try to download the dmg at developer.apple.com/downloads (Command line tools OS X 10.11) for XCode 7.1.
 
+I think they meant “...finds inspiration in cooking, her family, and her dog.”
+
+The Scarecrow and the Tin Woodman stood up in a corner and kept quiet all night, although of course they could not sleep. - L. Frank Baum
+
+Because they did not understand English grammar very well, they came to this web page and posted inaccurate examples in the comment section. :)
+
+The following command takes nlp4j.txt and generates nlp4j.txt.nlp using config-decode-en.xml.
+
+Hyperlinks are recognized as one unit (alaska.edu, jmister@gmail.com, index.html).
+
 
